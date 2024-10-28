@@ -1,0 +1,2735 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202303 will be lost/reset.
+# Last config file used to build this data file was /home/insidejo/tmp/awstats/awstats.insidejo.webd.pl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2695                
+POS_VISITOR 54742               
+POS_DAY 87999               
+POS_DOMAIN 3741                
+POS_LOGIN 4745                
+POS_ROBOT 4900                
+POS_WORMS 6558                
+POS_EMAILSENDER 6689                
+POS_EMAILRECEIVER 6832                
+POS_SESSION 88949               
+POS_SIDER 89162               
+POS_FILETYPES 6967                
+POS_DOWNLOADS 7227                
+POS_OS 8159                
+POS_BROWSER 8497                
+POS_SCREENSIZE 12164               
+POS_UNKNOWNREFERER 12238               
+POS_UNKNOWNREFERERBROWSER 14278               
+POS_ORIGIN 15301               
+POS_SEREFERRALS 15451               
+POS_PAGEREFS 15838               
+POS_SEARCHWORDS 16500               
+POS_KEYWORDS 16652               
+POS_MISC 2359                
+POS_ERRORS 16711               
+POS_CLUSTER 4601                
+POS_SIDER_404 16843               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230401000623 423 95203 10385322908275
+FirstTime 20230301010439
+LastTime 20230331234646
+LastUpdate 20230401160603 423 0 422 0 0
+TotalVisits 1017                
+TotalUnique 731                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 902                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 97 343 64644883 274 835 156247553
+1 77 154 100245267 960 1470 131161323
+2 98 135 11639857 286 670 127687860
+3 129 172 11117599 165 650 155976918
+4 102 242 46502641 252 780 123875944
+5 62 259 68914579 453 976 198812744
+6 118 263 18741342 297 750 100577508
+7 128 429 89647636 288 839 118194452
+8 134 302 53375947 386 846 173725303
+9 138 789 201452980 303 776 111616049
+10 215 847 202020330 230 810 132597274
+11 245 1093 289460653 232 753 124157013
+12 142 924 231246835 204 797 169731886
+13 191 789 152463661 318 898 139128353
+14 230 1554 464503511 519 1280 208674353
+15 200 1331 515761733 211 708 235308110
+16 113 440 79989037 199 761 222014042
+17 198 1227 351782926 243 828 123461288
+18 162 642 142086682 223 775 159889575
+19 116 389 206201752 162 760 159973587
+20 153 390 57939852 171 894 229504379
+21 165 703 165496142 250 752 110770942
+22 197 861 225034730 544 1228 211389421
+23 139 303 100915747 197 625 103833114
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 47
+jp 1172 1297 40130789
+us 646 1916 416786734
+pl 337 2789 784579185
+gb 201 1588 484984925
+de 190 971 258256102
+se 150 161 578202
+fr 104 917 279492242
+cn 104 247 34375250
+ca 84 175 52070598
+ps 69 584 194262603
+cz 52 450 146629314
+kr 51 297 71917663
+ee 46 423 113919029
+sk 44 334 154515159
+ru 39 53 699325
+nl 38 286 80539081
+at 37 274 64583364
+in 36 138 17304020
+ch 20 74 8867587
+gr 20 162 34737037
+pa 14 93 27714558
+hk 13 75 18994155
+il 10 106 31684992
+es 8 104 31673103
+eu 7 7 28075
+vn 3 3 22407
+mx 3 24 5050164
+dk 1 1 3245
+tw 6 37 10404746
+za 1 24 3730941
+ro 1 1 6057
+au 1 1 3244
+cy 1 18 3308147
+ma 2 9 63397
+ir 6 708 225121363
+gh 2 2 6043
+br 6 30 142398
+ph 4 4 0
+bg 1 1 2802
+ua 2 9 63397
+no 4 43 10901031
+tr 0 1 277886
+by 1 24 3894950
+zz 2 2 23831
+ie 0 1 542555
+it 7 114 37792674
+be 3 3 9736
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 39
+AhrefsBot/ 9875 2964111903 20230331235510 0
+Googlebot/ 944 30547422 20230331220917 0
+bot[\s_+:,\.\;\/\\-] 607 89654474 20230331233055 0
+bingbot/ 434 389774042 20230331230440 0
+SeznamBot/ 375 10359697 20230331182901 0
+crawl 239 8707206 20230331231240 0
+SemrushBot/ 214 781913 20230331225404 0
+oBot/ 173 615209 20230330075505 0
+nbot 172 626079 20230308051300 0
+BLEXBot/ 170 618783 20230316231417 0
+Applebot/ 140 33445559 20230331084757 0
+robot 136 530434 20230322043942 0
+MJ12bot/ 92 320901 20230329070755 0
+DotBot/ 87 1324414 20230328072254 0
+link 85 309456 20230328003429 0
+no_user_agent 57 657822 20230330131917 0
+facebookexternalhit/ 54 17084175 20230331215025 0
+seek 43 681950 20230313095559 0
+Apache\-HttpClient/ 40 129760 20230308022124 0
+Googlebot\-Image/ 34 5711226 20230331053457 0
+bingpreview 33 128434991 20230326154644 0
+YandexBot/ 23 20991728 20230330055735 0
+baidu 12 55383 20230327204513 0
+Mail\.RU_Bot/ 11 43808 20230329220411 0
+java 8 0 20230329012822 0
+curl 6 36806 20230329121318 0
+Python\-urllib/ 1 277886 20230308063622 0
+Baiduspider/ 3 9734 20230327204508 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 6499 20230317160856 0
+YandexImages/ 3 1540092 20230327234046 0
+DomainStatsBot/ 4 23831 20230321031736 0
+CCBot/ 8 30682 20230325060352 0
+LinkedInBot/ 2 6499 20230310052421 0
+FAST\-WebCrawler/ 1 651 20230307160718 0
+Firefox/1\.5 1 33779 20230307160718 0
+PhantomJS 6 6162 20230310225114 0
+Googlebot\-Video/ 1 6438336 20230324094919 0
+MojeekBot/ 6 25081 20230331132459 0
+[\s_+:,\.\;\/\\-]bot 2 23373 20230319141602 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+jpg 9926 3403371342 0 0
+pdf 2 302732 0 0
+html 2455 12717808 0 0
+gif 28 26598420 0 0
+php 1 153 0 0
+png 69 2135956 0 0
+Unknown 8 53394 0 0
+css 869 990331 0 0
+js 138 3367277 0 0
+xml 1085 664477 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 17
+/poetbot/movies/pytanie2.mp4 10 5 96747948
+/poetbot/movies/pytanie1.mp4 10 5 91630908
+/poetbot/movies/startanimacja2.mp4 10 4 286300180
+/poetbot/movies/pytanie3.mp4 10 7 57863694
+/poetbot/movies/thinking.mp4 9 2 38343646
+/poetbot/movies/animacja_otwarcie.mp4 9 4 28508440
+/poetbot/sounds/buttons_sound.wav 9 6 305058
+/files/insidejob_ulalucinska_michalknychaus_works.pdf 2 0 32017887
+/files/insidejob_ulalucinska_michalknychaus_works_2019.pdf 1 0 10949760
+/poetbot/docs/personalised_poem_poetbot_2023032619160.pdf 1 0 302732
+/files/insidejob_ulalucinska_michalknychaus_works_pl_2019.pdf 1 0 19997960
+/poetbot/movies/pytanie3Mob.mp4 1 7 13973570
+/poetbot/movies/startanimacja2Mob.mp4 0 8 28326203
+/poetbot/movies/thinkingMob.mp4 0 7 3802382
+/poetbot/movies/pytanie1Mob.mp4 0 7 13218445
+/poetbot/movies/pytanie2Mob.mp4 0 7 13917132
+/poetbot/movies/animacja_otwarcieMob.mp4 0 7 5636404
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+linux 859 288
+win16 9 9
+ios_iphone 794 118
+macosx11 18 14
+winlong 75 75
+win8 394 394
+linuxandroid 402 47
+macosx 7033 959
+winxp 83 83
+win7 427 420
+Unknown 1103 261
+macosx9 8 7
+macosx6 3 2
+j2me 1 0
+win10 3269 740
+winnt 9 9
+win98 1 1
+macosx10 97 54
+win8.1 10 6
+macosx8 62 62
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 175
+chrome12.0.712.0 1 1
+chrome87.0.4280.141 1 1
+chrome84.0.4147.105 7 7
+chrome100.0.4896.60 1 1
+firefox67.0 2 2
+chrome74.0.3729.157 1 1
+chrome94.0.4606.85 7 1
+safari16.1 516 81
+safari16.3 1012 155
+firefox68.0 5 3
+chrome77.0.3865.120 15 1
+chrome110.0.5481.100 65 13
+chrome104.0.0.0 170 101
+chrome78.0.3904.87 7 3
+chrome108.0.5351.0 16 4
+opera90.0.4480.84 1 1
+chrome24.0.1312.27 1 0
+chrome49.0.2623.112 5 5
+chrome60.0.3112.107 3 3
+chrome83.0.4103.97 94 94
+chrome66.0.3359.181 8 8
+chrome63.0.3239.132 2 2
+safari11.0 19 5
+chrome89.0.4389.114 6 6
+chrome91.0.4472.114 135 39
+chrome74.0.3729.169 29 29
+safari16.0 139 11
+chrome78.0.3904.96 11 4
+firefox111.0 85 14
+chrome103.0.0.0 7 3
+firefox50.0 1 1
+firefox109.0 2 2
+chrome41.0.2225.0 1 1
+safari15.2 8 1
+chrome41.0.2226.0 1 1
+chrome100.0.4896.75 2 2
+chrome103.0.5060.114 1 1
+chrome87.0.4280.66 6 6
+firefox101.0 1 1
+firefox103.0 1 1
+chrome76.0.3809.132 2 2
+chrome83.0.4103.116 43 43
+safari15.5 6 2
+firefox110.0 755 76
+chrome80.0.3987.99 39 2
+msie9.0 7 7
+chrome112.0.0.0 24 1
+chrome46.0.2490.76 1 0
+safari13.1 1 1
+chrome41.0.2228.0 1 1
+chrome85.0.4183.121 2 2
+chrome41.0.2227.0 1 1
+chrome100.0.4896.88 2 2
+opera9.00 6 6
+firefox72.0 500 0
+chrome85.0.4183.101 1 0
+chrome70.0.3538.77 13 0
+chrome67.0.3396.87 1 0
+firefox77.0 1 1
+edge17 3 3
+chrome86.0.4240.198 11 11
+safari16.2 417 43
+firefox89.0 2 2
+firefox60.0 1 1
+firefox78.0 48 6
+chrome86.0.4240.75 1 0
+msie7.0 7 7
+chrome105.0.0.0 40 40
+chrome104.0.5112.79 13 3
+chrome101.0.4951.54 180 180
+chrome71.0.3578.98 2 2
+safari 78 6
+firefox45.0 1 1
+safari15.0 22 6
+chrome100.0.4896.127 5 5
+chrome13.0.782.107 1 1
+firefox102.0 9 9
+chrome106.0.0.0 16 16
+chrome34.0.1847.116 7 7
+safari15.6.1 1010 101
+firefox57.0 1 1
+chrome61.0.3163.79 44 44
+chrome111.0.0.0 2572 255
+opera55.0.2955.0 2 2
+chrome34.0.1866.237 1 1
+firefox105.0 8 1
+chrome106.0.5249.103 1 1
+safari5.1 3 3
+chrome94.0.4606.81 26 26
+chrome89.0.4389.82 2 2
+chrome30.0.1599.17 1 1
+chrome101.0.4951.7 1 1
+firefox58.0 1 1
+msie5.0 9 9
+chrome110.0.0.0 2045 256
+safari15.3 1 1
+safari15.1 225 22
+chrome103.0.5060.134 2 0
+chrome70.0.3538.102 3 3
+chrome104.0.5112.81 418 418
+chrome100.0.4896.79 24 1
+msie2.0 3 3
+chrome90.0.4430.85 14 14
+chrome101.0.0.0 1 1
+safari9.0.2 1 1
+chrome6.0.472.33 2 2
+chrome79.0.3945.130 28 28
+Unknown 1031 210
+chrome78.0.3904.70 5 1
+safari15.6 88 15
+firefox66.0 2 2
+msie11.0 15 11
+chrome96.0.4664.45 35 3
+chrome42.0.2311.90 43 43
+chrome39.0.2171.95 6 6
+chrome36.0.1985.67 2 2
+firefox104.0 4 4
+chrome80.0.3987.162 2 2
+chrome13.0.782.41 1 1
+chrome87.0.4280.88 33 5
+safari13.0.4 4 1
+safari13.0.3 22 22
+chrome16.0.912.36 1 0
+chrome109.0.0.0 448 54
+chrome57 2 2
+chrome60.0.3112.113 42 42
+firefox15.0 1 1
+safari13.1.3 88 11
+opera8.01 1 0
+firefox83.0 1 1
+chrome81.0.4044.138 8 8
+firefox33.0 1 1
+safari13.0.1 1 1
+chrome35.0.1916.47 2 2
+chrome80.0.3987.149 13 13
+msie8.0 1 1
+safari14.0 194 27
+chrome78.0.3904.108 18 18
+chrome102.0.0.0 1 1
+chrome102.0.5005.63 1 1
+firefox47.0 8 8
+firefox56.0 6 6
+safari5.0.3 1 1
+mozilla 82 56
+chrome107.0.0.0 666 516
+chrome89.0.4389.128 2 2
+chrome99.0.4844.51 1 1
+chrome49.0.2623.221 2 2
+chrome108.0.0.0 233 27
+chrome110.0.5481.153 18 1
+msie6.0 11 11
+chrome98.0.4758.87 1 1
+chrome98.0.4758.102 1 1
+chrome88.0.4240.193 12 12
+chrome61.0.3163.49 1 0
+safari14.1.2 21 5
+safari10.0 2 1
+iphone 254 32
+chrome101.0.4951.61 1 1
+chrome110.0.5481.154 18 1
+firefox94.0 1 1
+netscape5.0 4 4
+chrome36.0.1985.125 3 3
+chrome83.0.4103.61 4 4
+opera9.0 3 2
+firefox63.0 2 2
+chrome65.0.3325.181 1 1
+safari10.1 2 2
+safari14.0.2 36 8
+chrome95.0.4638.69 9 9
+chrome66.0.3359.117 1 1
+chrome20.0.1132.47 2 0
+chrome100.0.4758.11 1 1
+firefox 2 2
+chrome74.0.3729.136 14 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 30
+Mozilla/5.0_(compatible;_Embedly/0.2;_snap;__http://support.embed.ly/) 20230321195404
+python-requests/2.25.1_fb6 20230327183824
+Go-http-client/1.1 20230331084624
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/http;__http://researchscan.comsys.rwth-aachen.de) 20230310023814
+python-requests/2.28.1 20230311203930
+Mozilla/5.0_(compatible;_DataForSeoBot/1.0;__https://dataforseo.com/dataforseo-bot) 20230324025802
+python-httpx/0.23.3 20230320233904
+got_(https://github.com/sindresorhus/got) 20230321195409
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20230312125945
+cortex/1.0 20230312160619
+Adobe_Application_Manager_2.0 20230307160617
+IDG/EU_(http://spaziodati.eu/) 20230329145433
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm)_Chrome/103.0.5060.134_Safari/537.36 20230305050907
+python-requests/2.22.0 20230305181205
+Mozilla/5.0_(compatible;_AhrefsBot/7.0;__http://ahrefs.com/robot/) 20230326191540
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230306060757
+Chrome 20230324094918
+python-requests/2.9.1 20230316182909
+python-requests/2.21.0 20230310120523
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230313141036
+Mozilla/5.0_(compatible;_Embedly/0.2;__http://support.embed.ly/) 20230321195403
+Ruby 20230321195408
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20230324023654
+search.marginalia.nu 20230307231517
+python-requests/2.28.2 20230319102617
+WhatsApp/2.2307.10_N 20230307150824
+python-requests/2.27.1 20230328083311
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230314055049
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20230324222157
+panscient.com 20230310130740
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 19
+python-httpx/0.23.3 20230320233904
+python-requests/2.21.0 20230310120523
+python-requests/2.28.1 20230311203930
+WhatsApp/2.2307.10_N 20230307150824
+python-requests/2.28.2 20230319102617
+Ruby 20230321195408
+search.marginalia.nu 20230307231517
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230314055049
+python-requests/2.27.1 20230328083311
+got_(https://github.com/sindresorhus/got) 20230321195409
+IDG/EU_(http://spaziodati.eu/) 20230329145433
+panscient.com 20230310130740
+cortex/1.0 20230312160619
+Adobe_Application_Manager_2.0 20230307160617
+python-requests/2.22.0 20230305181205
+python-requests/2.25.1_fb6 20230327183824
+Go-http-client/1.1 20230331084624
+Chrome 20230324094918
+python-requests/2.9.1 20230316182909
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2367 3963
+From1 16 16
+From2 119 120
+From3 77 90
+From4 970 10468
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 14
+www_google_at 3 3
+www_google_com 92 93
+www_google_co_uk 2 2
+www_google_pl 2 2
+bing 4 4
+ecosia 1 1
+google_com 3 3
+www_google_com_hk 1 1
+baidu 4 4
+www_google_de 1 1
+www_google_co_jp 2 2
+www_google_com_mx 2 2
+www_google_fr 1 1
+www_google_ch 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 16
+https://l.instagram.com 18 18
+https://dymovye-truby.ru 12 12
+https://solargy.ru 9 9
+https://allkrim.com 8 8
+https://www.pinterest.com 7 7
+http://fbkwriter.com/about-me/ 6 6
+http://poetbot.com 6 6
+http://m.facebook.com 3 3
+http://www.pinterest.com/pin/243827767318084957 2 2
+http://www.poetbot.com 1 1
+https://www.pinterest.fr 1 1
+https://br.pinterest.com 1 1
+https://no.pinterest.com 1 1
+http://www.pinterest.com/pin/701928291943263998 1 1
+http://www.pinterest.com/pin/228979962298062669 1 1
+http://loadhtml 0 13
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+503 3 2157
+403 24 25809
+404 5875 6782355
+206 69 7520924
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1135
+/houtai/uedit/controller.ashx 2 -
+/.env 35 -
+/plugins/jquery-file-upload/server/php/index.php 1 -
+/wp-wso.php 2 -
+/Bitcoin/wallet.dat 1 -
+/xml/ 415 -
+/old-site/contral.php 2 -
+/GL/Handler/controller.ashx 2 -
+/.well-known/alfacgiapi 1 www.bing.com
+/backup_11062022.zip 1 -
+/Admin/PlugIn/Ueditor/net/controller.ashx 2 -
+/manager/UEditor 2 -
+/mini.php 4 -
+/manager/controller.ashx 2 -
+/leafmailer2.8.php 2 -
+/wp-content/wp-admin.php 2 -
+/shell.php 3 www.bing.com
+/data/demodata.php 2 http://www.michalknychaus.com/data/demodata.php
+/index.php/statement/ 4 -
+/wp-content/index.php 4 -
+/demodata.php 2 http://www.michalknychaus.com/demodata.php
+/api/UEditor 2 -
+/users/uedit/controller.ashx 2 -
+/public/assets/jquery-file-upload/server/php/index.php 2 -
+/blog/uedit/controller.ashx 2 -
+/1h6j5.php 2 -
+/wp-acess.php 1 http://ulalucinska.com/wp-acess.php
+/ueditor1/net/controller.ashx 2 -
+/.well-known/pki-validation/utchiha505.php 2 -
+/ashx/UEditor 2 -
+/ftpsync.settings 1 -
+/system/Script/UeDitor/net/controller.ashx 2 -
+/wp-includes/css/wp-config.php 1 www.bing.com
+/wp-admin/style.php 3 -
+/nee.php 2 -
+/wp-content/plugins/theme-configurator/mini.php 2 -
+/fx.php 2 -
+/wp/wp-content/themes/seotheme/mar.php 2 -
+/uedit/uedit/net/controller.ashx 2 -
+/install/nginx.php 2 http://www.michalknychaus.com/install/nginx.php
+/rss.php 2 -
+/uc_serve/admin.php 2 http://www.baidu.com/
+/wp/rahma.php 2 -
+/xltavrat.php 2 -
+/Handler/UEditor 2 -
+/wp-content/plugins/fighter/fk.php 2 -
+/y.php 2 -
+/templates/beez3/alfacgiapi 1 www.bing.com
+/ws.php 2 -
+/wordpress/wp-includes/wlwmanifest.xml 22 -
+/m/admins.php 2 http://www.ulalucinska.com/m/admins.php
+/wp-content/db-cache.php 1 www.bing.com
+/blog/wp-admin/install.php 4 -
+/common/uedit/net/controller.ashx 2 -
+/wp-content/RxRawcyg.php 1 -
+/admin/Handler/controller.ashx 2 -
+/wp-content/RxRdiubq.php 1 -
+/Handler/controller.ashx 2 -
+/backup_06052022.zip 1 -
+/files/gimgs/2_5_calapolska_fot_alicjakielan_v2.jpg 3 -
+/wp-admin/maint/about.php 2 -
+/wp-content/themes/classic/inc/RxRwkbgy.php 1 -
+/api/ueditor/controller.ashx 2 -
+/Admin/Article/SdUeditor/net/controller.ashx 2 -
+/uedit111/net/controller.ashx 2 -
+/wp-content/plugins/core-stab/RxRtvwnu.php 1 -
+/backup_06032022.zip 1 -
+/uc/admin.php 2 http://www.baidu.com/
+/templets/apache.php 2 http://www.michalknychaus.com/templets/apache.php
+/lock360.php 1 www.bing.com
+/wp-content/plugins/ccx/index.php 2 -
+/xox.php 2 -
+/7yn.php 2 -
+/wp-includes/ID3/license.txt 6 -
+/content/ueditor/net/controller.ashx 2 -
+/template/wdf.php 2 http://www.michalknychaus.com/template/wdf.php
+/case/editor/net/controller.ashx 2 -
+/uedit1/net/controller.ashx 2 -
+/css.php 1 www.bing.com
+/uploads/1234.php 2 http://www.michalknychaus.com/uploads/1234.php
+/.cgi/cache/index.php 2 -
+/wp-content/RxRmsftb.php 1 -
+/z.php 3 www.bing.com
+/wp-contentfw.php 2 -
+/templets/a.php 2 http://www.ulalucinska.com/templets/a.php
+/lufix.php 2 -
+/data/nginx.php 2 http://www.michalknychaus.com/data/nginx.php
+/backup_15012022.zip 1 -
+/ff.php 2 -
+/wp-content/plugins/core-stab/RxRwsutc.php 1 -
+/.tmb/wp-logo.php 2 -
+/assets/admin/global/plugins/jquery-file-upload/server/php/index.php 2 -
+/tools/ueditor/net/controller.ashx 2 -
+/info.php 2 -
+/uploadfiles/uedit/net/controller.ashx 2 -
+/sitemap.txt 9 -
+/lib/ueditor/UEditor 2 -
+/plugins/uedit/net/controller.ashx 2 -
+/download.php 10 -
+/apple-touch-icon-120x120-precomposed.png 12 -
+/Uploader.php 2 -
+/swm.php 2 -
+/ueditor1_3_5-utf8-net/net/controller.ashx 2 -
+/mmisknyi.php 1 www.google.com
+/old/wp-admin/setup-config.php 2 -
+/plug/ueditor/UEditor 2 -
+/htgl/ue/net/controller.ashx 2 -
+/Gel.php 2 -
+/wp-content/plugins/config.bak.php 2 -
+/api/js/ueditor/controller.ashx 2 -
+/legion.php 1 www.bing.com
+/Assets/UEdit/net/controller.ashx 2 -
+/wp-content/updates.php 4 www.google.com
+/k.php 2 -
+/wp-admin/ALFA_DATA 1 www.bing.com
+/nf_tracking.php 2 -
+/shells.php 1 www.bing.com
+/wp2.php 2 -
+/wp-content/RxRqwuls.php 1 -
+/assets/images/users/install.php 2 -
+/vita.php 2 -
+/AJAX/controller.ashx 2 -
+/Themes/uedit/net/controller.ashx 2 -
+/fa.php 2 -
+/ueditor222/net/controller.ashx 2 -
+/news/ueditor/controller.ashx 2 -
+/87.php 2 -
+/api/ajax/ueditor/net/controller.ashx 2 -
+/assets/js/ueditor1_4_3/net/controller.ashx 2 -
+/jscripts/net/controller.ashx 2 -
+/Empire/doc.html 1 -
+/BTC/wallet.dat 1 -
+/xo.php 2 -
+/nasgor.php 2 -
+/install/a.php 2 http://www.michalknychaus.com/install/a.php
+/backup_15042022.zip 1 -
+/wp-includes/wp-atom.php 3 www.bing.com
+/config.php 1 www.bing.com
+/site/wp-content/themes/seotheme/mar.php 2 -
+/wallet.dat 1 -
+/template/admin.php 2 http://www.michalknychaus.com/template/admin.php
+/Plugins/UEditor-utf8-net/net/controller.ashx 2 -
+/public/UEditor 2 -
+/JScript/uedit/net/controller.ashx 2 -
+/upload.php 3 www.bing.com
+/wp/wp-admin/install.php 4 -
+/alfa.php 5 www.bing.com
+/upfile/uedit/net/controller.ashx 2 -
+/Scripts/ueditor/net/controller.ashx 2 -
+/wp-content/outcms.php 1 www.bing.com
+/script/editor/UEditor 2 -
+/l.php 2 -
+/index.php/project/ 2 -
+/statics/js/plugins/ueditor/net/controller.ashx 2 -
+/backup_18022022.zip 1 -
+/data/admins.php 2 http://www.ulalucinska.com/data/admins.php
+/api/plug/ueditor/net/controller.ashx 2 -
+/js/uedit/net/controller.ashx 2 -
+/backup_03022022.zip 1 -
+/Plugin/ueditor/net/controller.ashx 3 -
+/lib/ueditor/net/controller.ashx 2 -
+//wp-content/themes/seotheme/db.php 8 -
+/wp-cc.php 1 -
+/.vscode/ftp-sync.json 1 -
+/uploads/ 14 binance.com
+/statics/plugins/com/ueditor/net/controller.ashx 2 -
+/index.php/grants/ 1 -
+/mari.php 2 -
+/b.php 2 -
+//wp-content/updates.php 4 www.google.com
+/Script/lib/uedit/net/controller.ashx 2 -
+/new-index.php 2 -
+/manager/ueditor/net/controller.ashx 2 -
+/install/newfile.php 2 http://www.michalknychaus.com/install/newfile.php
+/dr.php 2 -
+/alfacgiapi 1 www.bing.com
+/777.php 2 -
+/ads.txt 16 -
+/send.php 2 -
+/wp-content/RxRymdkn.php 1 -
+/sym403.php 2 -
+/manage/Handler/controller.ashx 2 -
+/new.php 2 -
+/jscript/net/controller.ashx 2 -
+/index.php 10 -
+/Admin/UEditor/ueditor/net/controller.ashx 2 -
+/Admin/PlugIn/uedit/net/controller.ashx 2 -
+/index.php/digital-autograph/ 6 -
+/umeditor1_2_2-utf8-net/controller.ashx 2 -
+/ueditor22/net/controller.ashx 2 -
+/bak/doc.html 1 -
+/0z.php 2 -
+/assets/plugins/jquery-file-upload/server/php/index.php 2 -
+/wp-commentin.php 3 -
+/api/jscript/ueditor/net/controller.ashx 2 -
+/plug/uedit/net/controller.ashx 2 -
+/root.php 2 -
+/alexus.php 2 -
+/Article/SdUeditor/net/controller.ashx 2 -
+/3index.php 3 www.bing.com
+/tool/uedit/net/controller.ashx 2 -
+/backup_21022022.zip 1 -
+/wp-includes/images/css.php 1 www.bing.com
+/wp-content/plugins/core-engine/index.php 1 -
+/apple-touch-icon-120x120.png 12 -
+/ajaz/UEditor 2 -
+/js/plugins/uedit/net/controller.ashx 2 -
+/adminer.php 2 -
+/backup_14012022.zip 1 -
+/feed/ 6 -
+/alfacgiapi/utchiha505.php 2 -
+/sito/wp-includes/wlwmanifest.xml 16 -
+/apple-touch-icon-152x152.png 2 -
+/backup_24052022.zip 1 -
+/m/apache.php 2 http://www.ulalucinska.com/m/apache.php
+/admin/ 1 http://ulalucinska.com/
+/wso112233.php 2 -
+/admin/js/filemanager/dialog.php 2 -
+/radio.php 3 www.bing.com
+/sym.php 2 -
+/upload/demodata.php 2 http://www.michalknychaus.com/upload/demodata.php
+/template/1.php 2 http://www.michalknychaus.com/template/1.php
+/statics/ueditor/net/UEditor 2 -
+/osbxamip.php 2 -
+/editor/umeditor/net/controller.ashx 2 -
+/mi.php 2 -
+/wp-admin/install.php 4 -
+/houtai/ueditor/controller.ashx 2 -
+/controller.ashx 2 -
+/backup_12012022.zip 1 -
+/wp-content/themes/gaukingo/mar.php 2 -
+/wp-0.php 2 -
+/statics/ueditor/net/controller.ashx 2 -
+/backup_14022022.zip 1 -
+/Editor/uedit/net/controller.ashx 2 -
+/caches/caches_commons/caches_data/spicys.cache.php 2 -
+/m/1.php 2 http://www.michalknychaus.com/m/1.php
+/manage/controller.ashx 2 -
+/admin/Script/uedit/net/controller.ashx 2 -
+/ueditor1_4_3_3-utf8-net/utf8-net/net/controller.ashx 2 -
+/xmlrpcs.php 3 www.bing.com
+/ueditor/ueditor1_4_3-utf8-net/net/controller.ashx 2 -
+/ffmkpcal.php 2 -
+/js/filemanager/dialog.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 5 www.google.com
+/.well-known/pki-validation/admin.php 2 -
+/2018/wp-includes/wlwmanifest.xml 11 -
+/1234.php 2 http://www.michalknychaus.com/1234.php
+/XxX.php 2 -
+/Plugins/ueditor1_4_3_3-utf8-net/utf8-net/net/controller.ashx 2 -
+/ueditor2/net/controller.ashx 2 -
+/admin/jquery_uploader/server/php/index.php 2 -
+/404.php 4 -
+/ueditor3/net/controller.ashx 2 -
+/manager/ueditor1/net/controller.ashx 2 -
+/template/1234.php 2 http://www.michalknychaus.com/template/1234.php
+/index.php/collaborative/ 7 -
+/13.php 2 -
+/Assets/Admin/Plugins/UEdit/net/controller.ashx 2 -
+/blog/wp-login.php 3 http://insidejo.webd.pl
+/js/ueditor1.3.6/net/controller.ashx 2 -
+/backup_11032022.zip 1 -
+/wp-admin/includes/class-wp-pagebuilders-9LlwKf.php 2 -
+/admin/controller.ashx 2 -
+/wp-includes/xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 2 -
+/javascript/ueditor/net/controller.ashx 2 -
+/backup_09042022.zip 1 -
+/wp-class.php 2 -
+/mrjn.php 2 -
+/wp-backup-sql-302.php 1 www.bing.com
+/web/wp-includes/wlwmanifest.xml 22 -
+/editor/UEditor 2 -
+/templets/nginx.php 2 http://www.michalknychaus.com/templets/nginx.php
+/siteadmin/ueditor/net/controller.ashx 2 -
+/ueditor11/net/controller.ashx 2 -
+/backup_22052022.zip 1 -
+/Editor/ueditor/net/controller.ashx 4 -
+/wp-file.php 2 -
+/data/1.php 2 http://www.michalknychaus.com/data/1.php
+/wp-content/plugins/TOPXOH/OH.php 2 www.google.com
+/user/admin.php 2 http://www.baidu.com/
+/uploads/dst.php 2 -
+/phone/doc/doc.html 1 -
+/wp-content/themes/classic/inc/RxRevwje.php 1 -
+/good.php 2 -
+/statics/ueditor/UEditor 2 -
+/xxxxfsfsfsfadsafdafdfdaasffasf.txt 2 -
+/wp-adminfx.php 2 -
+/manage/Script/uedit/net/controller.ashx 2 -
+/Content/js/plugins/ueditor/net/controller.ashx 2 -
+/sh3ll.php 2 -
+/blog/.env 2 -
+/small.php 2 -
+/Assets/js/ueditor/net/controller.ashx 2 -
+/media/wp-includes/wlwmanifest.xml 11 -
+/wp-adminrss.php 2 -
+/script/lib/ueditor/net/controller.ashx 2 -
+/wp-content/uploads/readindex.php 2 -
+/wueditor/net/controller.ashx 2 -
+/backup_09012022.zip 1 -
+/JScript/ueditor/net/controller.ashx 2 -
+/forum/uc_server/admin.php 2 http://www.baidu.com/
+/wp-content/plugins/TOPXOH/wDR.php 2 www.google.com
+/bitcoin/backup/wallet.dat 1 -
+/MARIJUANA.php 2 -
+/tools/controller.ashx 2 -
+/www.php 2 -
+/backup_12042022.zip 1 -
+/backup/wp-admin/install.php 4 -
+/bbs/uedit/controller.ashx 2 -
+/backup_31122021.zip 1 -
+/defau11.php 1 www.bing.com
+/shell20220621.php 2 -
+/plugs/net/controller.ashx 2 -
+/2.php 2 -
+/wp-signin.php 1 www.bing.com
+/administrator/templates/bluestork/error.php 2 -
+/wp-includes/991176.php 2 -
+/templets/demodata.php 2 http://www.ulalucinska.com/templets/demodata.php
+/test_404_page/ 3 -
+/if.php 2 -
+/static/lib/webuploader/0.1.5/server/preview.php 1 -
+/backup 6 -
+/templates/beez3/cgialfa 1 www.bing.com
+/bypass.php 2 -
+/index.php/bio/interviewfor 2 -
+/wp-setups.php 2 -
+/bf/doc.html 1 -
+/4price.php 2 -
+/wp-ad.php 2 -
+/templets/admin.php 2 http://www.michalknychaus.com/templets/admin.php
+/api/lib/ueditor/net/controller.ashx 2 -
+/m/admin.php 2 http://www.michalknychaus.com/m/admin.php
+/0.php 2 -
+/api/ueditor/net/controller.ashx 2 -
+/plus/mytag_js.php 10 -
+/wp-admin/includes/block-line.php 2 -
+/content/Ueditor/net/controller.ashx 1 -
+/uc_server/admin.php 2 http://www.baidu.com/
+/c99.php 2 -
+/data/a.php 2 http://www.michalknychaus.com/data/a.php
+/cgialfa 1 www.bing.com
+/caches/caches_commons/caches_data/config.cache.php 2 -
+/media-admin.php 3 www.bing.com
+/s.php 2 -
+/plugs/UEditor 2 -
+/cms/wp-includes/wlwmanifest.xml 22 -
+/wordpress/wp-admin/install.php 4 -
+/manage/ueditor123/net/controller.ashx 2 -
+/ueditor1_4_3_1-utf8-net/net/controller.ashx 2 -
+/data/wdf.php 2 http://www.michalknychaus.com/data/wdf.php
+/backup_14032022.zip 1 -
+/test 2 -
+/wp_wrong_datlib.php 3 www.bing.com
+/Content/js/plugins/uedit/net/controller.ashx 2 -
+/main 8 -
+/wp_wrong_datlib.phpwp-includes/fw.php 2 -
+/data/apache.php 2 http://www.michalknychaus.com/data/apache.php
+/google4444f1eb4e8fe15a.html 2 -
+/api/jscripts/ueditor/net/controller.ashx 2 -
+/t.php 2 -
+/backup_15062022.zip 1 -
+/manage/ueditor/net/controller.ashx 2 -
+/manage/uedit/net/controller.ashx 2 -
+/wp-reset.php 2 -
+/ueditor111/net/controller.ashx 2 -
+/wp-content/RxRzkxiu.php 1 -
+/.well-known/xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 2 -
+/n.php 2 -
+/siteadmin/uedit/net/controller.ashx 2 -
+/cms/wp-admin/install.php 4 -
+/testing 2 -
+/assets/images/default/moon.php 2 -
+/static/admin/hui/lib/webuploader/0.1.5/server/preview.php 1 -
+/xxxss 2 -
+/content.php 2 -
+/editor/net/controller.ashx 2 -
+/.well-known/ 14 binance.com
+/plug-in/ueditor/net/controller.ashx 2 -
+/ucenter/admin.php 2 http://www.baidu.com/
+/editor/net/UEditor 2 -
+/u/admin.php 2 http://www.baidu.com/
+/admin/Script/UeDitor/net/controller.ashx 2 -
+/wp-admin/includes/class-wp-media-list-data.php 2 -
+/aspx/ueditor/net/controller.ashx 2 -
+/blog/ 2 -
+/wp-includes/IXR/hunt.php 2 -
+/template/a.php 2 http://www.michalknychaus.com/template/a.php
+/Cpanel.php 2 -
+/UserControls/ueditor/net/controller.ashx 2 -
+/backup_24042022.zip 1 -
+/lib/ueditor/net/UEditor 2 -
+/includes/uedit/net/controller.ashx 2 -
+/wp-includes/rest-api/oldindex.php 2 -
+/api/js/uedit/net/controller.ashx 2 -
+/admin/controller/extension/extension/ 14 binance.com
+/defau1t.php 3 www.bing.com
+/Plugs/uedit/net/controller.ashx 2 -
+/bduedit/net/controller.ashx 2 -
+/backups/wallet.dat 1 -
+/uploads/newfile.php 2 http://www.michalknychaus.com/uploads/newfile.php
+/editor/Ueditor/net/controller.ashx 1 -
+/carbuyaction.php 10 -
+/editor/ueditor1.3.6/net/controller.ashx 2 -
+/r.php 2 -
+/templates/beez3/ALFA_DATA 1 www.bing.com
+/up.php 5 www.bing.com
+/templets/wdf.php 2 http://www.michalknychaus.com/templets/wdf.php
+/wp-SEo.php 2 -
+/wp-content/RxRbdwtw.php 1 -
+/new/ueditor/net/controller.ashx 2 -
+/byp.php 2 -
+/wp-content/themes/classic/inc/RxRvbbqv.php 1 -
+/net 2 -
+/system/ue/net/controller.ashx 2 -
+/docs/.env 2 -
+/wp-content/ALFA_DATA 1 www.bing.com
+/index.php/razor-sharp/ 10 -
+/admin/editor/umditor/net/controller.ashx 2 -
+/0byte.php 2 -
+/axx.php 2 -
+/o.php 2 -
+/wp-includes/customize/class-wp-customize-nav-menu.php 2 -
+/bb.php 2 -
+/backup_22042022.zip 1 -
+/tloslztf.php 1 www.google.com
+/ueditor/controller.ashx 2 -
+/backup_11042022.zip 1 -
+/script/editor/net/UEditor 2 -
+/wp-content/RxRksfpt.php 1 -
+/template/apache.php 2 http://www.michalknychaus.com/template/apache.php
+/xindex.php 3 www.bing.com
+/wp-includes/wlwmanifest.xml 21 -
+/ueditor/UEditor 2 -
+/autoload_classmap.php 2 -
+/backup_22012022.zip 1 -
+/jscript/UEditor 2 -
+/site/wp-admin/install.php 4 -
+/xml 2 -
+/ueditor/net/controller.ashx 2 -
+/about.php 3 www.bing.com
+/1.4.3/controller.ashx 2 -
+/c.php 2 -
+/wp-content/themes/seotheme/db.php 4 -
+/Script/lib/Ueditor/net/controller.ashx 2 -
+/api/.env 2 -
+/wp-includes/cgialfa 1 www.bing.com
+/alwso.php 2 -
+/api/js/ueditor/net/controller.ashx 2 -
+/admin/uploads/vu.php 2 -
+/wp-includes/css/buttons.css 2 -
+/backup_21052022.zip 1 -
+/index.php/circulating-matter/ 6 -
+/content/umeditor1_2_2-utf8-net/net/controller.ashx 2 -
+/inc/uedit/net/controller.ashx 2 -
+/wp-includes/css/css.php 3 www.bing.com
+/admin/assets/plugins/jquery-file-upload/server/php/index.php 3 -
+/users/ueditor/controller.ashx 2 -
+/owl.php 2 -
+/admin/controller/extension/extension/alfacgiapi 1 www.bing.com
+/e/data/js/ajax.js 4 -
+/index.php/bio/interview+for 1 -
+/backup_18062022.zip 1 -
+/net/UEditor 2 -
+/upload/uedit/net/controller.ashx 2 -
+/wp-content/themes/seotheme/mar.php 10 www.google.com
+/wp-content/RxRoetgq.php 1 -
+/403.php 4 -
+/backup_21032022.zip 1 -
+/sysadm/ueditor/net/controller.ashx 2 -
+/content/uedit/net/controller.ashx 2 -
+/wp-content/themes/gaukingo/db.php 2 -
+/data/newfile.php 2 http://www.michalknychaus.com/data/newfile.php
+/member/uedit/controller.ashx 2 -
+/j.php 2 -
+/btc/wallet.dat 1 -
+/wp-content/kro.php 2 -
+/backup_12052022.zip 1 -
+/index.php/doormats/ 5 -
+/manager/Script/UeDitor/net/controller.ashx 2 -
+/index.php/collaborative/girlhood--dziewczynstwo/ 6 -
+/wp-content/uploads/2021/12/up.php 2 -
+/members/uedit/controller.ashx 2 -
+/diguo/doc.html 1 -
+/krz.php 2 -
+/rahma.php 2 -
+/utf8-net/net/controller.ashx 2 -
+/tmpuploads.php 2 -
+/u.php 2 -
+/news/uedit/controller.ashx 2 -
+/mt/pekok.php 2 -
+/admin/admin.php 2 http://www.baidu.com/
+/ucs/admin.php 2 http://www.baidu.com/
+/template/demodata.php 2 http://www.michalknychaus.com/template/demodata.php
+/!.php 2 -
+/inc/net/UEditor 2 -
+/system/net/controller.ashx 2 -
+/public/plugins/jquery-file-upload/server/php/index.php 2 -
+/gvqqpinc.php 2 -
+/upload/wdf.php 2 http://www.michalknychaus.com/upload/wdf.php
+/1index.php 3 www.bing.com
+/sysadm/uedit/net/controller.ashx 2 -
+/wp-includes/ALFA_DATA 1 www.bing.com
+/1.4.3/net/controller.ashx 2 -
+/temp/ 2 -
+/data/admin.php 2 http://www.ulalucinska.com/data/admin.php
+/inc/net/controller.ashx 2 -
+/wp-includes/css/wp-atom.phpmodules/modules/modules.php 2 -
+/p.php 4 -
+/administrator/index.php 1 -
+/xx.php 4 -
+/m/x.php 2 http://www.ulalucinska.com/m/x.php
+/leaf.php 2 -
+/wallets/wallet.dat 1 -
+/it.php 2 -
+/wordpress/wp-login.php 3 http://insidejo.webd.pl
+/wp-content/RxRglpmc.php 1 -
+/views/ueditor/net/controller.ashx 2 -
+/index.php/escape-plan/ 6 -
+/templets/1234.php 2 http://www.michalknychaus.com/templets/1234.php
+/wp-content/plugins/w0rdpr3ssnew/wp-login.php 2 www.google.com
+/plugins/UEditor 2 -
+/wp-info.php 2 -
+/wp-configer.php 2 -
+/olux.php 3 www.bing.com
+/fpflhrqq.php 1 www.google.com
+/cp.php 2 -
+/public/_ignition/health-check/ 4 -
+/template/nginx.php 2 http://www.michalknychaus.com/template/nginx.php
+/backup_21062022.zip 1 -
+/backup_07022022.zip 1 -
+/wp-name.php 1 -
+/backup_06042022.zip 1 -
+/Ueditor/net/controller.ashx 1 -
+/alexus-mailer.php 2 -
+/manager/Ueditor/net/controller.ashx 1 -
+/WSO.php 2 -
+/umeditor/net/controller.ashx 2 -
+/fox.php 2 -
+/laravel/.env 4 -
+/backup_28012022.zip 1 -
+/index.php/bio/interview%20for 31 -
+/wp-load.php 4 www.bing.com
+/m.php 2 -
+/2020/wp-includes/wlwmanifest.xml 11 -
+/script/uedit/net/controller.ashx 2 -
+/plugins/umeditor/net/controller.ashx 2 -
+/wp-content/plugins/woocommerce-payments/dist/blocks-checkout.css 4 -
+/index.php/calm-days/ 4 -
+/uedit/controller.ashx 2 -
+/wp-admin/css/index.phpwp-includes/css/wp.php 2 -
+/11index.php 2 -
+/wp-content/fw.php 2 -
+/manager/uedit/net/controller.ashx 2 -
+/uploads/a.php 2 http://www.michalknychaus.com/uploads/a.php
+/index.php/collaborative/smoke/ 5 -
+/wp-content/wp-logins.php 2 -
+/tools/UEditor 2 -
+/wp-admin/fw.php 2 -
+/test/wp-content/themes/seotheme/mar.php 2 -
+/wso.php 5 www.bing.com
+/uploads/nginx.php 2 http://www.michalknychaus.com/uploads/nginx.php
+/wp-content/export.php 1 www.bing.com
+/Utility/UEditor 2 -
+/script/umditor/net/controller.ashx 2 -
+/editor/controller.ashx 2 -
+/wp-content/uploads/cgialfa 1 www.bing.com
+/templets/1.php 2 http://www.michalknychaus.com/templets/1.php
+/xxx.php 2 -
+/wp-one.php 2 -
+/test/ 2 -
+/kz.php 2 -
+/plugins/net/controller.ashx 2 -
+/blog/wp-includes/wlwmanifest.xml 22 -
+/plug/UEditor 2 -
+/shx.php 2 -
+/Plugin/uedit/net/controller.ashx 2 -
+/Company/uedit/net/controller.ashx 2 -
+/wp-includes/wp-class.php 3 www.bing.com
+/wp-content/plugins/seoplugins/mar.php 10 www.google.com
+/manage/UEditor 2 -
+/assets/global/plugins/jquery-file-upload/server/php/index.php 2 -
+/blog 2 -
+/uedit2/net/controller.ashx 2 -
+/wp-content/plugins/core-stab/RxRmvtii.php 1 -
+/plug/ueditor/net/controller.ashx 2 -
+/install/1234.php 2 http://www.michalknychaus.com/install/1234.php
+/system/ueditor/net/controller.ashx 2 -
+/Utility/uedit/net/controller.ashx 2 -
+/UMditor/net/controller.ashx 2 -
+/.tmb/cache/shz.php 2 -
+/plugins/auto/thickbox2/pat.php 2 -
+/old-index.php 3 www.bing.com
+/wp-content/plugins/wpconfig.bak.php 1 www.bing.com
+/wp-content/RxRpzrny.php 1 -
+/qindex.php 1 www.bing.com
+/uploadfiles/ueditor/net/controller.ashx 2 -
+/test.sql 1 -
+/Assets/js/uedit/net/controller.ashx 2 -
+/wp-content/plugins/ioptimization/index.php 6 -
+/Public/lib/webuploader/0.1.5/server/preview.php 2 -
+/archives.php 1 www.bing.com
+/bbs/uc_server/admin.php 2 http://www.baidu.com/
+/backup_07042022.zip 1 -
+/members/ueditor/controller.ashx 2 -
+/wp-admin/includes/maint/wp-cron.php 2 -
+/wp-admin/css/modern/colors.css.php 2 -
+/sendmail.php 2 -
+/Control/ueditor/net/controller.ashx 2 -
+/sites/default/files/ALFA_DATA 1 www.bing.com
+/Plug/ueditor/net/controller.ashx 2 -
+/sites/default/files/ 14 binance.com
+/kn.php 2 -
+/.tmb/utchiha505.php 2 -
+/new/ueditor/controller.ashx 2 -
+/backup_10062022.zip 1 -
+/doc.php 3 www.bing.com
+/script/lib/uedit/net/controller.ashx 2 -
+/ueditor/1.4.3/net/controller.ashx 2 -
+/Public/controller.ashx 2 -
+/web/wp-admin/install.php 4 -
+/bf1/doc.html 1 -
+/Gel4y.php 2 -
+/stindex.php 2 -
+/wp-content/RxRgtmhc.php 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 7 -
+/backup_27022022.zip 1 -
+/template/x.php 2 http://www.michalknychaus.com/template/x.php
+/wp-content/plugins/backup_index.php 1 www.bing.com
+/test.php 1 www.bing.com
+/htmleditor//uedit/net/controller.ashx 2 -
+/m/demodata.php 2 http://www.michalknychaus.com/m/demodata.php
+/wp-content/RxRxyrog.php 1 -
+/wp-admin/css/ 14 binance.com
+/wp-content/wso.php 2 -
+/wp-rss.php 2 -
+/install/x.php 2 http://www.michalknychaus.com/install/x.php
+/ok.php 2 -
+/include/net/controller.ashx 2 -
+/wp-includes/radio.php 2 -
+/FoxWSOv1.php 2 -
+/wsa.php 2 -
+/upload/admin.php 2 http://www.michalknychaus.com/upload/admin.php
+/alfav4.1-tesla.php 2 -
+/v.php 2 -
+/cms.php 2 -
+/Admin/uedit/uedit/net/controller.ashx 2 -
+/wp-content/uploads/small.php 2 -
+/kiss.php 2 -
+/sites/default/files/alfacgiapi 1 www.bing.com
+/Js/umeditor/net/controller.ashx 2 -
+/h.php 2 -
+/beifen1/doc.html 1 -
+/lib/ueditor/utf8-net/net/controller.ashx 2 -
+/m/nginx.php 2 http://www.ulalucinska.com/m/nginx.php
+/backup_16052022.zip 1 -
+/alf.php 2 -
+/d.php 2 -
+/mailer.php 2 -
+/Handler/net/controller.ashx 2 -
+/backup_16032022.zip 1 -
+/login/ueditor/controller.ashx 2 -
+/templets/admins.php 2 http://www.michalknychaus.com/templets/admins.php
+/Controls/ueditor/net/controller.ashx 2 -
+/wp-content/uploads/typehub/custom/madexploit/.madshell.php 2 -
+/index.php/celly/ 10 -
+/admin/uploads/alfa.php 2 -
+/wp 8 -
+/wp-content/plugins/core-stab/index.php 24 -
+/login/uedit/controller.ashx 2 -
+/plugin/UEditor 2 -
+/lib/UEditor 2 -
+/uploadfile/uedit/net/controller.ashx 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 5 -
+/5.php 2 -
+/wp-blog.php 2 -
+/wordpress/wp-content/themes/seotheme/mar.php 2 -
+/test/wp-includes/wlwmanifest.xml 22 -
+/images/ 14 binance.com
+/sites/default/files/cgialfa 1 www.bing.com
+/install/apache.php 2 http://www.michalknychaus.com/install/apache.php
+/theme/admin/js/filemanager/dialog.php 1 -
+/wallet/wallet.dat 1 -
+/.tmb/radio.php 2 -
+/install/admin.php 2 http://www.michalknychaus.com/install/admin.php
+/Plugs/ueditor/net/controller.ashx 2 -
+/backup_05012022.zip 1 -
+/backup/in1/resume/priv.php 2 -
+/uploads/1.php 2 http://www.ulalucinska.com/uploads/1.php
+/m/newfile.php 2 http://www.ulalucinska.com/m/newfile.php
+/upload/nginx.php 2 http://www.michalknychaus.com/upload/nginx.php
+/kindex.php 2 -
+/script/ueditor/net/controller.ashx 2 -
+/wp-content/themes/config.bak.php 1 www.bing.com
+/upload/ueditor/net/controller.ashx 2 -
+/case/net/controller.ashx 2 -
+/ueditor1_4_3/net/controller.ashx 2 -
+/bk 6 -
+/UEditor 2 -
+/alex.php 2 -
+/files/gimgs/enter_sattlekammer_rauber13.jpg 1 -
+/editor/umditor/net/controller.ashx 2 -
+/utchiha.php 2 -
+/.well-known/ALFA_DATA 1 www.bing.com
+/backup_26022022.zip 1 -
+/wp-includes/css/xm.php 2 -
+/wp-includes/class-wp-block-type-ajax-response.php 2 -
+/wp-2019.php 2 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 2 -
+/aspx/uedit/net/controller.ashx 2 -
+/uploadsxleet.php 2 -
+/jscript/net/UEditor 2 -
+/inc/editor/net/controller.ashx 2 -
+/wp2/wp-includes/wlwmanifest.xml 16 -
+/wp-adminpriv8.php 2 -
+/lib/ueditor/1.4.3/net/controller.ashx 2 -
+/vuln.php 2 -
+/wp-content/themes/classic/inc/index.php 21 -
+/ueditor/net/UEditor 2 -
+/apple-touch-icon-152x152-precomposed.png 2 -
+/cpanel.php 2 -
+/bak1/doc.html 1 -
+/assets/ueditor1_4_3/net/controller.ashx 2 -
+/admin/ueditor/net/controller.ashx 2 -
+/Admin/Plugins/UEdit/net/controller.ashx 2 -
+/plug/ueditor/net/UEditor 2 -
+/wp-includes/sys.php 2 -
+/administrator/xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 2 -
+/wi.php 2 -
+/i.php 4 -
+/ueditorgbk/controller.ashx 2 -
+/alexusmailer2.0.php 2 -
+/system/controller.ashx 2 -
+/admin/controller/extension/extension/cgialfa 1 www.bing.com
+/wp-content/mu-plugins/db-safe-mode.php 1 www.bing.com
+/02.php 2 -
+/backup_17052022.zip 1 -
+/manager/ue/net/controller.ashx 2 -
+/humans.txt 6 -
+/2021/wp-includes/wlwmanifest.xml 6 -
+/wp-admin/includes/mar.php 2 -
+/wp-content/themes/classic/inc/RxRnburb.php 1 -
+/wp-content/plugins/dzs-zoomsounds/a57bze8931.php 2 -
+/xmrlpc.php 1 www.bing.com
+/upload/apache.php 2 http://www.michalknychaus.com/upload/apache.php
+/admin/plugins/umditor/net/controller.ashx 2 -
+/install/wdf.php 2 http://www.michalknychaus.com/install/wdf.php
+/wp-content/radio.php 2 -
+/xleet-shell.php 2 -
+/backup/Bitcoin/wallet.dat 1 -
+/license.php 2 -
+/wp-content/plugins/core-stab/RxRvcpaa.php 1 -
+/manager/Script/uedit/net/controller.ashx 2 -
+/ohayo.php 2 -
+/modules/mod_araticlws/mod_araticlws.php 2 -
+/manager/ueditor123/net/controller.ashx 2 -
+/.tmb/filellli7.php 2 -
+/wp-admin/includes/readindex.php 2 -
+/interviewfor 2 -
+/plugins/net/UEditor 2 -
+/htmleditor//ueditor/net/controller.ashx 2 -
+/plugins/ajs.delivery.php 2 -
+/main.js 2 -
+/old 8 -
+/tool/ueditor/net/controller.ashx 2 -
+/admin/ue/net/controller.ashx 2 -
+/adadaddadad 4 -
+/Utility/ueditor/net/controller.ashx 2 -
+/news/wp-includes/wlwmanifest.xml 16 -
+/wp-content/cgialfa 1 www.bing.com
+/wp-content/plugins/dzs-zoomsounds/savepng.php 1 -
+/ueditor/utf8-net/net/controller.ashx 2 -
+/ueditorgbk/net/controller.ashx 2 -
+/upload/newfile.php 2 http://www.michalknychaus.com/upload/newfile.php
+/beence.php 1 www.bing.com
+/.well-known/cgialfa 1 www.bing.com
+/bkv74.php 2 -
+/wp/wp-login.php 3 http://insidejo.webd.pl
+/admins.php 2 http://www.michalknychaus.com/admins.php
+/data/1234.php 2 http://www.michalknychaus.com/data/1234.php
+/xmlrpc.php 39 -
+/indoxploit.php 2 -
+/manage/ueditor1/net/controller.ashx 2 -
+/wso1.php 2 -
+/wp-includes/images/wp-blog.php 2 -
+/css/album.css 2 -
+/fwizsdbf.php 1 www.google.com
+/wp-content/includes/uploads/Va.php 2 -
+/new/ 2 -
+/3.php 2 -
+/manage/net/controller.ashx 2 -
+/apple-touch-icon-precomposed.png 42 -
+/ueditor1.3.6/net/controller.ashx 2 -
+/public/assets/global/plugins/jquery-file-upload/server/php/index.php 2 -
+/inc/editor/controller.ashx 2 -
+/edit/ueditor/net/controller.ashx 2 -
+/wp-admin/includes/class-wp-pagebuilders-2myLvx.php 2 -
+/wp-plugins.php 1 www.bing.com
+/admin/net/controller.ashx 2 -
+/wp-booking.php 1 www.bing.com
+/g.php 2 -
+/theme/js/filemanager/dialog.php 1 -
+/ucserver/admin.php 2 http://www.baidu.com/
+/apache.php 2 http://www.michalknychaus.com/apache.php
+/EmpireBak2010/doc/doc.html 1 -
+/admin/ueditor1/net/controller.ashx 2 -
+/backup_02012022.zip 1 -
+/admin/controller/extension/extension/ALFA_DATA 1 www.bing.com
+/alexuse.php 2 -
+/backup_20012022.zip 1 -
+/api/controller.ashx 2 -
+/admin/umeditor/net/controller.ashx 2 -
+/f.php 2 -
+/wp-content/mu-plugins-old/index.php 1 www.bing.com
+/wp/wp-includes/wlwmanifest.xml 22 -
+/system_log.php 1 www.bing.com
+/www.sql 1 -
+/crgrvnkb.php 2 -
+/news/ueditor/net/controller.ashx 2 -
+/wp-content/RxRodwin.php 1 -
+/indeeex.php 2 -
+/old/wp-admin/install.php 4 -
+/statics/plugins/ueditor/net/controller.ashx 2 -
+/backup_10032022.zip 1 -
+/Themes/ueditor/net/controller.ashx 2 -
+/member/ueditor/controller.ashx 2 -
+/baindex.php 2 -
+/phpinfo.php 2 -
+/UEditor/ueditor/net/controller.ashx 2 -
+/wp-admin/alfacgiapi 1 www.bing.com
+/backup_13042022.zip 1 -
+/case/ueditor/net/controller.ashx 2 -
+/wp-content/uploads/alfacgiapi 1 www.bing.com
+/backup_01032022.zip 1 -
+/plugins/ueditor/net/controller.ashx 2 -
+/index.php/public-space---neon-lights/ 5 -
+/wp-content/about.php 2 -
+/backup/wallet.dat 1 -
+/js/net/controller.ashx 2 -
+/wp-22.php 2 -
+/wp-content/plugins/randominit.php 2 -
+/e.php 2 -
+/admin/ueditor123/net/controller.ashx 2 -
+/41.php 2 -
+/wp-content/plugins/ioptimization/IOptimize.php 6 -
+/templets/newfile.php 2 http://www.ulalucinska.com/templets/newfile.php
+/UEditor-utf8-net/net/controller.ashx 2 -
+/2index.php 2 -
+/install/demodata.php 2 http://www.michalknychaus.com/install/demodata.php
+/wp-admin/css/colors/coffee/fw.php 2 -
+/wp-content/plugins/core-stab/RxRramzr.php 1 -
+/js/plugins/ueditor/net/controller.ashx 2 -
+/poetbot/sitemap 1 -
+/1337.php 2 -
+/Admin/UEdit/net/controller.ashx 2 -
+/8.php 2 -
+/system/Script/uedit/net/controller.ashx 2 -
+/wp-admin/includes/media-site.php 2 -
+/bitcoin/wallet.dat 1 -
+/anone.php 2 -
+/SdUeditor/net/controller.ashx 2 -
+/fw.php 4 -
+/com/ueditor/net/controller.ashx 2 -
+/lf.php 2 -
+/blog.php 2 -
+/admin.php 6 http://www.michalknychaus.com/admin.php
+/wordpress 8 -
+/config.bak.php 1 www.bing.com
+/assets/ueditor/net/controller.ashx 2 -
+/2019/wp-includes/wlwmanifest.xml 22 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/.well-known/acme-challenge/dist-block-rss.php 2 -
+/data/admin/ver.txt 10 -
+/uploads/admins.php 2 http://www.michalknychaus.com/uploads/admins.php
+/wp-ahmed.php 2 -
+/sindex.php 2 -
+/FoxWSO.php 2 -
+/api/ping.php 2 -
+/pocajzno.php 1 www.google.com
+/textarea/ueditor/net/controller.ashx 2 -
+/uccenter/admin.php 2 http://www.baidu.com/
+/public/assets/plugins/jquery-file-upload/server/php/index.php 2 -
+/haxor.php 2 -
+/test/wp-admin/install.php 4 -
+/center/admin.php 2 http://www.baidu.com/
+/backup_10022022.zip 1 -
+/100.php 2 -
+/wp-includes1index.php 2 -
+/m/1234.php 2 http://www.ulalucinska.com/m/1234.php
+/.fk.php 2 -
+/admin/script/umditor/net/controller.ashx 2 -
+/wp-admin/css/colors/midnight/wp-crons.php 2 -
+/site/wp-includes/wlwmanifest.xml 22 -
+/wp-admin/includes/edit-tag-menu.php 2 -
+/wp-adminxleet.php 2 -
+/_profiler/phpinfo 2 -
+/common/ueditor/net/controller.ashx 2 -
+/bbs/ueditor/controller.ashx 2 -
+/kk.php 2 -
+/admin/uedit/net/controller.ashx 2 -
+/newfile.php 2 http://www.michalknychaus.com/newfile.php
+/Assets/Plugins/UEdit/net/controller.ashx 2 -
+/style.php 4 -
+/export.php 3 www.bing.com
+/backup_05062022.zip 1 -
+/SdUeditor/controller.ashx 2 -
+/.env.example 2 -
+/mar.php 2 -
+/123.php 2 -
+/includes/up.php 2 -
+/wp-confirm.php 2 -
+/view/uedit/net/controller.ashx 2 -
+/admin/plugin/umditor/net/controller.ashx 2 -
+/view-source: 1 -
+/ne.php 2 -
+/install/admins.php 2 http://www.michalknychaus.com/install/admins.php
+/robots.txt 2348 -
+/manage/ue/net/controller.ashx 2 -
+/wp-admin/x.php 2 -
+/wp-content/themes/houzez/style.css 3 -
+/_ignition/health-check/ 4 -
+/blueimp/server/php/index.php 2 -
+/inc/ueditor/net/controller.ashx 2 -
+/javascript/uedit/net/controller.ashx 2 -
+/wordpress/wp-admin/setup-config.php 2 -
+/blog/ueditor/controller.ashx 2 -
+/admin/assets/jquery-file-upload/server/php/index.php 2 -
+/uploads/demodata.php 2 http://www.michalknychaus.com/uploads/demodata.php
+/wp-admin/includes/maint/wp-readindex.php 2 -
+/wp-admin/radio.php 2 -
+/mjjkzbqi.php 1 www.google.com
+/s_ne.php 1 www.bing.com
+/utchiha505.php 2 -
+/lib/Ueditor/net/controller.ashx 2 -
+/file.php 2 -
+/ue/net/controller.ashx 2 -
+/plugins/umditor/net/controller.ashx 2 -
+/wp-content/uploads/2021/12/fw.php 2 -
+/public/static/admin/lib/webuploader/server/preview.php 1 -
+/wp-includes/widgets/class-wp-widget-tags.php 2 -
+/.vscode/sftp.json 1 -
+/edit-form.php 2 -
+/UEditor/net 2 -
+/ups.php 5 www.bing.com
+/x.php 7 http://www.michalknychaus.com/x.php
+/data/x.php 2 http://www.michalknychaus.com/data/x.php
+/beifen/doc.html 1 -
+/upload/1234.php 2 http://www.michalknychaus.com/upload/1234.php
+/wso2.php 2 -
+/lol.php 2 -
+/backup_23012022.zip 1 -
+/m/wdf.php 2 http://www.michalknychaus.com/m/wdf.php
+/backup/doc.html 1 -
+/wp-admin/includes/tablepress_controllers.php 2 -
+/website/wp-includes/wlwmanifest.xml 16 -
+/wp-admin/admin-ajax.php 2 -
+/moduless.php 1 www.bing.com
+/backup_10042022.zip 1 -
+/new/uedit/controller.ashx 2 -
+/wp-content/uploads/ALFA_DATA 1 www.bing.com
+/backup_19052022.zip 1 -
+/blog/xmlrpc.php 1 -
+/index.php/workshops-in-dzop-method/ 18 -
+/poetbot/sitemap.txt 1 -
+/ALFA_DATA 1 www.bing.com
+/uploads/wdf.php 2 http://www.michalknychaus.com/uploads/wdf.php
+/shop/wp-includes/wlwmanifest.xml 22 -
+/images/vuln.php 2 -
+/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 2 -
+/nginx.php 2 http://www.ulalucinska.com/nginx.php
+/backup_01042022.zip 1 -
+/template/admins.php 2 http://www.michalknychaus.com/template/admins.php
+/backup_19032022.zip 1 -
+/alfa 2 -
+/api/plugins/ueditor/net/controller.ashx 2 -
+/edit/uedit/net/controller.ashx 2 -
+/backup_10012022.zip 1 -
+/wso1337.php 2 -
+/blog/wp-content/themes/seotheme/mar.php 2 -
+/wp-adminsetup-config.php 2 -
+/wp-admin.php 3 www.bing.com
+/backup_01012022.zip 1 -
+/upload/x.php 2 http://www.michalknychaus.com/upload/x.php
+/include/UEditor 2 -
+/Public/admin/lib/webuploader/0.1.5/server/preview.php 1 -
+/includes/ueditor/net/controller.ashx 2 -
+/apple-touch-icon.png 42 -
+/upload/uc_server/admin.php 2 http://www.baidu.com/
+/jindex.php 2 -
+/ueditor123/net/controller.ashx 2 -
+/backup_02032022.zip 1 -
+/images/cmd.php 2 -
+/Scripts/uedit/net/controller.ashx 2 -
+/templets/x.php 2 http://www.michalknychaus.com/templets/x.php
+/backup_23042022.zip 1 -
+/w.php 4 -
+/wp-content/themes/pridmag/db.php 2 -
+/uploadfile/ueditor/net/controller.ashx 2 -
+/manage/Script/UeDitor/net/controller.ashx 2 -
+/index.php/polish-water/ 11 -
+/backup_20052022.zip 1 -
+/wp-admin/includes/xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 2 -
+/wp-login.php 29 -
+/case/controller.ashx 2 -
+/admin/Ueditor/net/controller.ashx 1 -
+/api/text.php 2 -
+/backup_29042022.zip 1 -
+/club/uc_server/admin.php 2 http://www.baidu.com/
+/view/ueditor/net/controller.ashx 2 -
+/manage/umeditor/net/controller.ashx 2 -
+/Btc/wallet.dat 1 -
+/bbs/ucenter/admin.php 2 http://www.baidu.com/
+/error.php 5 www.bing.com
+/misc/ajax.js 1 -
+/1.php 7 http://www.michalknychaus.com/1.php
+/wp1/wp-includes/wlwmanifest.xml 22 -
+/admin/lib/ueditor/1.4.3/net/controller.ashx 2 -
+/upload/admins.php 2 http://www.michalknychaus.com/upload/admins.php
+/s_e.php 1 www.bing.com
+/conn/ueditor/net/controller.ashx 2 -
+/wp-content/alfacgiapi 1 www.bing.com
+/modules/mod_ariimageslidersa/mod_ariimageslidersa.php 2 -
+/wp-content/RxRxgjld.php 1 -
+/template/newfile.php 2 http://www.michalknychaus.com/template/newfile.php
+/public/admin/assets/plugins/jquery-file-upload/server/php/index.php 2 -
+/templates/beez3/index.php 1 www.bing.com
+/install/1.php 2 http://www.ulalucinska.com/install/1.php
+/static/admin/lib/webuploader/0.1.5/server/preview.php 1 -
+/wp-content/wp.php 2 -
+/new/wp-admin/install.php 4 -
+/backup_16012022.zip 1 -
+/upload/1.php 2 http://www.michalknychaus.com/upload/1.php
+/upfile/ueditor/net/controller.ashx 2 -
+/Editor/wueditor/net/controller.ashx 2 -
+/caches/caches_commons/caches_data/spicy.cache.php 2 -
+/backup_08032022.zip 1 -
+/net/controller.ashx 2 -
+/uedit/net/controller.ashx 2 -
+/views/uedit/net/controller.ashx 2 -
+/lib/uedit/net/controller.ashx 2 -
+/Company/ueditor/net/controller.ashx 2 -
+/wikindex.php 5 www.bing.com
+/beifei/doc.html 1 -
+/wp-uploads.php 2 -
+/inc/UEditor 2 -
+/ashx/controller.ashx 3 -
+/trcrjifi.php 1 www.google.com
+/UserControls/uedit/net/controller.ashx 2 -
+/backup/ 2 -
+/include/ueditor/net/controller.ashx 2 -
+/backup/bitcoin/wallet.dat 1 -
+/js/UEditor 2 -
+/wp-admin/setup-config.php 2 -
+/users/admin.php 2 http://www.baidu.com/
+/ueditor/1.4.3/controller.ashx 2 -
+/wp-admin/includes/maint/repair-bak.php 2 -
+/js/ueditor1_4_3/net/controller.ashx 2 -
+/wordpress/ 22 -
+/backup_30012022.zip 1 -
+/wp.php 5 www.bing.com
+/js/ueditor/net/controller.ashx 2 -
+/uploads/contexmini.php 2 -
+/plugin/umditor/net/controller.ashx 2 -
+/bc 6 -
+/ebak/doc/doc.html 1 -
+/wp-content/plugins/ubh/up.php 1 www.bing.com
+/Controls/Ueditor/net/controller.ashx 1 -
+/alfacgiapi/perl.alfa 5 www.google.com
+/backup_17012022.zip 1 -
+/textarea/uedit/net/controller.ashx 2 -
+/LUEditor/net/controller.ashx 2 -
+/01.php 2 -
+/uploads/x.php 2 http://www.michalknychaus.com/uploads/x.php
+/home 6 -
+/script/umeditor/net/controller.ashx 2 -
+/marijuana.php 2 -
+/css/image/css.php 2 -
+/wp-story.php 2 -
+/wp-admin/js/xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 2 -
+/old/ 2 -
+/priv8.php 2 -
+/Sendemail.php 2 -
+/bbs/ueditor/net/controller.ashx 2 -
+/wp-content/plugins/vwcleanerplugin/bump.php 2 -
+/wp-includes/alfacgiapi 1 www.bing.com
+/wp-admin/cgialfa 1 www.bing.com
+/wp-content/plugins/core-stab/RxRhzigg.php 1 -
+/statics/UEditor 2 -
+/wp-cache.php 2 -
+/sitemap 9 -
+/wp-content/RxRcoerc.php 1 -
+/data/admin/allowurl.txt 6 -
+/wp-content/RxRpdpbe.php 1 -
+/a.php 5 http://www.michalknychaus.com/a.php
+/1 2 -
+/bbs/uc/admin.php 2 http://www.baidu.com/
+/wdf.php 2 http://www.michalknychaus.com/wdf.php
+/wp-content/RxRovesq.php 1 -
+/gank.php.PhP 3 www.bing.com
+/new 8 -
+/mysql.sql 1 -
+/wp-plain.php 7 www.google.com
+/plugin/net/UEditor 2 -
+/hello.php 4 -
+/gl/UEditor 2 -
+/wp-content/RxRihetd.php 1 -
+/Uti1ity/UEditor/net 2 -
+/wp/ 2 -
+/xleet.php 3 www.bing.com
+/1975.php 2 -
+/system/uedit/net/controller.ashx 2 -
+/oldsite/wp-admin/install.php 4 -
+/umeditor1_2_2-utf8-net/net/controller.ashx 2 -
+/uploads/apache.php 2 http://www.michalknychaus.com/uploads/apache.php
+/google3e3694cf95c4dee1.html 2 -
+/ueditor1_4_3-utf8-net/net/controller.ashx 2 -
+/wp-content/RxRagfre.php 1 -
+/uploads/admin.php 2 http://www.michalknychaus.com/uploads/admin.php
+/plugin/umeditor/net/controller.ashx 2 -
+/srx.php 2 -
+/upload/a.php 2 http://www.michalknychaus.com/upload/a.php
+/backup_17042022.zip 1 -
+/index.php/autonomy-congress/ 12 -
+/wp-content/plugins/three-column-screen-layout/db.php 2 -
+/bbs/center/admin.php 2 http://www.baidu.com/
+/backup_05032022.zip 1 -
+/js/net/UEditor 2 -
+/olu.php 2 -
+/admin/assets/global/plugins/jquery-file-upload/server/php/index.php 2 -
+/manager/net/controller.ashx 2 -
+/b2.php 2 -
+/q.php 2 -
+/tools/uedit/net/controller.ashx 2 -
+/data.php 2 -
+/m/a.php 2 http://www.ulalucinska.com/m/a.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 902
+43.130.149.162 311 311 244656 20230324034617
+43.130.145.133 248 248 178607 20230324034617
+43.130.154.196 199 199 140864 20230324034616
+43.130.154.223 175 175 109326 20230324034616
+43.130.122.222 98 195 31761242 20230324051049
+43.130.147.70 88 88 61886 20230324034616
+81.170.128.52 86 86 306313 20230307231517
+31.223.184.123 69 584 194262603 20230309072050
+188.33.248.105 52 310 95002721 20230326184516
+77.65.111.93 47 512 144830386 20230328215525
+77.65.17.194 44 490 175293139 20230323101918
+159.89.26.63 42 42 670105 20230315030833
+138.201.246.33 42 42 688319 20230322112634
+133.18.201.197 42 42 153050 20230304043441
+65.109.231.207 42 42 680513 20230324084922
+46.223.163.144 38 355 120153955 20230314172523
+87.249.134.130 36 341 118843765 20230304142740
+80.5.253.45 36 353 119756909 20230315171137
+194.81.31.4 32 307 101921365 20230307155144
+109.173.212.92 31 202 60328824 20230331162954
+37.203.186.197 28 366 130304400 20230322224742
+185.12.150.110 26 26 93722 20230304212750
+85.253.197.246 26 170 40787768 20230314203204
+121.141.156.110 25 182 45122934 20230313135224
+69.160.160.51 25 29 108011 20230306222551
+54.188.132.236 1 1 3243 20230317104754
+20.120.15.12 0 1 259758 
+14.116.157.23 1 1 3374 20230325162023
+35.88.227.163 2 2 6486 20230311102656
+54.190.175.93 1 1 2662 20230310143725
+52.207.218.78 0 1 375731 
+5.173.224.138 1 5 21705 20230323222219
+34.219.246.248 1 1 3244 20230329072525
+82.28.171.3 1 5 24518 20230324002637
+74.125.151.77 1 1 53 20230324222157
+87.120.84.161 1 1 2802 20230307073753
+185.253.42.33 1 1 3243 20230307175346
+173.252.127.12 0 6 383200 
+1.116.84.14 2 6 21704 20230319140032
+44.204.144.72 0 1 246817 
+212.47.230.230 1 1 2662 20230331091013
+35.170.61.215 0 1 177179 
+185.236.106.197 1 1 11845 20230310025710
+31.10.148.71 10 35 8267907 20230330204950
+80.187.123.59 1 8 60154 20230317194637
+79.137.207.203 21 21 368634 20230303101002
+91.121.81.184 2 2 23972 20230307101100
+203.119.241.107 0 1 198911 
+5.180.44.65 1 1 4243 20230313112921
+51.254.199.11 8 8 25948 20230331195903
+37.1.214.127 1 1 3243 20230317140118
+93.22.38.203 1 1 3374 20230331181423
+52.39.10.46 1 1 3243 20230307101330
+77.65.156.241 1 5 21705 20230304091404
+52.35.17.165 1 1 3244 20230310062548
+42.96.2.54 1 1 4135 20230324222813
+3.144.112.184 1 9 141103 20230307160601
+213.173.103.221 0 86 32727432 
+34.220.169.122 1 1 3252 20230310062538
+84.50.146.244 19 229 68426741 20230321212821
+23.229.113.138 4 4 12108 20230314112956
+79.131.146.93 2 3 7108 20230331234646
+18.236.161.52 1 1 3244 20230310062534
+109.239.58.107 2 2 6487 20230311214104
+20.124.222.182 0 1 543476 
+64.140.134.20 1 1 2664 20230309083337
+106.75.128.142 1 1 11892 20230320055027
+83.120.64.191 3 3 18171 20230313235518
+51.79.191.160 2 15 3811190 20230325093044
+123.60.209.236 2 2 6489 20230303223310
+54.184.39.17 1 1 3244 20230305062611
+198.235.24.169 1 1 11986 20230307094510
+199.244.88.222 1 1 3244 20230310050638
+5.78.89.148 1 1 12033 20230323191202
+35.91.41.92 1 1 3252 20230323063012
+34.214.123.144 2 2 6745 20230310202728
+3.90.154.123 0 4 1258792 
+144.91.106.14 2 2 6499 20230302103940
+31.13.127.120 0 1 542555 
+103.172.41.207 3 7 694266 20230313112921
+46.114.203.170 1 1 2802 20230310230327
+52.37.32.157 1 1 5272 20230310203027
+40.77.202.126 0 2 146880 
+27.18.123.85 2 2 6489 20230319015932
+35.202.28.174 0 1 270530 
+153.242.98.131 3 31 7460914 20230325060200
+54.202.238.223 1 1 3252 20230326074625
+85.237.234.73 1 1 3374 20230325140211
+198.235.24.31 1 1 12315 20230303141752
+203.119.241.101 0 1 239926 
+150.254.177.1 3 7 29715 20230311121755
+92.184.124.176 0 1 15380 
+51.158.76.230 1 1 2800 20230331091037
+173.252.127.13 0 5 4238048 
+45.76.177.162 1 1 3238 20230310120744
+45.138.16.205 1 1 11892 20230314054459
+86.160.113.109 3 7 28194 20230313211255
+1.209.174.105 1 1 3244 20230314054805
+1.170.238.132 2 11 3561846 20230313134509
+146.70.202.172 2 2 6043 20230316060749
+193.83.132.36 1 5 21705 20230303094401
+52.90.241.83 0 1 267770 
+54.184.248.146 1 1 3244 20230323064144
+51.158.64.149 1 1 2662 20230331090717
+34.221.97.145 1 1 3243 20230314102229
+3.238.171.220 0 1 225138 
+206.238.115.152 2 2 6489 20230328153623
+64.253.7.73 1 1 4225 20230304103558
+183.136.225.44 3 3 27177 20230311165725
+52.140.223.236 11 11 35689 20230320040453
+167.235.76.116 2 2 6506 20230323223114
+5.180.44.73 1 9 2419347 20230325092728
+45.157.126.214 1 1 0 20230308014639
+18.237.193.108 1 1 3254 20230328110931
+104.28.64.54 16 71 18233654 20230324104113
+51.15.132.78 1 1 2665 20230331090909
+217.237.67.105 7 56 15683992 20230319114056
+34.220.18.162 1 1 3254 20230317104818
+223.235.121.157 2 10 42968 20230302133245
+3.230.169.85 0 2 1062254 
+5.161.205.231 0 351 104193490 
+176.59.39.25 1 8 60154 20230319113219
+18.237.54.108 1 1 3254 20230326111519
+203.119.241.113 0 1 231757 
+87.236.176.222 1 1 3244 20230313141036
+101.68.211.2 4 4 48978 20230310180225
+54.183.224.15 1 1 12080 20230325120433
+34.123.200.216 0 9 5693216 
+35.232.185.134 0 4 1312923 
+35.226.90.179 0 1 15380 
+86.143.37.42 9 133 41703970 20230315075637
+104.248.75.7 1 1 3243 20230330143855
+54.212.118.92 1 1 3243 20230324102519
+193.235.141.17 3 3 9758 20230331032048
+193.235.141.164 1 1 3254 20230309134918
+54.201.111.161 1 1 3254 20230307101332
+205.210.31.49 1 1 12080 20230307154856
+51.15.245.140 1 3 37224 20230331091019
+18.236.177.187 1 1 3243 20230328112353
+34.133.249.251 0 5 1767556 
+121.134.39.24 0 25 7978589 
+222.211.72.52 4 4 47662 20230325043807
+13.230.239.236 6 19 1311355 20230310115533
+136.23.4.37 1 20 2179184 20230307153919
+35.160.131.102 1 1 3244 20230329071933
+178.208.160.97 1 1 0 20230324062305
+192.69.89.55 4 11 70276 20230314080649
+198.235.24.145 1 1 12315 20230308060302
+51.158.100.53 2 2 0 20230331084137
+163.172.182.104 1 1 2663 20230331091053
+41.137.43.2 1 1 3243 20230305181205
+87.214.89.211 1 5 21705 20230305154042
+128.2.204.196 0 2 740776 
+34.29.169.30 0 13 3942988 
+34.247.77.239 2 2 9303 20230310212145
+35.91.130.192 1 1 3252 20230329072006
+70.161.153.61 1 1 4225 20230305232947
+217.182.192.90 1 1 11986 20230316195952
+81.169.250.152 1 1 12174 20230308072945
+52.12.9.165 1 1 3254 20230328111125
+146.88.17.129 1 1 3244 20230331084624
+18.191.237.194 18 66 106327 20230330063520
+20.163.108.30 2 2 23784 20230314124526
+35.90.190.157 1 1 3243 20230302101710
+54.187.3.248 2 2 7919 20230310232917
+113.108.9.38 2 2 6749 20230328185520
+1.170.238.187 1 6 1877080 20230313112918
+168.151.93.225 1 1 6054 20230309083335
+46.114.183.19 3 14 48577 20230321194035
+193.56.244.90 4 11 71802 20230325083150
+163.172.173.117 1 1 6054 20230331090729
+3.235.101.193 0 6 1691003 
+68.235.43.92 3 3 35535 20230315093021
+194.163.137.108 2 2 6484 20230318052537
+20.39.39.105 0 1 542555 
+188.240.57.126 1 1 6057 20230331162126
+203.119.241.83 0 1 414763 
+146.75.162.88 2 9 28031 20230324081253
+85.193.95.183 1 4 6325 20230319230654
+194.171.57.97 2 10 46223 20230316100843
+1.170.208.132 0 4 1960155 
+113.142.131.55 2 2 6749 20230313215413
+1.170.211.213 0 2 477171 
+163.116.172.113 24 282 98449438 20230308150801
+51.11.106.26 1 9 1375784 20230324102748
+5.180.44.72 0 5 2012223 
+162.225.32.234 1 1 4225 20230304190241
+37.47.129.14 7 76 20821261 20230321221012
+23.229.65.222 1 4 5529 20230324101048
+193.170.138.1 3 10 68428 20230316124719
+34.145.165.227 2 2 34329 20230331071123
+58.152.48.39 8 53 15670719 20230311120143
+24.136.9.177 3 17 4997965 20230330174931
+172.58.255.100 2 2 8450 20230306032514
+20.39.39.70 0 1 543476 
+54.218.147.142 1 1 2738 20230310222059
+34.106.78.22 3 3 35958 20230318042054
+157.42.245.199 1 21 2753329 20230305175018
+93.159.230.87 1 1 3243 20230323005233
+34.219.83.211 1 1 3244 20230303065514
+34.216.222.71 1 1 3252 20230320062006
+34.212.38.155 2 2 6508 20230311103206
+193.235.141.157 1 1 3252 20230301224958
+68.119.36.8 1 1 4225 20230306221345
+34.134.250.14 0 2 541060 
+34.219.116.228 1 1 3244 20230316061827
+188.33.240.241 1 18 3308147 20230320231601
+5.161.205.95 1 1 12174 20230322101140
+31.10.168.228 2 6 27762 20230309160254
+35.89.102.115 1 1 3254 20230324102533
+205.210.31.24 1 1 12127 20230308022927
+35.175.107.1 0 3 1671381 
+5.188.62.17 1 1 3252 20230307194101
+52.32.208.44 1 1 3252 20230320062036
+148.153.115.85 1 1 3239 20230328022643
+113.125.51.198 1 1 3375 20230302210553
+196.189.243.86 1 24 3730941 20230303231842
+216.251.130.74 13 65 282160 20230330094127
+211.249.246.226 12 12 171015 20230312125945
+171.13.14.84 1 7 40123 20230316172540
+137.220.111.30 2 6 24949 20230301171736
+178.62.82.141 7 7 28075 20230311211007
+45.72.48.130 4 4 12105 20230303072702
+139.99.112.93 1 5 1281240 20230313112920
+35.232.163.53 0 19 4682102 
+35.87.133.104 1 1 3862 20230310161817
+94.175.76.177 2 6 27256 20230304131722
+88.98.210.234 1 11 1399711 20230308200811
+121.138.214.129 0 8 2100475 
+20.39.48.150 0 1 414763 
+84.161.177.170 1 1 3244 20230311151033
+51.15.138.84 1 1 5273 20230331090805
+54.200.73.3 1 1 3243 20230326111739
+20.25.226.161 1 1 3243 20230309114151
+184.94.240.88 3 3 50131 20230327111932
+203.119.241.82 0 1 94900 
+54.225.104.196 1 1 2665 20230321195403
+104.28.45.42 17 86 26241383 20230324112043
+90.92.253.36 5 19 5004648 20230329000231
+37.140.192.233 1 1 3243 20230310174030
+178.43.19.3 3 7 27308 20230307235256
+163.172.183.5 1 1 2665 20230331090706
+34.209.104.49 1 1 3252 20230310062551
+35.91.100.10 1 1 3243 20230308103925
+73.35.120.172 1 1 4225 20230304035843
+44.192.50.188 0 1 279854 
+147.228.137.1 10 79 20835761 20230314142031
+1.170.214.55 1 4 920162 20230313133735
+51.15.133.189 1 1 3452 20230331090750
+212.122.56.97 1 26 8230727 20230329153222
+37.7.5.13 1 5 21705 20230329110602
+34.220.223.35 1 1 3245 20230310155143
+54.74.255.114 1 1 3252 20230329145433
+144.63.247.11 2 6 38964 20230322150249
+64.124.8.31 1 7 3244 20230304063302
+64.140.128.6 1 1 4225 20230309083340
+64.124.8.38 1 1 2661 20230306115637
+64.124.8.29 0 2 0 
+173.56.221.226 1 5 24518 20230303051011
+51.79.193.66 0 12 3216862 
+188.33.240.121 2 2 6488 20230330202414
+193.50.248.249 22 225 70320611 20230308114216
+188.151.168.191 1 5 21704 20230320142518
+64.124.8.45 3 3 9643 20230314001909
+54.186.245.141 1 1 3243 20230326111454
+34.243.189.97 1 1 3254 20230308135416
+31.183.206.212 4 8 31567 20230315215427
+51.158.114.252 1 1 2661 20230331090752
+37.203.186.196 0 8 2466361 
+77.252.46.61 5 33 7279396 20230307173859
+117.99.232.4 1 24 3723782 20230330125358
+3.129.204.103 18 66 107695 20230330132121
+35.90.186.156 1 1 3254 20230311103257
+34.30.24.226 0 1 542555 
+103.172.41.210 2 14 3142489 20230325093108
+18.234.248.213 0 2 802988 
+223.240.99.104 2 2 6749 20230314200005
+146.70.104.45 9 115 30716032 20230322103947
+64.124.8.52 0 19 202084 
+64.124.8.36 1 1 2665 20230305102329
+169.150.196.81 3 3 9774 20230301115744
+138.15.110.108 0 14 3683199 
+52.38.227.198 1 1 3243 20230328110743
+3.81.24.129 0 2 858482 
+203.119.241.111 0 1 239926 
+54.185.135.134 1 1 3252 20230331075510
+3.236.181.190 0 4 1421543 
+37.30.8.106 2 10 1362548 20230310143427
+77.252.46.42 1 15 4371584 20230310203545
+35.92.75.32 1 1 16580 20230313111510
+66.69.146.162 1 1 4225 20230305201218
+3.225.93.240 2 2 6635 20230306013157
+198.235.24.131 1 1 11986 20230303231645
+5.151.93.208 0 8 2125164 
+101.199.254.198 1 1 605 20230322221336
+109.173.211.202 4 61 11421279 20230325100636
+104.28.101.148 1 1 3945 20230312162334
+18.209.164.213 0 1 725834 
+103.125.233.47 1 1 3255 20230328165632
+71.8.69.73 1 1 4225 20230305220219
+118.222.74.113 1 13 4444341 20230331092202
+188.33.240.142 1 35 8635440 20230310091700
+172.58.232.152 1 1 4225 20230305235112
+163.172.179.206 1 1 3895 20230331090933
+23.21.32.167 0 2 1285101 
+157.40.119.227 1 5 21263 20230301183820
+34.69.43.65 0 8 3221017 
+86.88.50.93 12 134 39920380 20230330182120
+193.140.88.3 0 1 277886 
+18.237.19.186 1 1 3254 20230324102611
+117.136.111.118 4 42 12364949 20230313134847
+54.146.43.232 0 1 445286 
+171.13.14.20 1 2 3862 20230316172529
+109.173.147.254 10 36 5086659 20230313123306
+35.188.80.232 0 16 5676252 
+34.222.104.247 1 1 3244 20230310120523
+163.172.183.118 1 1 3513 20230331090951
+223.247.178.167 2 2 6749 20230321162041
+193.235.141.160 2 2 6506 20230307025300
+34.222.225.37 1 1 3243 20230317104824
+95.90.244.200 20 134 36522825 20230316163352
+86.48.12.158 1 1 3245 20230306020514
+128.2.179.211 0 1 223193 
+51.15.199.83 1 1 3844 20230331090755
+109.173.217.164 3 45 12102993 20230310201230
+108.36.210.140 1 1 4225 20230305063539
+20.39.49.238 0 1 397793 
+130.43.140.29 1 18 3965626 20230313221033
+40.77.188.241 0 7 63216980 
+35.238.237.100 0 46 15532468 
+82.165.241.64 4 4 12974 20230329005638
+77.172.154.182 4 4 12980 20230324141358
+34.215.126.41 1 1 3244 20230331075338
+93.47.217.221 1 1 3892 20230317184751
+123.6.49.38 1 1 605 20230310014719
+27.115.124.38 0 3 704352 
+4.205.88.88 2 2 6487 20230328083311
+24.0.55.237 1 1 4225 20230305023014
+64.124.8.25 2 9 7326 20230308112915
+203.119.241.86 0 1 202087 
+52.13.42.157 1 1 3252 20230329071934
+64.124.8.49 0 3 0 
+34.172.42.214 0 8 2466361 
+64.124.8.47 2 2 6486 20230309051400
+107.219.214.230 1 1 4225 20230305024857
+47.226.132.116 1 1 4225 20230306171558
+218.66.216.7 2 2 20 20230324094022
+54.148.209.248 1 1 3244 20230303062141
+51.15.133.5 1 1 2662 20230331091019
+163.172.150.229 1 1 3240 20230331090933
+34.220.97.190 1 1 3254 20230308103929
+1.192.192.6 1 1 605 20230322063711
+3.238.131.79 0 2 644369 
+119.96.11.234 0 10 2600159 
+193.235.141.3 1 1 3252 20230325132840
+5.78.88.102 0 351 120886335 
+34.217.20.204 1 1 3254 20230308103956
+203.119.241.91 0 1 410672 
+203.119.241.88 0 1 397793 
+20.163.64.176 3 3 35723 20230309050032
+128.90.21.178 1 1 0 20230306084959
+128.90.142.227 1 1 0 20230326010420
+109.196.118.132 1 24 3730941 20230309165857
+35.89.34.22 1 1 3243 20230304103318
+64.124.8.40 3 3 10884 20230312112226
+35.90.121.86 1 1 3244 20230331075138
+173.252.127.16 0 3 28608 
+34.239.153.65 0 3 722503 
+42.236.10.75 0 2 545010 
+75.197.164.134 1 1 4225 20230306063854
+18.215.244.11 0 2 571227 
+68.132.100.38 1 1 4225 20230305010832
+90.3.245.83 2 10 1649283 20230326222314
+20.124.221.192 0 1 231757 
+193.235.141.19 2 2 6506 20230325101249
+210.121.156.188 7 30 4731682 20230314062130
+38.32.70.139 0 1 542555 
+42.236.10.93 1 6 1746494 20230324094035
+85.237.234.17 0 1 33779 
+51.15.219.128 1 1 3116 20230331090816
+44.200.237.249 0 2 768107 
+64.124.8.57 0 3 0 
+89.64.67.142 4 16 1444805 20230315070949
+54.185.25.155 1 1 3252 20230331075427
+103.172.41.208 1 5 1412416 20230313133710
+75.177.21.204 1 1 4225 20230305021729
+5.180.44.84 1 3 1087812 20230313121006
+76.151.91.23 1 1 4225 20230304172825
+64.124.8.50 1 1 3839 20230306121021
+84.209.9.193 1 1 3245 20230322140339
+87.153.142.191 1 5 21705 20230315095026
+217.198.191.211 1 1 3238 20230317144922
+80.75.34.19 2 19 3314337 20230307103019
+210.220.95.254 1 1 3244 20230316032137
+67.69.76.209 1 8 57340 20230307004914
+54.202.118.197 1 1 3243 20230314102110
+64.124.8.22 2 2 6518 20230317121428
+103.214.60.237 3 3 9765 20230331012629
+65.215.17.61 5 5 59695 20230324044458
+152.44.110.179 1 4 5973 20230313070140
+154.6.94.155 18 18 69854 20230308223849
+3.237.6.144 0 1 200375 
+62.74.39.110 18 159 34729929 20230307182110
+163.172.165.193 1 1 2659 20230331091006
+54.184.55.59 1 1 3244 20230303062855
+113.176.81.153 1 1 6051 20230310152021
+217.138.254.70 1 5 34421 20230321203523
+103.164.1.52 1 14 975593 20230302181520
+121.53.180.252 1 1 3245 20230318030410
+106.75.174.19 1 1 12127 20230313171955
+64.140.130.18 1 1 3554 20230309083337
+84.115.229.183 1 5 24518 20230302132314
+113.142.141.105 1 1 3375 20230321021952
+198.240.105.185 1 1 2738 20230309083335
+34.105.37.64 5 5 60259 20230322163955
+206.41.170.0 1 1 4242 20230309083338
+54.191.71.234 1 1 3244 20230302065628
+34.30.239.165 0 2 1039588 
+189.216.114.6 1 15 4986636 20230321143251
+199.244.88.221 1 1 3243 20230309150548
+193.235.141.126 2 2 6506 20230328085140
+149.56.160.159 1 5 21705 20230305234906
+18.156.194.199 1 3 158334 20230310033404
+73.25.30.128 0 1 160180 
+20.169.193.13 0 2 481408 
+218.90.200.133 4 4 13002 20230312224432
+34.220.73.122 1 1 3244 20230326074646
+193.235.141.60 2 2 6506 20230322173440
+198.235.24.41 1 1 11845 20230310060956
+173.239.232.18 18 18 70697 20230310130740
+193.235.141.134 2 2 6506 20230328052627
+93.158.91.196 1 1 3243 20230327030722
+103.172.41.209 0 6 1715547 
+116.21.57.245 1 15 4986636 20230325181826
+194.35.117.5 1 4 6324 20230304001217
+205.210.31.135 1 1 12221 20230303132734
+23.117.209.251 1 1 4225 20230304193806
+171.13.14.7 0 1 1100 
+45.138.16.206 1 1 11986 20230304182746
+178.143.44.113 1 10 1277700 20230320195529
+34.234.223.27 0 3 804741 
+12.238.37.141 1 1 4225 20230304215009
+5.180.44.81 1 6 1439961 20230313134450
+43.142.237.137 6 6 20244 20230305222102
+35.192.206.198 0 15 6482837 
+62.47.240.4 2 6 27762 20230306215910
+193.235.141.11 1 1 3254 20230306233753
+193.235.141.7 1 1 3254 20230314185716
+178.143.44.106 1 3 938022 20230301165054
+52.39.40.216 1 1 3254 20230326111457
+193.235.141.162 1 1 3254 20230317101500
+65.185.177.122 1 1 4225 20230305170919
+172.245.64.195 1 4 5531 20230324101031
+198.235.24.50 1 1 12127 20230314055049
+34.102.20.135 3 3 35958 20230326120923
+3.84.73.217 0 3 575207 
+64.124.8.55 1 1 2663 20230310030129
+203.119.241.129 0 1 177847 
+20.39.37.68 0 1 414763 
+173.252.127.5 0 1 29969 
+46.56.207.154 1 24 3894950 20230317164651
+104.28.64.55 5 75 23559011 20230324104045
+34.219.70.217 1 1 3254 20230311103207
+103.36.19.206 4 4 0 20230301212822
+35.192.139.102 0 1 542555 
+54.187.225.38 2 2 8090 20230310183322
+93.158.90.72 1 1 3244 20230327141619
+34.216.120.248 1 1 4082 20230310130002
+198.154.89.96 2 2 10271 20230331151409
+54.186.149.67 1 1 3243 20230307103355
+59.11.214.75 1 1 0 20230304044713
+64.124.8.42 1 1 2665 20230314053339
+51.158.108.87 2 2 5899 20230331090751
+80.75.34.15 4 21 16575 20230315100805
+34.217.145.152 1 1 3254 20230304103325
+54.184.126.174 1 1 3254 20230314102240
+73.186.221.224 1 1 4225 20230305062409
+64.124.8.53 0 16 0 
+131.153.142.170 1 1 3244 20230303131233
+35.153.74.56 0 1 309979 
+73.172.210.207 1 1 4225 20230304185602
+35.225.146.162 0 9 5693216 
+42.83.147.56 5 5 16218 20230324151647
+193.235.141.143 2 2 6506 20230331000426
+54.161.9.167 0 3 815132 
+176.129.238.63 6 97 29545723 20230328172026
+18.236.215.243 1 1 3243 20230328111948
+128.90.21.28 1 1 0 20230307184648
+85.215.118.80 11 11 35679 20230312204745
+51.158.115.147 1 1 2663 20230331090950
+152.57.89.41 1 24 3730941 20230323202602
+54.149.199.228 1 1 3243 20230302101309
+139.99.112.92 0 4 1595606 
+27.115.124.101 1 5 7338 20230324094137
+18.206.186.183 0 3 1136335 
+46.199.43.146 1 18 3308147 20230331233054
+64.140.135.24 1 1 2800 20230309083335
+200.68.186.16 1 8 57338 20230307005944
+122.163.17.77 1 5 21263 20230309060927
+128.199.201.90 1 1 0 20230304180727
+156.146.47.243 3 3 35535 20230306100633
+213.134.186.42 2 6 24445 20230326101251
+67.198.130.172 6 39 11184504 20230301114324
+173.252.127.24 0 9 166625 
+45.134.140.10 3 3 35535 20230305132823
+173.252.83.6 0 1 542555 
+34.68.88.9 0 9 5749888 
+52.11.36.109 1 1 3254 20230314102542
+51.15.249.165 1 1 3452 20230331091012
+47.101.52.180 5 5 16220 20230330173619
+101.198.0.181 1 1 605 20230312231903
+42.236.10.84 0 6 2050560 
+15.204.16.74 1 3 950744 20230313113858
+188.167.251.43 1 8 57338 20230325073558
+51.15.141.227 1 1 2666 20230331091105
+223.247.179.42 2 2 6750 20230323220120
+14.116.150.68 1 1 3374 20230310141823
+73.219.60.63 1 1 4225 20230305043425
+192.36.71.133 1 1 3244 20230308205209
+213.124.115.214 13 112 40424937 20230331141532
+20.12.35.101 3 3 35535 20230322094112
+107.21.253.49 0 1 15380 
+157.42.231.209 1 24 3730941 20230308045254
+52.12.207.46 1 1 3511 20230310211342
+44.201.72.132 1 1 2665 20230321195407
+27.115.124.6 0 2 35009 
+27.17.169.35 2 2 6489 20230311111214
+64.140.136.202 1 1 3243 20230309083331
+37.120.185.151 1 1 3243 20230312003308
+34.69.222.255 0 3 952437 
+88.160.142.224 1 1 0 20230309082059
+163.172.145.92 2 2 6176 20230331090742
+1.170.219.94 1 9 1605132 20230313113859
+85.221.129.102 1 18 3308147 20230320220309
+180.163.220.112 1 1 605 20230309091937
+35.162.205.52 1 1 2667 20230310180623
+34.221.126.147 1 1 3243 20230304103330
+35.173.201.195 0 2 809051 
+200.68.186.37 1 1 6190 20230307011334
+23.90.160.138 1 1 3254 20230302071432
+1.170.220.227 1 1 3200 20230325092855
+98.193.166.235 1 1 4225 20230305031740
+173.249.56.171 1 1 3243 20230315094453
+34.106.90.171 3 3 35958 20230317212813
+54.81.222.143 0 5 1850799 
+188.167.251.35 1 1 3374 20230330224845
+77.130.124.19 1 8 57338 20230324163240
+18.237.146.137 1 1 3244 20230326074435
+27.115.124.109 1 11 1196431 20230324094052
+1.209.174.120 0 8 3221017 
+57.128.65.130 1 1 3244 20230326160408
+62.144.246.42 5 43 14401117 20230317111831
+51.158.75.100 1 1 3838 20230331091015
+106.75.132.214 1 1 12127 20230320055144
+193.170.145.208 1 2 3244 20230331164835
+45.142.122.162 8 8 140432 20230305174137
+35.142.223.201 1 1 4225 20230306005018
+165.227.102.181 5 9 47388 20230321195409
+40.77.202.132 0 4 339840 
+88.1.212.45 8 104 31673103 20230302123647
+51.158.77.192 1 1 3844 20230331091000
+73.192.23.69 1 1 4225 20230304103808
+142.93.233.116 1 1 3244 20230310182844
+85.221.155.141 1 4 6325 20230325194002
+54.242.138.40 0 1 290168 
+54.198.190.242 0 4 1171299 
+89.200.15.206 1 8 57340 20230324141438
+35.186.58.11 0 1 542555 
+18.237.66.59 0 15 4286984 
+44.203.51.48 0 1 541017 
+158.69.165.243 1 1 11845 20230312150303
+15.204.16.72 0 8 2534107 
+209.141.37.166 1 1 3248 20230301154157
+18.237.28.79 1 1 3252 20230325061821
+71.219.120.22 1 1 4225 20230304213054
+173.72.64.19 1 1 4225 20230305211632
+46.114.181.197 1 5 23733 20230327152401
+5.161.50.17 1 1 4182 20230324152616
+192.46.229.7 6 6 71493 20230310073253
+185.181.60.189 1 1 3244 20230318202717
+34.133.182.213 0 12 6587285 
+194.81.31.3 4 35 13243937 20230307150830
+46.231.21.42 2 6 24949 20230320141436
+35.87.12.253 1 1 3244 20230311064600
+179.209.44.133 1 5 23733 20230302202749
+3.236.216.187 1 1 3252 20230307150409
+212.47.248.114 1 1 3116 20230331091248
+3.239.165.51 0 1 414095 
+149.56.150.233 12 12 172747 20230306060736
+98.214.86.147 1 35 36226366 20230310233649
+27.58.58.39 1 5 21263 20230304073431
+68.173.110.207 1 1 4225 20230305071001
+35.87.81.186 1 1 3244 20230301064138
+95.91.247.231 3 17 4992545 20230315175540
+185.65.135.169 1 1 3252 20230320232354
+18.237.82.66 1 1 3254 20230307101354
+35.188.219.6 0 4 1932296 
+34.220.88.94 1 1 2659 20230310135046
+34.210.4.230 1 1 3244 20230311135833
+209.99.139.146 1 1 2665 20230309083337
+68.198.97.3 1 1 4225 20230304063912
+54.191.81.14 1 1 3252 20230301061511
+89.144.196.231 14 179 56046387 20230301123123
+84.50.57.170 1 24 4704520 20230319111228
+34.218.66.167 1 1 3244 20230320061909
+174.60.139.17 1 1 4225 20230306001348
+52.3.231.201 0 3 801234 
+93.198.32.174 1 1 3245 20230316183940
+31.164.28.248 3 7 30500 20230316152225
+54.203.217.202 1 1 3244 20230312065111
+194.230.148.239 1 8 57340 20230331193012
+198.235.24.8 1 1 11892 20230309213435
+1.52.48.10 1 1 12221 20230302184621
+110.76.0.232 0 1 542555 
+185.27.99.145 1 1 3244 20230318145225
+103.172.41.229 0 7 2620557 
+54.245.42.174 1 1 3243 20230314102532
+188.167.251.40 2 2 6748 20230329122228
+173.252.127.8 0 2 1047395 
+71.77.180.139 1 1 4225 20230305035102
+54.213.18.60 2 2 6796 20230310235423
+54.162.218.162 0 2 573641 
+121.53.202.186 0 1 15380 
+35.211.224.135 1 1 3244 20230309120445
+137.226.113.44 10 10 32565 20230324023654
+67.69.76.163 1 1 6191 20230307004924
+195.176.104.134 0 2 397822 
+3.84.186.35 5 5 31938 20230321195408
+54.203.113.253 2 2 6486 20230311102627
+14.29.140.161 1 1 3376 20230327034746
+58.152.48.157 3 3 12039 20230315025848
+223.38.60.223 0 2 1039588 
+95.90.210.17 7 92 24179149 20230306102958
+35.168.111.220 0 3 1031172 
+52.39.9.32 1 1 4135 20230310184210
+51.158.105.60 1 1 2666 20230331090902
+172.245.251.214 3 3 35958 20230304003921
+149.56.150.6 12 12 170917 20230305234851
+80.138.105.78 1 15 4986636 20230309151139
+65.51.58.1 1 5 21705 20230320201926
+45.61.50.128 2 2 24207 20230315051603
+35.165.228.8 1 1 3243 20230328112000
+80.6.23.163 5 41 11241284 20230301082430
+35.92.254.23 1 1 3252 20230326074657
+34.217.111.12 1 1 3252 20230323063038
+45.157.125.207 1 1 0 20230316065323
+27.115.124.53 0 6 984754 
+193.170.201.107 3 17 4995152 20230315100639
+213.55.221.146 2 9 60207 20230319131501
+50.88.100.104 1 1 4225 20230306224757
+23.227.196.6 4 4 11208 20230308215350
+34.222.34.216 1 1 4182 20230310182326
+42.83.147.53 2 2 6486 20230330231723
+176.177.207.44 1 8 57340 20230301010439
+144.217.135.200 1 5 21706 20230306060756
+213.134.174.188 6 10 42611 20230312103512
+34.207.174.68 0 2 1101794 
+34.210.196.253 1 1 3243 20230328110953
+42.83.147.55 6 6 19463 20230330153025
+141.98.255.144 1 1 3258 20230324114715
+34.172.182.39 0 10 4964230 
+87.236.176.16 1 1 3248 20230309024636
+45.239.67.100 1 8 60154 20230308145330
+143.198.213.188 2 2 23690 20230311023424
+34.222.79.133 2 2 6508 20230311103130
+140.205.11.21 0 1 542555 
+193.197.160.65 1 1 3244 20230324190626
+84.212.195.150 1 12 5717549 20230301122534
+35.143.205.135 2 2 8450 20230306115708
+94.247.172.129 2 2 6489 20230320052810
+46.232.14.227 1 5 180766 20230304041621
+139.144.78.42 1 18 3308153 20230303202250
+193.235.141.133 1 1 3252 20230322205131
+35.91.244.246 1 1 3254 20230330112614
+101.198.0.187 1 1 605 20230312182254
+35.163.77.112 1 1 2663 20230310135850
+104.28.99.142 5 19 5003827 20230312162128
+73.91.110.117 1 1 4225 20230305230824
+94.113.112.193 2 22 6914801 20230309115805
+107.167.39.74 4 4 12978 20230314194345
+184.169.255.106 1 1 12080 20230325120433
+5.173.3.118 1 8 57340 20230321142958
+35.155.193.138 1 1 3244 20230304062202
+103.172.41.228 1 4 1013685 20230313112436
+58.152.47.81 1 18 3308153 20230301215045
+212.227.216.17 2 2 6396 20230306014628
+84.242.86.92 4 8 34987 20230322200132
+146.70.117.184 3 3 35958 20230312162912
+128.90.89.252 1 1 0 20230317153615
+3.94.149.187 0 2 764145 
+212.47.241.46 1 1 2662 20230331090729
+205.210.31.60 1 1 11892 20230307021958
+54.88.88.24 0 1 221077 
+85.215.164.46 1 1 12033 20230310013751
+93.35.168.150 4 18 5000767 20230322102325
+77.125.141.41 10 106 31684992 20230316155430
+14.116.152.84 1 1 3374 20230319171103
+205.210.31.136 1 1 11845 20230304062318
+185.140.123.237 2 2 6487 20230330125017
+218.145.218.250 0 7 3073365 
+151.84.195.60 1 1 3245 20230331094351
+124.223.193.173 1 1 3376 20230301203201
+178.143.44.146 1 14 4986020 20230311114259
+220.64.106.253 1 1 3244 20230318032250
+205.210.31.138 1 1 11845 20230307171455
+158.247.208.231 1 7 42707 20230308185952
+70.52.140.237 2 62 50769869 20230331043954
+185.71.14.117 1 5 21705 20230316115319
+178.190.122.183 3 7 29721 20230327202333
+54.164.189.69 0 14 5941931 
+42.236.10.78 0 1 644572 
+173.252.127.21 1 5 1454632 20230304004702
+64.124.8.37 3 3 12031 20230307113233
+188.33.240.66 6 20 5005412 20230309113230
+83.22.35.173 18 107 33749464 20230305192617
+134.209.172.255 3 3 9725 20230329075101
+54.71.116.230 1 1 3244 20230313063127
+64.124.8.28 1 1 3838 20230304105211
+5.161.148.165 1 1 3244 20230315104802
+223.180.179.171 1 15 1697601 20230302012213
+54.191.99.73 1 1 3243 20230324102533
+64.124.8.21 1 1 4182 20230309162253
+163.172.180.191 1 1 3375 20230331085134
+106.75.138.76 1 1 12362 20230313172737
+178.143.44.122 13 114 36945417 20230301095549
+92.223.85.235 3 3 35535 20230309120957
+51.15.236.143 1 1 3243 20230331085337
+209.6.169.144 1 8 60154 20230320190249
+64.124.8.26 2 2 7352 20230314104826
+41.218.224.71 2 2 6043 20230331005205
+193.87.7.138 6 29 6225909 20230302164640
+47.104.19.134 2 2 5604 20230302030448
+34.173.151.236 0 5 1655390 
+34.215.245.250 1 1 3244 20230326074455
+82.165.224.132 2 2 6396 20230331022500
+54.147.100.98 0 2 656222 
+64.124.8.30 0 31 202084 
+66.249.92.14 1 1 53 20230320222341
+64.124.8.41 1 1 3511 20230307103637
+5.188.62.21 2 2 6488 20230302234850
+73.56.253.222 1 1 4225 20230306011649
+64.124.8.48 4 4 14699 20230314072413
+74.125.151.69 1 1 53 20230323221722
+106.75.152.76 1 1 12315 20230320050857
+146.70.72.163 2 2 6046 20230306162037
+83.9.122.15 3 7 32528 20230309160547
+46.114.177.11 1 8 57338 20230321225627
+101.199.254.202 1 1 605 20230322214849
+119.18.52.105 3 3 9725 20230320184913
+64.124.8.35 4 4 13597 20230308113008
+46.215.20.184 14 73 17789999 20230302161253
+205.210.31.139 1 1 12127 20230311034324
+203.119.241.118 0 1 202087 
+213.134.170.244 17 233 76188536 20230304220830
+42.83.147.54 2 2 6487 20230328170318
+34.71.16.23 0 12 4377592 
+101.199.254.230 2 2 1210 20230322160321
+20.169.192.203 0 1 198911 
+54.149.155.222 1 1 3243 20230314102736
+88.99.173.5 2 2 23831 20230317123613
+54.201.94.9 1 1 3252 20230303062136
+198.235.24.175 1 1 12080 20230311040356
+14.29.231.172 1 1 3376 20230314175717
+114.107.225.150 1 1 3374 20230302184358
+3.83.36.232 0 3 1296116 
+52.38.251.9 2 2 6486 20230311103008
+172.11.30.7 1 1 4225 20230306225318
+64.124.8.46 2 2 6532 20230312061747
+107.21.188.159 0 1 478460 
+35.87.113.169 2 2 6486 20230328111435
+44.227.118.60 0 1 602479 
+64.124.8.33 1 1 3511 20230304135647
+34.217.191.16 1 1 3244 20230301062220
+68.10.2.235 1 1 4225 20230304025347
+43.133.33.184 1 1 0 20230319102617
+54.184.175.139 1 1 3244 20230316061649
+77.65.108.22 6 118 32148517 20230321231532
+5.180.44.82 0 7 2007551 
+34.133.239.69 0 16 6889199 
+180.163.220.61 1 1 605 20230324045428
+128.14.188.211 1 1 3239 20230328021725
+68.199.192.64 1 1 4225 20230306063430
+54.245.46.64 1 1 3254 20230328111158
+200.14.120.17 14 93 27714558 20230330053429
+64.124.8.24 2 14 6176 20230313210735
+5.90.202.114 1 8 57338 20230302122030
+193.235.141.21 1 1 3252 20230312075055
+198.235.24.144 1 1 12033 20230314052050
+74.125.151.12 1 1 53 20230323221909
+173.252.127.119 0 2 127872 
+85.215.184.198 1 1 3243 20230302212205
+82.82.218.235 9 58 15695107 20230328112235
+5.161.133.63 1 1 6057 20230321233944
+163.172.131.179 2 2 7977 20230331091015
+128.30.195.59 0 1 542555 
+51.15.195.224 1 1 2663 20230331090844
+140.205.118.214 0 1 542555 
+36.40.66.38 1 1 3375 20230307175640
+171.13.14.75 0 2 16743 
+54.198.108.167 0 1 1085812 
+86.25.34.146 3 20 3314992 20230303201450
+193.235.141.90 1 1 3254 20230312043525
+51.15.206.111 1 1 2800 20230331090742
+20.39.49.84 0 2 577392 
+5.161.144.64 1 1 3848 20230323074109
+54.245.30.200 1 1 3254 20230317104755
+5.75.176.24 3 3 35911 20230321005543
+54.244.41.143 1 1 3244 20230301061509
+213.156.104.59 4 8 35772 20230324074525
+92.184.124.223 12 80 25625609 20230315175556
+195.194.24.70 10 42 9072690 20230317152059
+27.115.124.45 1 3 5258 20230314182006
+20.125.117.109 1 1 11845 20230306022048
+203.119.241.120 0 1 241482 
+34.222.113.36 1 1 3244 20230320061921
+89.64.82.202 13 169 50348866 20230305210322
+35.163.32.164 1 1 3734 20230310130356
+90.129.221.107 1 1 3898 20230323133555
+45.76.163.107 0 1 547216 
+139.180.211.63 0 1 519699 
+135.181.206.245 1 1 11986 20230301212223
+130.255.166.97 1 1 3243 20230308083930
+80.215.90.175 12 160 48340981 20230323155241
+205.210.31.176 1 1 12221 20230301135135
+52.213.137.7 2 2 9305 20230330133145
+35.162.141.138 1 1 3239 20230310165413
+15.204.16.75 0 6 2248511 
+1.192.195.11 2 2 1210 20230322063142
+116.198.207.91 2 2 0 20230301222623
+216.213.29.143 1 4 5975 20230313070231
+189.69.27.220 4 20 94932 20230313231030
+171.13.14.39 0 1 15380 
+58.152.48.113 1 1 3244 20230311074028
+34.102.21.218 3 3 35958 20230317013605
+35.184.140.182 0 18 5061301 
+64.124.8.51 1 17 2663 20230313122309
+15.204.16.73 0 8 1844223 
+203.119.241.85 0 1 410672 
+195.194.24.219 2 16 4990583 20230303122359
+34.71.129.197 0 27 10850366 
+64.124.8.56 1 18 2666 20230303052731
+64.124.8.32 1 1 6054 20230310042543
+168.151.93.249 1 1 5273 20230309083335
+183.136.225.45 3 3 27268 20230302005302
+74.235.91.123 2 2 6487 20230314004104
+59.36.163.204 2 2 6749 20230329175226
+43.153.7.134 1 1 0 20230310224150
+205.210.31.23 1 1 12409 20230301110213
+51.15.193.102 1 1 4082 20230331090800
+83.9.122.183 2 6 27766 20230329130907
+35.188.53.245 7 7 27099 20230316182935
+35.212.163.212 1 1 3244 20230309130026
+203.119.241.102 0 1 399545 
+223.240.101.111 1 1 3375 20230312200615
+189.69.30.193 1 5 23733 20230323185113
+69.167.12.32 1 1 0 20230316090416
+8.142.165.189 2 2 3244 20230308220052
+45.77.114.16 3 3 35958 20230303041134
+34.219.126.216 1 1 3243 20230308103937
+90.63.173.18 0 1 292355 
+95.90.210.82 1 17 3358861 20230312141009
+34.85.161.126 3 3 35958 20230317020137
+93.158.90.166 1 1 3243 20230318033755
+52.38.173.64 1 1 3243 20230317110135
+188.121.179.136 14 154 102422443 20230326193621
+157.35.87.105 1 24 3730941 20230327195915
+54.184.40.94 1 1 5273 20230310214454
+80.49.249.69 2 6 24949 20230321152845
+54.191.150.177 1 1 3244 20230326074636
+77.252.44.133 2 2 6748 20230304222336
+85.221.141.128 2 6 27762 20230311191335
+205.210.31.162 1 1 12080 20230307174351
+95.98.39.28 3 7 30567 20230305204659
+18.246.42.222 1 1 3252 20230325061909
+35.87.250.201 1 1 3244 20230323063023
+27.115.124.118 0 1 457691 
+18.232.105.106 0 4 1314224 
+34.220.41.175 2 2 6486 20230311102745
+44.207.124.84 0 20 10133558 
+76.17.123.121 1 1 4225 20230304075112
+80.49.184.47 3 18 103564 20230316130631
+51.15.142.92 1 1 3838 20230331090728
+31.10.168.174 1 2 4344 20230317144351
+35.238.217.129 0 12 3336267 
+223.104.41.80 1 8 57338 20230316143803
+1.209.174.104 1 4 6300 20230314064608
+18.224.151.214 1 1 3254 20230305035456
+18.212.106.117 0 1 1144251 
+34.221.218.97 1 1 3254 20230330112651
+148.251.177.36 1 1 11845 20230314011654
+178.143.44.191 3 13 1615035 20230327221951
+195.139.135.78 1 25 5158533 20230321154004
+88.155.22.3 1 8 60154 20230328170926
+64.124.8.54 2 20 8317 20230313070428
+37.47.161.183 2 32 9489960 20230323003656
+139.99.62.224 3 3 35676 20230313114813
+93.159.230.89 1 1 3252 20230318142637
+169.197.104.58 2 2 23831 20230330103640
+34.136.216.31 0 7 4199522 
+154.26.134.226 9 9 0 20230311155438
+108.243.54.108 1 1 4225 20230306011712
+89.64.38.240 4 16 980158 20230304230146
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20230301 117 922 274311389 34
+20230302 69 328 68859774 31
+20230303 44 137 19278003 29
+20230304 175 853 230911966 46
+20230305 131 422 92410347 36
+20230306 74 116 7800941 32
+20230307 145 703 166737439 44
+20230308 130 964 258798620 34
+20230309 104 528 154714346 43
+20230310 135 727 257898993 60
+20230311 60 162 32478702 31
+20230312 44 140 28427340 23
+20230313 80 573 143891868 36
+20230314 105 746 210762316 36
+20230315 129 745 209114771 20
+20230316 64 327 71351581 24
+20230317 88 302 73467830 42
+20230318 214 250 12919625 48
+20230319 23 151 30546021 12
+20230320 535 729 45183893 47
+20230321 188 574 104644877 30
+20230322 105 929 273030584 19
+20230323 196 428 67060312 40
+20230324 195 953 327791893 42
+20230325 26 162 33575630 20
+20230326 115 679 451491061 20
+20230327 17 68 7688996 13
+20230328 52 256 61929668 27
+20230329 23 77 13330667 15
+20230330 83 406 71495934 22
+20230331 83 224 49280935 61
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 65
+30mn-1h 31
+5mn-15mn 33
+30s-2mn 40
+2mn-5mn 17
+15mn-30mn 21
+0s-30s 810
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 52
+/sitemap.xml 1085 664477 120 118
+/ 714 3449810 539 466
+/index.php/bio/ 121 804727 39 36
+/index.php/exhibitions/ 116 1043057 19 24
+/index.php/2022/oracle-terminal/ 113 587543 50 55
+/index.php/2022/whispers-from-the-cracked-horizon/ 95 529375 8 14
+/index.php/2021/possibility-we-are-poisoned/ 88 371742 37 33
+/index.php/2022/minimo-uno-massimo-due/ 86 373945 9 12
+/index.php/portfolio/ 65 219964 5 10
+/index.php/contact/ 64 222850 13 25
+/index.php/overly-sexy-smart-edgy-and-dangerous/ 57 346570 15 20
+/index.php/2021/in-flames/ 56 291089 10 16
+/index.php/2022/voracity-loop/ 49 265390 5 6
+/index.php/2021/symmetrical-floundering/ 44 246878 5 5
+/index.php/2022/ 42 203544 13 14
+/index.php/2021/breathing-in-the-shallows/ 38 220733 5 9
+/index.php/overwrite-discard-save-both/ 36 196002 8 10
+/index.php/bio/uncertains-ongoing/ 36 202384 4 5
+/index.php/2020/moth/ 33 149045 8 8
+/index.php/roses-ep/ 32 160571 5 7
+/index.php/2021/and-the-door-was-kicked-open-again/ 32 179742 3 6
+/index.php/watch-my-back/ 31 171234 4 5
+/index.php/untitled/ 30 135176 4 4
+/index.php/a-piece-of-land-however-not-complete/ 30 131701 1 1
+/index.php/enter-the-heat/ 30 181638 5 5
+/google32ef266fbb4161c9.html 2 106 2 2
+/index.php/it-will-shift-again-molting-stage/ 25 136598 1 2
+/index.php/2019/ 18 72407 6 7
+/index.php/2020/the-dull-flame-of-desire/ 29 150433 2 3
+/index.php/2016/ 14 61757 4 5
+/index.php/2019/the-walls-have-ears/ 28 146737 1 4
+/index.php/exhibitions 1 17554 1 1
+/index.php/2020/one-drop-a-time/ 28 159758 4 7
+/index.php/banner/ 20 94243 5 6
+/index.php/2019/beneath-the-beach-seamless-paving-stones/ 28 147359 2 3
+/poetbotBackend/alg.php 1 153 0 0
+/google33e6163e017c9e32.html 2 106 2 2
+/poetbot/ 11 35175 8 8
+/index.php/2020/ 13 59078 3 3
+/index.php/origins-of-fake/ 29 156439 5 4
+/index.php/2020/the-dull-flame-of-desire 1 16775 1 1
+/index.php/2021/possibility-we-are-poisoned 2 7843 2 2
+/index.php/not-a-gift-given-but-a-choice-made/ 25 155401 0 0
+/index.php/upgraded-stones/ 25 111397 1 2
+/index.php/2021/ 16 67121 6 6
+/files/ 14 0 11 11
+/index.php/contact 4 11222 4 4
+/index.php/this-what-left-behind-haunts-me/ 26 148315 0 2
+/index.php/2018/ 13 59079 3 3
+/index.php/banner/2022-artistic-scholarship-of-the-city-of-poznan/ 11 77751 0 4
+/index.php/poetbot-v11/ 26 131968 4 5
+/index.php/2017/ 14 61870 5 6
+END_SIDER

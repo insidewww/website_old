@@ -1,0 +1,287 @@
+@media only screen and (max-width:991px) and (orientation:landscape) {
+    #ChangeOrientationMessage{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:991px) and (orientation:portrait) {
+    #ChangeOrientationMessage{
+        text-align: center;
+        font-size: 30px;
+        color: rgb(244,232,35);
+        margin-top: 20px;
+    }
+
+    #poetbotPage{
+        display: none;
+    }
+}
+
+@media only screen and (min-width:992px) {
+    #ChangeOrientationMessage{
+        display: none;
+    }
+
+}
+
+
+
+
+body{
+    background-color: rgb(13, 54, 178);
+    font-family: "Courier New";
+}
+
+.poetbotVideo {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: -5;
+  display: none;
+}
+
+img{
+    width: 100%;
+}
+
+#menuBar{
+    margin: 20px;
+    margin-bottom: 0px;
+}
+
+
+@media only screen and (min-width: 768px) {
+
+.menuEmojis{
+   padding-left: 10%;
+   
+}
+}
+
+.mainLogo{
+    margin-top: 40px;
+    padding: 60px;
+    
+}
+
+
+
+@media only screen and (max-width: 1099px) { 
+div#startButton{
+  margin: 20px; 
+}
+
+}
+
+@media only screen and (min-width: 1100px) { 
+div#startButton{
+  margin: 50px; 
+  padding-right: 60px;
+}
+}
+
+
+
+img#aboutText,
+.poetBotButton img.poetBotButtonInv{
+  display: none;  
+}
+
+.poetBotButton:hover img.poetBotButtonInv{
+  display: block;  
+}
+.poetBotButton:hover img.poetBotButtonNormal{
+  display: none;  
+}
+
+img.poetBotButtonInv:hover,
+img.poetBotButtonNormal:hover
+{
+    cursor: pointer;
+}
+
+#aboutText
+{
+    margin-left: -35%; 
+    width: 42%; 
+    position:fixed;
+    z-index: 10;  
+}
+
+
+  .seven-cols .col-md-1,
+  .seven-cols .col-sm-1,
+  .seven-cols .col-md-1,
+  .seven-cols .col-xs-1 {
+    width: 14.285714285714285714285714285714%;
+  }
+  
+  .emojiIcon{
+      padding-left: 0px;
+      padding-right: 0px;
+      
+  }
+  
+  #emojiIcons{
+      margin-left: 20px;
+      margin-right: 20px;
+      display: none;
+      position: fixed;
+      bottom: 0;
+      cursor: pointer;
+  }
+  
+  #skipButton, #restartButton{
+     cursor: pointer; 
+  }
+  
+  #skipRow,#restartRow
+  {
+      position: fixed;
+      bottom: 30%;
+      display:none;
+      z-index:100;
+      width: 15%;
+  }
+  
+  #skipRow{
+       right: 3%;  
+  }
+  
+  
+  #restartRow{
+      left: 3%;
+  }
+  
+  
+  
+  
+  @media only screen and (min-width: 1200px) { 
+  #poem{
+      padding-top: 60px;
+      padding-bottom: 60px;
+      color: rgb(244, 232, 35); 
+      font-size: 35px;
+  }
+  
+  #poemPage{
+      padding-left: 100px;
+      padding-right: 100px;
+  }
+  
+  .poemPageLeft{
+      padding-top: 100px;
+      padding-right: 50px;
+  }
+  
+  .poemPageRight{
+      padding-left: 50px;
+      text-align: center;
+  }
+  }
+  
+   @media only screen and (max-width: 1200px) { 
+  #poem{
+      padding-top: 20px;
+      padding-bottom: 20px;
+      color: rgb(244, 232, 35); 
+      font-size: 20px;
+  }
+  
+  #poemPage{
+      padding-left: 10px;
+      padding-right: 10px;
+  }
+  
+  .poemPageLeft{
+      padding-top: 10px;
+      padding-right: 5px;
+  }
+  
+  .poemPageRight{
+      padding-left: 5px;
+  }
+  }
+  
+  .row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+
+.dialogFrame{
+    position: fixed;
+    top: 0px; 
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.dialog{
+    position: fixed;
+    top: 30%; 
+    left: 35%;
+    width:30%;
+    height: 40%;
+    background-color: rgb(13, 54, 178);
+    z-index: 1001;
+}
+
+.dialogTitle{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(244,232,35);
+}
+
+@media only screen and (max-width: 1400px) { 
+  .dialogTitle{
+    font-size: 30px;
+
+}
+}
+
+.dialog input{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 10%;
+    height: 40px;
+   font-size: 30px;
+   background-color: rgb(244,232,35);
+   border:none;
+   color:rgb(13, 54, 178);
+}
+
+.emailDialogButtons{
+    margin-top: 40px;
+}
+
+#dialogAlert
+{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+#poemImg{
+    width: 90%; 
+    height: auto;
+}
+
+#mobileDeviceMessage{
+        padding: 15px;
+        text-align: center;
+        font-size: 30px;
+        color: rgb(244,232,35);
+        margin-top: 10%;
+    }
+
+
+
+
+

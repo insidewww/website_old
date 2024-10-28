@@ -1,0 +1,1061 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201712 will be lost/reset.
+# Last config file used to build this data file was /home/insidejo/tmp/awstats/awstats.insidejo.webd.pl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2692                
+POS_VISITOR 19791               
+POS_DAY 33269               
+POS_DOMAIN 3570                
+POS_LOGIN 4224                
+POS_ROBOT 4379                
+POS_WORMS 4974                
+POS_EMAILSENDER 5105                
+POS_EMAILRECEIVER 5248                
+POS_SESSION 34104               
+POS_SIDER 34314               
+POS_FILETYPES 5383                
+POS_DOWNLOADS 5551                
+POS_OS 5671                
+POS_BROWSER 5965                
+POS_SCREENSIZE 7161                
+POS_UNKNOWNREFERER 7235                
+POS_UNKNOWNREFERERBROWSER 7671                
+POS_ORIGIN 8003                
+POS_SEREFERRALS 8148                
+POS_PAGEREFS 8305                
+POS_SEARCHWORDS 8601                
+POS_KEYWORDS 8753                
+POS_MISC 2356                
+POS_ERRORS 8812                
+POS_CLUSTER 4080                
+POS_SIDER_404 8925                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180101003954 59 12797 11474182318016
+FirstTime 20171201015146
+LastTime 20171231213308
+LastUpdate 20180101212324 59 0 58 0 0
+TotalVisits 471                 
+TotalUnique 336                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 346                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 332 406 14362158 65 124 1715101
+1 299 351 9216402 23 313 2705210
+2 1175 1197 6119438 101 206 1799305
+3 586 586 1291346 55 92 1169665
+4 21 21 39936 95 139 11905488
+5 12 12 17401 31 85 2758584
+6 8 8 12683 25 69 2449399
+7 9 9 34047 27 66 1987578
+8 6 9 16530 37 91 3331108
+9 17 22 77018 45 90 2011941
+10 38 99 10644167 41 90 2020952
+11 37 52 85771 23 62 2251580
+12 36 111 13282604 39 98 1949274
+13 78 192 22217168 44 93 726184
+14 71 139 11329146 82 143 1735031
+15 30 94 11612640 85 144 1062955
+16 24 63 5443909 71 128 2158344
+17 12 21 33838 60 125 1801703
+18 46 96 9155643 40 89 1525603
+19 13 17 780441 68 118 1932087
+20 40 100 30654351 21 105 1737449
+21 44 152 17473218 30 100 2629795
+22 65 223 75889878 30 99 2270396
+23 88 100 1853892 308 426 2621882
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 30
+us 2514 2530 5293618
+pl 222 752 126869007
+gr 106 330 36888000
+de 42 86 7170362
+ro 34 34 241002
+hu 34 34 70322
+ru 30 30 175194
+fr 22 67 30153259
+lt 14 54 7668456
+cl 11 33 3613845
+gb 9 12 646797
+ua 8 8 40185
+fi 7 30 4607990
+nl 7 7 30582
+it 6 17 1562405
+se 4 4 10174
+br 2 2 11036
+eu 2 2 3160
+ch 2 26 3412094
+cn 2 2 10868
+no 1 1 1580
+in 1 1 1580
+jp 1 8 813009
+sk 1 1 1580
+md 1 1 1580
+ca 1 1 1580
+ie 1 1 2426
+kr 0 1 199934
+ao 1 1 1580
+ee 1 4 4672
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bot[\s_+:,\.\;\/\\-] 595 39864821 20171231151405 0
+googlebot 160 10784513 20171231205601 0
+robot 92 193252 20171228135331 0
+bingpreview 80 189058 20171227143108 0
+crawl 75 151880 20171231163959 0
+spider 54 94827 20171231143343 0
+slurp 50 101633 20171226184115 0
+[\s_+:,\.\;\/\\-]bot 20 4360938 20171231221644 0
+no_user_agent 18 99744 20171228153627 0
+googlebot\-image 12 2081053 20171231082121 0
+php 2 212582 20171225201404 0
+ia_archiver 1 5581 20171203050143 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+pdf 4 54362996 0 0
+jpg 781 168155328 0 0
+html 3054 6538388 0 0
+css 208 218836 0 0
+Unknown 33 232329 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/files/insidejob_ulalucinska_michalknychaus_works_2018.pdf 5 6 64919808
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+linuxandroid 266 78
+macosx9 22 5
+macosx8 4 1
+winxp 30 30
+Unknown 2449 2449
+macosx 641 229
+win8.1 7 4
+winvista 1 1
+java 34 34
+win2003 21 17
+ios_ipad 1 1
+win8 1 1
+ios_iphone 208 52
+winlong 2 2
+winnt 166 67
+linux 54 51
+win7 179 65
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 58
+msie6.0 17 17
+chrome63.0.3239.111 73 20
+chrome54.0.2840.71 1 1
+chrome49.0.2623.75 1 1
+chrome60.0.3112.101 5 5
+safari7.0.5 8 1
+chrome63.0.3239.83 38 8
+opera46.0.2597.57 2 2
+safari10.0 37 5
+chrome58.0.3029.81 1 1
+chrome34.0.1847.116 2 2
+msie7.0 21 17
+msie8.0 2 2
+chrome30.0.0.0 80 32
+firefox3.0.1 1 1
+opera42.0.5324.0152 1 1
+firefox40.1 1 1
+msie11.0 1 1
+firefox55.0 34 34
+chrome63.0.3239.84 91 24
+chrome61.0.3163.100 48 48
+chrome58.0.3029.110 11 11
+firefox26.0 6 6
+chrome55.0.2883.95 63 14
+safari11.0.2 251 75
+firefox7.0.1 8 8
+chrome11.0.682.0 1 1
+safari10.0.3 1 1
+safari9.0 4 1
+opera36.0.2130.32 2 2
+safari10.1.1 2 2
+firefox53.0 3 3
+firefox57.0 94 31
+chrome62.0.3202.94 245 74
+mozilla 20 20
+msie9.0 3 3
+chrome37.0.2062.120 8 8
+safari10.1.2 83 21
+chrome62.0.3202.84 1 0
+chrome41.0.2225.0 1 1
+safari11.0 48 10
+chrome58.0.3029.96 1 1
+firefox48.0 4 4
+opera44.5.0238.5500 1 1
+firefox50.0 8 8
+opera49.0.2725.47 1 0
+chrome45.0.2454.95 24 6
+opera49.0.2725.64 35 12
+Unknown 2442 2442
+chrome41.0.2272.89 3 3
+lg\- 1 0
+chrome34.0.1847.131 5 2
+chrome40.0.2214.85 5 5
+iphone 120 37
+netscape5.0 19 19
+safari11.0.1 46 17
+chrome55.0.2883.91 49 12
+firefox35.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+redback/v0-570-g26f8c96 20171228022614
+facebookexternalhit/1.1 20171222131935
+Python/3.6_aiohttp/2.3.6 20171211113906
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20171209143739
+Mozilla/5.0_Firefox/35.0 20171230184104
+ltx71_-_(http://ltx71.com/) 20171201060946
+Mozilla/5.0_zgrab/0.x 20171231192123
+Mozilla/5.0_(compatible;_ips-agent) 20171220100521
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Python/3.6_aiohttp/2.3.6 20171211113906
+facebookexternalhit/1.1 20171222131935
+ltx71_-_(http://ltx71.com/) 20171201060946
+redback/v0-570-g26f8c96 20171228022614
+Java/1.6.0_04 20171204184859
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20171209143739
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2690 2695
+From1 0 0
+From2 20 29
+From3 39 39
+From4 338 1323
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 20 29
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+https://l.instagram.com 18 18
+http://l.instagram.com 8 8
+http://burger-imperia.com 8 8
+https://www.facebook.com 3 3
+http://l.facebook.com/l.php 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 2 30095
+404 1808 85993
+421 2 644
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 281
+//images/upxx.php 1 -
+/license.php 6 -
+//maill.php 2 michalknychaus.com
+//cache/wcache7675n.PHP 2 michalknychaus.com
+/administrator/replace.php 1 -
+//cache/news.php 2 michalknychaus.com
+/index.php/celly/https://player.vimeo.com/video/243295603 2 -
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 1 http://michalknychaus.com/administrator/components/com_simplephotogallery/lib/uploadFile.php
+//elements.php 2 michalknychaus.com
+/wp-content/plugins/codecanyon-157782-video-gallery-wordpress-plugin-w-youtube-vimeo-/upload.php 1 -
+//RoseLeif.php 2 michalknychaus.com
+//kk.php 1 -
+//administrator/includes/readmy.php 2 michalknychaus.com
+//cli/40dd1d.php 2 michalknychaus.com
+//wp-content/plugins/Analyser.php 2 michalknychaus.com
+//auithorze.php 1 -
+/wp-content/themes/u-design/style.css 1 http://michalknychaus.com/wp-content/themes/u-design/style.css
+//error-log.php 2 michalknychaus.com
+//media/1ndex.php 2 michalknychaus.com
+//wp-content/themes/margreetalgra/404.php 2 michalknychaus.com
+//wp-content/plugins/wp-cache.php 2 michalknychaus.com
+//wp-content/plugins/SocketIontrol.php 2 michalknychaus.com
+//oss.php 1 -
+//wp-content/plugins/sql_dump.php 2 michalknychaus.com
+//tmp/guide.php 1 -
+/blog/wp-login.php 1 http://twitteryourtweet.nl/blog/wp-login.php
+//cache/asdf.php 1 -
+/index.php/contact/https://www.facebook.com/michalknychaus 2 -
+//wsdl.php 2 michalknychaus.com
+//active.php 1 -
+//log.php 2 michalknychaus.com
+//tmp/upxx.php 1 -
+//authenticating.php 2 michalknychaus.com
+/index.php/admin 1 -
+//images/google-assist.php 2 michalknychaus.com
+//wp-content/uploads/Fbrrchive.php 2 michalknychaus.com
+//u.php 1 -
+//google-assist.php 2 michalknychaus.com
+//Abbrevsprl.php 2 michalknychaus.com
+//robots.txt.php 2 michalknychaus.com
+/blogs/wp-admin/setup-config.php 3 -
+//administrator/dbconfig.php 2 michalknychaus.com
+//by.php 1 -
+//cache/clean.php 1 -
+//wp-cache.php 2 michalknychaus.com
+/wp-content/themes/konzept/style.css 1 http://michalknychaus.com/wp-content/themes/konzept/style.css
+/wordpress/wp-login.php 1 http://trigarycia.com/wordpress/wp-login.php
+/index.php/contact/https://www.instagram.com/michalknychaus 2 -
+/wp-content/plugins/wpstorecart/readme.txt 1 http://michalknychaus.com/wp-content/plugins/wpstorecart/readme.txt
+//bin/logo_img.php 1 -
+/site/wp-admin/setup-config.php 3 -
+//administrator/administrator.php 2 michalknychaus.com
+//libraries/joomla/go.php 1 -
+/tools/replace.php 1 -
+/cms/wp-admin/setup-config.php 3 -
+//media/jmail.php 1 -
+//Jijle3.php 1 -
+//images/xxu.php 1 -
+//images/stories/gass.php 1 -
+//cache/defau1t.php 2 michalknychaus.com
+/site/wp-includes/wlwmanifest.xml 6 -
+//files/conn.php 2 michalknychaus.com
+//administrator/webconfig.txt.php 2 michalknychaus.com
+//images/wp-mail.php 1 -
+//wp-main.php 2 michalknychaus.com
+//cache/list.php 2 michalknychaus.com
+//images/stories/c00d.php 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+/xml/ 159 -
+/wordpress/ 4 -
+//images/al277.php 2 michalknychaus.com
+//wp-login.php 2 -
+//wp-content/plugins/wp-lg2.php 2 michalknychaus.com
+//images/clean.php 1 -
+//roubt.php 2 michalknychaus.com
+/wp-content/themes/rayoflight/functions/upload-handler.php 1 http://michalknychaus.com/wp-content/themes/rayoflight/functions/upload-handler.php
+//css.php 1 -
+//images/stories/a.php 1 -
+//xup.php 1 -
+//wp-content/plugins/SocketIasrgasfontrol.php 2 michalknychaus.com
+//wp-content/upgrade/theme-compat/popup-pomo.php 1 -
+http://michalknychaus.com/wp-content/plugins/real3d-flipbook/includes/process.php 1 -
+/http:/www.michalknychaus.com/ 1 -
+/wp-includes/wlwmanifest.xml 6 -
+//includes/u2p.php 2 michalknychaus.com
+//images/p.php 1 -
+//show.php 2 michalknychaus.com
+//libraries/joomla/zipy.php 1 -
+//robot.php 2 michalknychaus.com
+http://michalknychaus.com/wp-content/plugins/codecanyon-157782-video-gallery-wordpress-plugin-w-youtube-vimeo-/admin/upload.php 1 -
+/blog/ 4 -
+//images/stories/xsamxadoo.php 1 -
+/typo3/ 1 -
+/wp-content/themes/rockstar-theme/style.css 1 http://michalknychaus.com/wp-content/themes/rockstar-theme/style.css
+//wp-content/plugins/caches.php 1 michalknychaus.com
+/replace.php 1 -
+//wp-content/plugins/easyrotator-for-wordpress/a.php 2 michalknychaus.com
+//libraries/joomla/css.php 1 -
+//images/stories/webroot.php 1 -
+//E.php 1 -
+//infos.php 2 michalknychaus.com
+//nktt.php 1 -
+/joomla/robots.txt 1 -
+//goog1es.php 2 michalknychaus.com
+//default_component.php 1 -
+/wp-login.php 21 http://tryemu.com/wp-login.php
+//wp-content/themes/fossy-speurhondenworst/divi-children-engine/divi_children_engine.php 2 michalknychaus.com
+//xmlrpc-activate.php 2 michalknychaus.com
+//configbak.php 2 michalknychaus.com
+/xmlrpc.php 13 -
+//configurationbak.php.suspected 2 michalknychaus.com
+//images/stories/0d4y.php 1 -
+/downloader 2 -
+//wp-data.php 2 michalknychaus.com
+//up14.php 1 -
+//images/defau1t.php 2 michalknychaus.com
+/wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/single-upload.php 1 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 -
+//webconfig.txt.php.suspected 2 michalknychaus.com
+/admin/content/sitetree/ 1 -
+/user/register 2 -
+/beta/wp-admin/setup-config.php 3 -
+/blog/robots.txt 5 -
+//images/xxx.php 2 michalknychaus.com
+//ws0.php 1 -
+//images/stories/0day.php 3 -
+//files/files.php 2 michalknychaus.com
+/apple-app-site-association 11 -
+//images/1ndex.php 2 michalknychaus.com
+//update.php 2 michalknychaus.com
+/blog/wp-includes/wlwmanifest.xml 6 -
+//images/robots.txt.php 2 michalknychaus.com
+//cache/cachee.php 2 michalknychaus.com
+//b1.php 1 -
+//webconfig.txt.php 2 michalknychaus.com
+//media/404.php 2 michalknychaus.com
+//tmp/pz.php 1 -
+//images/logo_img.php 1 -
+/wp-content/plugins/dzs-portfolio/upload.php 1 -
+//libraries/joomla/web.php 1 -
+//thumb.php 2 michalknychaus.com
+//tmp.php 4 michalknychaus.com
+/index.php/contact/https://www.facebook.com/ula.lucinska 2 -
+//tmp/setting.php 1 -
+/robots.txt 1106 -
+//tmp/petx.php 1 -
+//libraries/joomla/juser.php 1 -
+//cv.php 1 -
+http://michalknychaus.com/wp-admin/admin-ajax.php 1 -
+//libraries/joomla/wso.php 1 -
+//wp-content/plugins/wp-footers.php 2 michalknychaus.com
+//A.php 2 michalknychaus.com
+//images/stories/black.php 1 -
+/admin.php 3 -
+//r3x.php 2 michalknychaus.com
+/administrator/index.php 3 -
+/simpla/ 1 -
+//zibi.php 1 -
+/index.php/polish-water/https://player.vimeo.com/video/179064452 2 -
+//media/tmp.php 2 michalknychaus.com
+/user/ 1 -
+/wp-content/plugins/contus-hd-flv-player/uploadVideo.php 1 -
+//bookmark.php 2 michalknychaus.com
+//SessionController.php 2 michalknychaus.com
+//dswat.org/wsdl.php 2 michalknychaus.com
+//wp-content/plugins/wp-lg3.php 2 michalknychaus.com
+//jconfig.php 2 michalknychaus.com
+//logs.asp 2 michalknychaus.com
+/wp-content/themes/brainstorm/style.css 1 http://michalknychaus.com/wp-content/themes/brainstorm/style.css
+//wp-content/plugins/wpfootes.php 2 michalknychaus.com
+//images/stories/gh.php 1 -
+//mide.php 1 -
+//images/stories/3xp.php 1 -
+/admin/ 1 -
+//images/stories/u.php 1 -
+/index.php/autonomy-congress/https://player.vimeo.com/video/243298550 2 -
+//al277.php 2 michalknychaus.com
+//functions.php 2 michalknychaus.com
+//wp-content/1ndex.php 2 michalknychaus.com
+//cache/cache_aqbmkwwx.php 2 michalknychaus.com
+//images/stories/filemga.php 1 -
+//setting.php 1 -
+//lou-bna.php 1 -
+/theme/assets/global/plugins/jquery-file-upload/server/php/ 1 http://michalknychaus.com/theme/assets/global/plugins/jquery-file-upload/server/php/
+//images/stories/alfa.php 1 -
+//media/reads.php 2 michalknychaus.com
+//info.php 1 -
+//go.php 1 -
+//configurationbak.php 2 michalknychaus.com
+/wordpress/wp-includes/wlwmanifest.xml 6 -
+//up.php 1 -
+//f.php 1 -
+//xGSx.php 1 -
+/blog/administrator/index.php 1 -
+/libraries/sfn.php 3 -
+//libraries/joomla/jmails.php 2 michalknychaus.com
+//shootmei.php 2 michalknychaus.com
+//includes.php 2 michalknychaus.com
+//modules/mod_bookmark/helper.php 2 michalknychaus.com
+//x.php 1 -
+/wp/ 4 -
+//wp-installation.php 1 -
+/ 7 -
+//images/stories/ali.php 1 -
+//media/css.php 1 -
+//images/laj.php 2 michalknychaus.com
+/joomla/administrator/index.php 1 -
+//wp-content/plugins/Fbrrchive.php 2 michalknychaus.com
+/wp-admin/admin-post.php 1 -
+//content.php 2 michalknychaus.com
+http://michalknychaus.com/wp-content/plugins/gallery-plugin/upload/php.php 1 -
+http://michalknychaus.com/wp-content/plugins/font-uploader/font-upload.php 1 -
+//libraries/joomla/1ndex.php 2 michalknychaus.com
+/sitemap.xml 10 -
+//wp-includes/upgrade/theme-compat/popup-pomo.php 1 -
+//wp-content/themes/twentyeleven-child/footer.php 2 michalknychaus.com
+//images/stories/readme.php 1 -
+//license.php 1 -
+/xml 1 -
+/test/wp-admin/setup-config.php 1 -
+//images/head.php 2 michalknychaus.com
+//wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php 1 -
+//M-J!r4ya-F4r3s.php 2 michalknychaus.com
+/wp-admin/setup-config.php 3 -
+//media/jss.php 1 -
+/wp-content/plugins/dzs-portfolio/admin/upload.php 2 -
+/far.php 1 -
+/blog/wp-admin/setup-config.php 1 -
+/rep.php 1 -
+//media/jmails.php 1 -
+/downloader/ 2 -
+//xmlsrpc.php 2 michalknychaus.com
+/admin/index.php 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+//tmp/bogel.php 1 -
+//install.php 2 michalknychaus.com
+/wp-content/plugins/sharexy/ajaxresponder.php 1 -
+//sqlbak.php 2 michalknychaus.com
+//images/stories/rekan.php 1 -
+//modules/modules/modules.php 2 michalknychaus.com
+//reasdme.php 1 -
+/cms/wp-includes/wlwmanifest.xml 6 -
+//hh.php 1 -
+//wp_logns.php 1 -
+//ny.php 1 -
+/wp-admin/admin-ajax.php 4 -
+//images/upa.php 1 -
+//site/tmp/cTivrC.php 2 michalknychaus.com
+/wp/wp-login.php 1 http://45.79.81.203:65080/t.txt
+//images/sym.php 1 -
+//images/w0rm.php 1 -
+/wp-content/plugins/google-maps-by-daniel-martyn/inuse.php 1 -
+//libraries/respectMuslims.php 1 -
+/wp/wp-admin/setup-config.php 1 -
+/js/mage/cookies.js 1 -
+//news.php 2 michalknychaus.com
+/blog/wordpress/wp-admin/setup-config.php 3 -
+//wp-configuration.php 1 -
+/old/wp-admin/setup-config.php 1 -
+//cache/support.php 2 michalknychaus.com
+//m.php 1 -
+//sql_dump.php 2 michalknychaus.com
+/wp-content/plugins/php-event-calendar/readme.txt 1 -
+/index.php 4 -
+//tmp/sfx.php 1 -
+/sftp-config.json 2 -
+//libraries/joomla/jmail.php 1 -
+/up.php 2 -
+//email.php 2 michalknychaus.com
+/.well-known/apple-app-site-association 11 -
+//images/stories/s.php 1 -
+/manager/ 2 -
+//help.php 2 -
+/.well-known/assetlinks.json 10 -
+/http://www.michalknychaus.com/ 1 -
+//images/404.php 2 michalknychaus.com
+//zebda.php 1 -
+/wp/wp-includes/wlwmanifest.xml 6 -
+//wp-content/plugins/myshe.php 2 michalknychaus.com
+//images/stories/shell.php 1 -
+//shootme.php 2 michalknychaus.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 346
+107.23.133.140 34 34 70480 20171206030411
+34.230.32.131 34 34 70480 20171206022310
+34.201.92.94 34 34 70480 20171206022205
+34.228.27.234 34 34 70480 20171206021441
+54.158.27.175 34 34 70480 20171206021419
+54.84.234.62 34 34 70480 20171206024213
+34.224.70.12 34 34 70480 20171206030223
+107.23.190.166 34 34 70480 20171206005943
+54.236.108.128 34 34 70480 20171206025159
+54.164.29.2 34 34 70480 20171206022202
+54.210.96.30 34 34 70480 20171206005723
+34.203.34.100 34 34 70480 20171206022354
+54.164.16.133 34 34 70480 20171206023711
+52.23.224.21 34 34 70480 20171206030119
+54.87.223.54 34 34 70480 20171206023238
+52.90.232.211 34 34 70480 20171206022544
+54.227.179.51 34 34 70480 20171206032319
+52.54.121.208 34 34 70480 20171206031127
+34.228.169.120 34 34 70480 20171206030156
+52.90.165.57 34 34 70480 20171206024536
+54.208.174.40 34 34 70480 20171206005748
+34.235.114.170 34 34 70480 20171206021457
+52.91.191.144 34 34 70480 20171206023645
+52.207.196.208 34 34 70480 20171206022654
+109.102.111.84 34 34 241002 20171204184859
+34.235.114.8 2 2 3168 20171206011559
+188.103.23.55 1 1 5518 20171214081417
+138.246.253.19 5 5 0 20171229051949
+91.140.89.121 5 12 753375 20171230172451
+144.217.68.229 2 2 11099 20171222075553
+54.173.114.60 2 2 3168 20171206015554
+52.91.4.219 2 2 3168 20171205235207
+107.23.30.101 2 2 3168 20171205235020
+62.102.148.67 2 2 3160 20171230083609
+52.87.185.251 2 2 3168 20171206015350
+13.56.229.65 21 21 33263 20171230115913
+34.228.43.210 2 2 3168 20171206024314
+54.161.29.249 2 2 3168 20171205234416
+54.162.186.185 2 2 3168 20171206021701
+54.89.193.68 2 2 3168 20171206011656
+34.228.78.7 2 2 3168 20171206015308
+194.44.247.218 1 1 5497 20171219030850
+159.203.180.140 2 5 6410 20171224184016
+54.82.240.59 2 2 3168 20171206015730
+52.91.49.231 2 2 3168 20171205234653
+83.26.231.226 19 63 8993549 20171205110022
+91.227.68.154 1 1 5434 20171228135332
+34.202.166.241 2 2 3168 20171206015720
+104.168.143.119 1 1 1745 20171226181447
+54.162.195.107 2 2 3168 20171206024035
+95.174.244.221 0 4 740172 
+54.157.255.25 2 2 3168 20171206011941
+82.202.249.91 2 2 10931 20171209215420
+54.172.51.34 2 2 3168 20171206011715
+109.173.154.24 1 1 1585 20171214183146
+94.254.253.5 5 11 15503 20171220113940
+34.227.103.74 2 2 3168 20171205234142
+37.248.163.121 8 29 4832686 20171204134532
+52.91.100.15 2 2 3168 20171206011735
+54.89.167.63 2 2 3168 20171206023021
+54.161.34.185 2 2 3168 20171206011708
+213.227.139.199 3 3 16428 20171228171717
+34.229.147.162 2 2 3168 20171206015558
+54.89.73.131 2 2 3168 20171206015603
+91.8.129.243 8 39 6358212 20171223225813
+94.254.250.15 1 4 4670 20171213174354
+54.209.163.209 2 2 3168 20171206022912
+5.188.211.13 17 17 119506 20171228130302
+46.183.144.14 1 1 1580 20171201092059
+34.233.124.229 2 2 3168 20171206011537
+173.254.216.66 3 3 4740 20171207052741
+54.90.130.172 2 2 3168 20171206015822
+54.242.238.84 2 2 3168 20171205234739
+94.254.162.113 3 14 1556808 20171204155501
+178.37.222.187 12 35 4617136 20171222222623
+88.118.172.59 6 24 3069916 20171224210919
+86.10.160.140 0 2 487830 
+34.228.41.0 2 2 3168 20171205233938
+54.242.153.200 2 2 3168 20171205234247
+91.140.89.96 20 63 8258430 20171214170636
+34.236.151.4 2 2 3168 20171206011320
+176.221.121.131 1 4 4672 20171218201444
+54.172.112.18 2 2 3168 20171206020138
+54.89.162.41 2 2 3168 20171206023403
+35.205.165.124 1 4 4672 20171221105026
+52.90.166.208 2 2 3168 20171205234321
+216.74.107.105 1 1 1580 20171211221052
+54.161.6.20 2 2 3168 20171205234343
+52.91.222.26 2 2 3168 20171206011715
+173.252.84.88 1 2 2200 20171214080803
+34.227.225.253 2 2 3168 20171206011615
+34.207.152.136 23 23 48061 20171206034100
+184.94.240.92 1 1 5581 20171219020246
+34.229.0.161 2 2 3168 20171206020326
+59.92.209.60 1 1 1580 20171227100822
+107.20.131.3 2 2 3168 20171206023636
+51.15.206.31 1 1 5581 20171203143826
+54.196.146.255 2 2 3168 20171206015515
+201.18.18.173 2 2 11036 20171202195204
+54.197.31.247 2 2 3168 20171206011659
+54.169.201.172 1 1 1580 20171205142727
+124.206.180.188 2 2 10868 20171230184104
+37.58.63.169 1 1 5434 20171201235715
+34.203.234.116 2 2 3168 20171206015558
+77.65.110.130 4 14 12820975 20171228225926
+34.224.93.63 2 2 3168 20171205234306
+216.74.108.182 1 1 1580 20171221114238
+34.228.153.193 2 2 3168 20171205234220
+77.65.90.21 2 8 9342 20171225201415
+94.130.228.163 1 1 1580 20171230161841
+34.229.195.182 2 2 3168 20171205234153
+178.17.170.156 1 1 1580 20171228135020
+91.140.89.27 2 8 9334 20171208184117
+89.64.51.156 3 14 1501536 20171211001640
+52.200.218.200 2 2 3168 20171206020114
+171.25.193.25 1 1 1580 20171225090748
+69.58.178.58 20 20 141826 20171220100521
+34.234.90.248 2 2 3168 20171206022707
+46.183.103.8 2 5 6669 20171218210528
+37.47.165.230 6 16 2038010 20171206000815
+146.255.183.78 1 4 4672 20171212113208
+52.91.221.136 2 2 3168 20171206023440
+54.84.231.112 2 2 3168 20171206011644
+89.67.80.107 22 77 10550689 20171231130059
+54.234.155.173 2 2 3168 20171206020126
+2.86.252.65 24 80 10822594 20171217222552
+46.183.144.20 1 1 1580 20171229120215
+52.87.175.147 2 2 3168 20171206015714
+54.157.250.141 2 2 3168 20171206020144
+190.45.14.206 1 1 1585 20171216022511
+34.227.53.57 2 2 3168 20171206015428
+201.219.237.67 8 30 3609100 20171216022649
+54.197.28.0 2 2 3168 20171206024215
+173.252.84.86 0 1 1102 
+54.157.234.208 2 2 3168 20171206020106
+34.229.156.176 18 18 38507 20171206033214
+176.8.89.80 6 6 33108 20171216071951
+54.89.197.173 2 2 3168 20171206023133
+34.227.242.215 2 2 3168 20171206020119
+54.197.27.57 2 2 3168 20171205233859
+34.229.152.117 34 34 70480 20171206022051
+37.47.145.24 0 1 183341 
+79.191.252.153 15 59 8986243 20171208002703
+54.162.133.105 2 2 3168 20171205234321
+34.227.79.51 34 34 70480 20171206031135
+34.236.157.63 34 34 70480 20171206020529
+46.238.121.82 10 37 5596899 20171220123757
+34.224.102.204 2 2 3168 20171206015641
+54.209.146.95 2 2 3168 20171205234305
+54.226.112.154 2 2 3168 20171206015931
+216.239.90.19 1 1 1580 20171229050234
+54.210.33.9 34 34 70480 20171206005633
+191.101.213.172 1 1 1580 20171230113525
+52.23.201.239 2 2 3168 20171205234515
+163.172.4.153 8 8 12640 20171222020250
+34.203.212.182 34 34 70480 20171206023159
+34.230.75.5 2 2 3168 20171206020050
+54.235.23.104 34 34 70480 20171206022708
+199.249.223.75 1 1 1580 20171207052745
+54.88.102.223 2 2 3168 20171206015918
+34.224.28.23 2 2 3168 20171206011402
+94.254.129.172 2 10 1013257 20171207005045
+66.220.151.87 0 1 1102 
+217.168.138.54 3 3 6160 20171220123849
+52.91.50.100 2 2 3168 20171206020411
+5.144.209.234 2 14 1753904 20171220214126
+79.173.45.99 32 81 30136881 20171218210159
+213.55.184.222 2 14 1821602 20171205012858
+79.186.152.93 1 1 5539 20171226142149
+137.226.113.26 6 6 9541 20171230212719
+54.145.221.29 2 2 3168 20171206015830
+81.190.136.148 7 30 4607973 20171231152222
+94.23.83.80 1 1 1580 20171223091750
+52.23.239.234 2 2 3168 20171206015822
+54.91.11.63 34 34 70480 20171206010120
+37.47.174.106 4 15 1571578 20171225231636
+34.224.66.11 2 2 3168 20171205233913
+52.54.112.71 34 34 70480 20171206023956
+52.91.37.232 34 34 70480 20171206031742
+54.89.201.242 2 2 3168 20171206011300
+34.230.76.178 34 34 70480 20171206022501
+34.235.117.9 2 2 3168 20171206023315
+151.51.245.38 4 15 1559240 20171224211850
+66.220.151.86 0 1 1370 
+78.194.32.109 14 63 30140611 20171219224630
+87.118.94.2 1 1 1580 20171207052740
+54.89.136.181 2 2 3168 20171205234141
+52.91.171.2 2 2 3168 20171206015533
+34.240.11.202 1 1 1580 20171211030149
+194.230.118.227 0 8 850320 
+66.220.151.93 1 2 2200 20171204101424
+34.236.144.171 2 2 3168 20171206015256
+34.224.74.234 15 15 31528 20171206034155
+34.207.146.25 2 2 3168 20171205233926
+91.140.88.42 16 60 8987907 20171229181357
+188.103.31.204 1 1 5581 20171204233145
+221.148.203.15 0 1 199934 
+54.89.163.68 2 2 3168 20171206015347
+34.227.47.47 25 25 52468 20171206034400
+94.23.16.30 1 1 1583 20171218222015
+54.173.64.206 2 2 3168 20171205234020
+54.87.144.177 2 2 3168 20171205234221
+31.0.40.247 4 20 2581084 20171204132840
+54.88.48.254 2 2 3168 20171206015308
+52.91.58.79 2 2 3168 20171206015931
+34.236.157.214 34 34 70480 20171206005720
+34.207.112.74 2 2 3168 20171205233856
+34.228.112.75 2 2 3168 20171206023408
+52.91.159.199 34 34 70480 20171206023347
+54.208.120.12 34 34 70480 20171206022941
+34.201.101.170 34 34 70480 20171206005831
+54.197.195.129 34 34 70480 20171206010709
+52.90.133.238 2 2 3168 20171206022003
+54.242.124.175 2 2 3168 20171206011202
+91.140.88.78 14 34 2140027 20171211175423
+181.214.30.56 1 1 1580 20171221161932
+173.252.85.28 1 1 1585 20171222131935
+95.175.104.38 7 30 4607990 20171209150148
+109.236.8.10 2 2 3165 20171228022614
+34.224.222.50 34 34 70480 20171206032556
+64.62.252.163 34 34 70480 20171209143739
+34.229.95.19 34 34 70480 20171206023427
+176.116.31.144 1 1 1580 20171201015146
+34.228.58.221 34 34 70480 20171206032832
+216.218.222.14 1 1 1580 20171224151936
+188.226.129.55 2 2 3160 20171226115503
+31.17.252.222 3 13 751568 20171217124908
+52.53.129.101 2 2 3168 20171203104918
+79.173.50.120 6 24 3599394 20171221124637
+80.67.8.181 1 1 5434 20171211232657
+52.23.182.167 2 2 3168 20171206011324
+81.190.139.255 7 25 2320294 20171214014736
+34.228.41.230 2 2 3168 20171206020009
+54.152.168.23 2 2 3168 20171206015418
+137.226.113.28 9 9 14316 20171231192123
+158.46.167.36 1 1 1580 20171207232542
+34.228.167.22 2 2 3168 20171206020054
+34.230.19.88 2 2 3168 20171205234148
+54.84.95.41 2 2 3168 20171206011307
+54.183.130.127 17 17 27038 20171231213308
+188.29.165.215 0 1 140746 
+54.152.185.137 2 2 3168 20171206023934
+34.234.92.153 2 2 3168 20171206011647
+34.228.14.156 34 34 70480 20171206022527
+34.224.71.76 34 34 70480 20171206032201
+54.175.61.18 2 2 3168 20171205234357
+35.189.173.230 1 1 5497 20171229104909
+31.13.113.94 1 1 2426 20171220115059
+54.173.13.51 2 2 3168 20171206011419
+109.173.217.173 12 37 4631507 20171206131831
+34.236.149.192 2 2 3168 20171206011513
+146.185.223.5 4 4 22072 20171217134525
+34.229.124.20 2 2 3168 20171206020207
+54.89.52.185 34 34 70480 20171206023121
+213.183.59.43 1 1 1580 20171221231612
+94.23.75.60 2 2 3160 20171229155830
+107.21.70.218 2 2 3168 20171206011700
+34.227.242.173 34 34 70480 20171206005605
+2.87.219.212 20 45 3144505 20171230100339
+66.117.8.42 1 1 5497 20171230012744
+34.224.58.156 2 2 3168 20171206011457
+41.222.253.5 1 1 1580 20171220142842
+34.228.80.37 2 2 3168 20171205234348
+34.230.87.162 2 2 3168 20171206020052
+54.89.32.146 2 2 3168 20171205233937
+67.227.100.228 1 1 1580 20171214140127
+54.84.252.16 2 2 3168 20171206015746
+52.90.59.37 2 2 3168 20171205234232
+173.208.249.194 1 1 5497 20171222202700
+34.224.57.213 2 2 3168 20171205234302
+94.65.103.189 1 4 4667 20171207120723
+54.243.27.235 17 17 36284 20171206033408
+94.134.158.102 1 1 5581 20171221074912
+198.46.200.186 1 1 1580 20171231154215
+34.229.80.60 2 2 3168 20171206021849
+34.233.120.211 2 2 3168 20171206023745
+52.90.2.116 2 2 3168 20171206011728
+107.23.22.138 2 2 3168 20171206021210
+54.209.240.120 2 2 3168 20171206011350
+54.243.19.145 2 2 3168 20171206011536
+69.197.163.242 1 1 5497 20171214154744
+34.201.106.46 22 22 46141 20171206033729
+193.90.12.116 1 1 1580 20171227215807
+85.248.227.163 1 1 1580 20171221032942
+34.230.29.208 2 2 3168 20171205234254
+35.194.1.1 1 1 1585 20171201060946
+34.207.78.194 34 34 70480 20171206022346
+107.20.128.64 2 2 3168 20171206015257
+54.174.181.174 2 2 3168 20171206015412
+54.210.209.117 34 34 70480 20171206030738
+52.201.212.189 2 2 3168 20171206011804
+34.228.63.186 34 34 70480 20171206005708
+54.173.34.200 13 13 26911 20171206033202
+34.224.40.164 2 2 3168 20171206015855
+54.242.141.162 2 2 3168 20171206020047
+95.211.162.73 2 2 10994 20171222181302
+94.66.208.67 2 10 1013257 20171204210249
+54.157.246.22 2 2 3168 20171205233951
+54.90.105.20 2 2 3168 20171205233818
+178.33.54.161 2 2 3160 20171214235135
+54.145.244.15 2 2 3168 20171205234437
+52.91.55.183 34 34 70480 20171206032456
+35.190.173.119 1 1 5497 20171211161157
+34.228.65.251 2 2 3168 20171206020152
+188.146.130.68 1 4 4672 20171204204111
+34.224.26.205 2 2 3168 20171206015733
+94.23.171.176 1 1 1580 20171220225339
+184.72.77.100 2 2 3168 20171205233747
+34.235.88.69 34 34 70480 20171206023950
+34.228.144.223 2 2 3168 20171205234257
+104.151.222.118 1 1 1580 20171221120955
+52.73.93.84 2 2 3168 20171205234222
+34.203.198.167 34 34 70480 20171206023153
+54.173.18.205 2 2 3168 20171206022135
+52.87.250.208 2 2 3168 20171206020052
+37.47.40.14 20 73 10050468 20171219211802
+37.17.172.122 34 34 70322 20171224045313
+34.207.59.250 34 34 70480 20171206031102
+54.84.129.164 34 34 70480 20171206022323
+54.227.181.164 2 2 3168 20171206011626
+34.228.170.235 2 2 3168 20171206015823
+78.61.218.72 8 30 4598540 20171204013706
+35.227.94.45 1 1 5497 20171210124658
+66.249.93.199 1 1 1585 20171218202948
+173.252.84.93 0 1 1370 
+149.56.223.241 3 3 4740 20171207052748
+34.203.198.149 34 34 70480 20171206032303
+34.207.113.191 2 2 3168 20171206011816
+52.48.4.114 1 1 1580 20171205023039
+178.171.31.152 1 1 1580 20171214174948
+54.86.32.119 2 2 3168 20171206015642
+142.54.164.58 1 1 5497 20171218182946
+54.210.39.22 34 34 70480 20171206032053
+38.100.21.61 17 21 126150 20171216094526
+79.189.53.154 3 6 8407 20171220091754
+137.226.113.27 4 4 6362 20171224204800
+54.161.16.107 34 34 70480 20171206032510
+37.187.89.212 1 1 1585 20171226193252
+54.171.75.121 1 1 1580 20171211113906
+94.254.243.231 8 38 4618149 20171217165116
+153.163.108.250 1 8 813009 20171209154348
+34.234.65.36 34 34 70480 20171206021559
+92.39.220.97 1 1 5497 20171215190840
+34.226.192.227 2 2 3168 20171206011710
+46.161.9.3 1 1 5434 20171208205351
+54.198.202.86 2 2 3168 20171205234356
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20171201 5 5 10179 5
+20171202 21 22 274846 4
+20171203 4 4 10339 3
+20171204 49 133 14732447 13
+20171205 100 156 10940275 43
+20171206 2314 2349 11338217 217
+20171207 17 31 1051028 11
+20171208 21 74 10238542 6
+20171209 52 92 6414330 6
+20171210 16 33 2151893 3
+20171211 13 27 1528212 11
+20171212 2 6 206197 2
+20171213 4 7 9418 4
+20171214 51 115 10635879 11
+20171215 4 4 10255 4
+20171216 48 86 5341903 10
+20171217 42 138 16211288 10
+20171218 45 115 32532876 8
+20171219 34 118 48640342 8
+20171220 37 85 7458595 10
+20171221 15 36 3619130 10
+20171222 22 45 4652646 10
+20171223 15 46 6373233 7
+20171224 35 67 4680266 9
+20171225 9 26 1589587 5
+20171226 5 5 12040 5
+20171227 2 2 3160 2
+20171228 45 97 23460458 9
+20171229 27 82 10560492 9
+20171230 20 38 2338051 10
+20171231 13 36 4617501 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 4
+2mn-5mn 13
+1h+ 1
+30mn-1h 6
+0s-30s 360
+5mn-15mn 65
+30s-2mn 22
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 33
+/ 646 1207633 405 350
+/index.php/poetbot-v11/ 182 399349 58 4
+/index.php/origins-of-fake/ 176 361521 2 7
+/index.php/celly/ 164 404390 0 5
+/index.php/polish-water/ 162 449684 0 4
+/index.php/autonomy-congress/ 158 434501 0 1
+/index.php/untitled/ 155 310133 1 1
+/index.php/escape-plan/ 152 321311 2 5
+/index.php/upgraded-stones/ 151 315507 0 3
+/index.php/circulating-matter/ 143 319537 0 3
+/index.php/digital-autograph/ 142 292554 0 1
+/index.php/doormats/ 141 321040 0 2
+/index.php/bio/ 140 284546 0 5
+/index.php/exhibitions/ 139 342262 1 5
+/index.php/contact/ 137 260456 1 68
+/index.php/public-space---neon-lights/ 136 294593 0 3
+/index.php/portfolio/ 130 219371 0 1
+/index.php/exhibitions 3 17799 1 1
+/index.php/untitled 2 13623 0 0
+/index.php/celly 2 14165 0 0
+/index.php/portfolio 2 11349 0 0
+/index.php/digital-autograph 2 14412 0 0
+/index.php/circulating-matter 2 14839 0 0
+/index.php/escape-plan 2 14850 0 0
+/index.php/origins-of-fake 2 13953 0 0
+/index.php/polish-water 2 16883 0 0
+/index.php/autonomy-congress 2 16490 0 0
+/index.php/public-space---neon-lights 2 14364 0 0
+/index.php/bio 2 14377 0 0
+/index.php/contact 2 12359 0 0
+/index.php/doormats 2 14462 0 0
+/index.php/poetbot-v11 2 14417 0 0
+/index.php/upgraded-stones 2 13987 0 2
+END_SIDER

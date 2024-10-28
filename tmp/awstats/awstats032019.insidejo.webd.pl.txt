@@ -1,0 +1,1722 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201903 will be lost/reset.
+# Last config file used to build this data file was /home/insidejo/tmp/awstats/awstats.insidejo.webd.pl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2695                
+POS_VISITOR 36981               
+POS_DAY 57998               
+POS_DOMAIN 3673                
+POS_LOGIN 4567                
+POS_ROBOT 4722                
+POS_WORMS 6558                
+POS_EMAILSENDER 6689                
+POS_EMAILRECEIVER 6832                
+POS_SESSION 58934               
+POS_SIDER 59147               
+POS_FILETYPES 6967                
+POS_DOWNLOADS 7288                
+POS_OS 8449                
+POS_BROWSER 8907                
+POS_SCREENSIZE 13545               
+POS_UNKNOWNREFERER 13619               
+POS_UNKNOWNREFERERBROWSER 15000               
+POS_ORIGIN 15359               
+POS_SEREFERRALS 15507               
+POS_PAGEREFS 15801               
+POS_SEARCHWORDS 18197               
+POS_KEYWORDS 18372               
+POS_MISC 2359                
+POS_ERRORS 18454               
+POS_CLUSTER 4423                
+POS_SIDER_404 18571               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190401002518 341 82612 10535659072554
+FirstTime 20190301013106
+LastTime 20190331233539
+LastUpdate 20190401192823 341 0 340 0 0
+TotalVisits 899                 
+TotalUnique 451                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 574                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 121 318 36808209 141 318 39457986
+1 57 93 1143739 322 468 21307557
+2 52 67 1546070 153 262 6437853
+3 54 65 1121107 178 309 6426581
+4 80 99 2817759 154 285 4888013
+5 58 71 1549724 126 270 3924347
+6 43 52 843332 122 263 4521504
+7 69 122 23100429 179 286 4610707
+8 104 119 2254910 169 294 3138292
+9 67 236 47658143 159 346 11223283
+10 49 190 479288627 135 364 3174727
+11 165 688 507231509 144 471 5816206
+12 112 448 998867739 190 415 3216264
+13 116 379 331362468 108 400 4871449
+14 172 733 368748488 147 533 2236696
+15 145 429 179542445 155 423 24769007
+16 124 455 72854323 155 443 4333662
+17 124 279 21360753 182 454 2968108
+18 124 447 274079576 97 364 19537746
+19 89 221 14723617 114 423 3106787
+20 114 376 203009680 255 515 15616799
+21 141 662 1032360053 121 293 11652622
+22 142 486 1738195214 135 368 24898375
+23 88 314 1529031750 127 398 15708126
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 45
+ua 601 656 5383326
+ch 546 1735 1309962095
+pl 410 2603 2125525656
+us 351 714 54075727
+gb 126 551 70760065
+cn 55 164 401751
+ru 49 49 227316
+ca 45 45 387287
+fr 41 96 35914678
+de 37 92 8217296
+at 32 183 57685885
+kr 29 30 428260
+hu 13 28 1737850
+gr 9 94 81148643
+eu 6 6 17103
+it 6 46 7551616
+nl 5 5 14383
+br 5 79 369012827
+mx 4 5 191707
+jp 4 32 4712555
+se 4 4 11489
+bg 3 3 8694
+ro 3 6 18148
+lr 3 3 8598
+my 3 3 28665
+cl 1 1 2872
+lv 1 1 2915
+sa 0 1 196405
+be 0 1 112067
+in 1 3 386511
+ph 0 1 106420
+tr 2 2 17682
+by 0 1 105910
+md 2 2 5744
+nz 1 37 240701394
+cz 2 9 17931615
+pk 1 1 9478
+mn 0 1 123139
+rs 1 1 9478
+dk 1 1 2870
+id 1 1 9685
+sk 2 2 5740
+th 0 1 101863
+fi 3 46 7357477
+ae 1 4 653623
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 43
+SeznamBot/ 471 45494535 20190331215146 0
+Googlebot/ 455 20475854 20190331205715 0
+Baiduspider/ 429 1165090 20190331183228 0
+bingbot/ 357 1763173 20190331235846 0
+bingpreview 239 18741066 20190328205102 0
+Applebot/ 217 594004 20190331215208 0
+SemrushBot/ 192 519414 20190331213100 0
+BLEXBot/ 153 408310 20190328090932 0
+bot[\s_+:,\.\;\/\\-] 109 624199 20190330013647 0
+AhrefsBot/ 83 225626 20190330035322 0
+Apache\-HttpClient/ 75 216015 20190329110420 0
+no_user_agent 72 15206809 20190321231835 0
+Googlebot\-Image/ 71 14830743 20190325221703 0
+YandexBot/ 67 18087288 20190329224022 0
+java 58 589470 20190322205311 0
+DotBot/ 51 527846 20190331005301 0
+Uptimebot/ 41 2870 20190330075519 0
+crawler4j 32 82636 20190317170021 0
+oBot/ 30 82098 20190330041234 0
+DomainCrawler/ 29 290864 20190312063714 0
+MegaIndex\.ru/ 29 79549 20190316202912 0
+Exabot/ 19 54308 20190326190201 0
+Deepnet[\x20]Explorer 15 140346 20190327074503 0
+(firefox/)([0-9]\.|[0-1][0]\.) 15 123070 20190328042020 0
+Mail\.RU_Bot/ 14 22978 20190330020555 0
+Googlebot\-Video/ 12 104643795 20190309030439 0
+MSIECrawler 3 28434 20190322040837 0
+crawl 2 19164 20190326204007 0
+[\s_+:,\.\;\/\\-]bot 6 54003 20190318132559 0
+link 4 4897 20190329085837 0
+YandexImages/ 3 266622 20190324200259 0
+GrapeshotCrawler/ 2 5795 20190325172102 0
+DuckDuckGo\-Favicons\-Bot/ 1 2872 20190306182521 0
+yandex 2 19370 20190301223707 0
+curl 4 38120 20190324115313 0
+robot 2 393822 20190307145721 0
+Babya[\x20]Discoverer 3 26283 20190308011950 0
+spider 5 6002 20190324061233 0
+facebookexternalhit/ 12 33703 20190331223653 0
+YisouSpider 11 232602 20190328185251 0
+MojeekBot/ 6 15535 20190331194411 0
+CCBot/ 12 37241 20190325113426 0
+Cliqzbot/ 3 9109 20190328073201 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+css 774 1401810 0 0
+html 2376 11760540 0 0
+Unknown 20 153613 0 0
+png 463 13770941 0 0
+xml 2 9284 0 0
+js 178 7270667 0 0
+gif 205 99801239 0 0
+pdf 27 215573735 0 0
+jpg 3279 616001505 0 0
+php 10 1351 0 0
+map 2 150934 0 0
+wav 1 57308 0 0
+mp4 12 3292288370 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 23
+/files/insidejob_ulalucinska_michalknychaus_works_2019.pdf 12 53 246627299
+/poetbot/docs/5c7a7d6e283ca.pdf 2 2 589297
+/poetbot/docs/5c7ef34301c67.pdf 2 2 695379
+/poetbot/docs/5c7c5059a45f3.pdf 2 1 679313
+/poetbot/docs/5c8b851ed0023.pdf 2 2 756873
+/poetbot/movies/thinking.mp4 1 44 59307542
+/poetbot/docs/2019031812440.pdf 1 2 413924
+/poetbot/docs/5c7c47f648f17.pdf 1 2 374760
+/poetbot/movies/startanimacja2.mp4 1 85 1329914315
+/poetbot/docs/personalised_poem_poetbot_2019031812480.pdf 1 2 405970
+/poetbot/docs/2019031812150.pdf 1 2 445094
+/poetbot/movies/pytanie1.mp4 1 52 151245911
+/poetbot/movies/pytanie2Mob.mp4 1 89 216707003
+/poetbot/movies/animacja_otwarcie.mp4 1 110 104786465
+/poetbot/docs/2019031812090.pdf 1 2 361788
+/poetbot/movies/startanimacja2Mob.mp4 1 108 692663207
+/poetbot/movies/animacja_otwarcieMob.mp4 1 95 87974591
+/poetbot/movies/pytanie1Mob.mp4 1 92 225727490
+/poetbot/movies/pytanie3Mob.mp4 1 106 251863585
+/poetbot/movies/pytanie3.mp4 1 104 207451886
+/poetbot/movies/pytanie2.mp4 1 52 155297476
+/poetbot/sounds/buttons_sound.wav 1 50 521348
+/poetbot/movies/thinkingMob.mp4 1 93 56561865
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 29
+unix 8 0
+linux 124 96
+macosx 2633 493
+win2000 57 57
+win7 743 214
+macosx11 415 83
+winunknown 22 19
+win8 18 15
+ios_iphone 704 262
+macosx10 179 34
+winme 6 6
+win8.1 22 8
+winnt 37 37
+wince 9 9
+Unknown 146 138
+win10 2112 345
+macosx9 24 7
+winlong 17 17
+win98 12 12
+win2003 73 70
+linuxandroid 467 43
+macosx12 324 98
+macosx6 2 2
+macosx8 3 3
+macosx7 1 1
+win16 6 6
+win95 30 30
+macosx4 1 1
+winxp 304 304
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 212
+chrome49.0.3535.1696 2 0
+msie9.0 3 3
+chrome67.0.3396.79 1 1
+chrome51.0.3457.1504 1 0
+firefox27.0 1 1
+chrome61.0.3163.128 1 0
+chrome70.0.3538.110 8 2
+chrome41.0.2272.96 55 0
+chrome54.0.9736.1328 1 0
+chrome47.0.2526.16 1 1
+chrome5.0.375.99 2 2
+Unknown 73 70
+wap 1 1
+seamonkey 1 1
+chrome13.0.782.41 1 1
+safari6.1.3 1 1
+chrome58.0.3029.110 8 8
+safari10.1.2 134 18
+msie7.0 42 39
+opera55.0.2994.44 1 1
+chrome72.0.3626.105 150 22
+chrome41.0.8927.1219 1 0
+chrome72.0.3626.121 605 92
+safari11.0 103 96
+chrome41.0.3571.1823 2 0
+chrome64.0.3282.140 1 1
+chrome34.0.1847.76 1 0
+firefox63.0 4 1
+opera53.0.2907.99 3 3
+opera54.0.2952.71 4 4
+chrome60.0.3112.90 33 33
+chrome52.0.2743.116 3 3
+chrome41.0.8801.1520 1 0
+msie8.0 1 1
+chrome14.0.835.202 1 1
+chrome73.0.3683.90 15 1
+chrome66.0.3359.181 2 2
+opera7.54 6 6
+chrome43.0.1606.1720 2 0
+chrome60.0.3112.101 4 4
+firefox53.0 2 2
+chrome72.0.3626.109 209 36
+chrome42.0.1346.1367 1 0
+chrome40.0.3682.1689 1 0
+chrome41.0.2225.0 1 1
+opera9.00 36 36
+chrome58.0.3029.81 81 81
+msie4.01 6 6
+chrome54.0.4084.1002 2 0
+chrome42.0.7693.1170 1 0
+opera54.0.2952.64 2 2
+chrome41.0.2272.89 65 48
+chrome63.0.3239.111 9 1
+safari12.1.1 8 1
+chrome54.0.1802.1158 1 0
+chrome34.0.1847.131 1 1
+chrome72.0.3626.119 499 61
+webcapture 3 3
+chrome54.0.4144.1040 2 0
+opera58.0.3135.118 93 26
+chrome51.0.4910.1030 1 0
+chrome57.0.2987.98 1 1
+chrome73.0.3683.86 241 30
+chrome35.0.1916.153 1 1
+chrome50.0.5599.1315 2 0
+chrome59.0.3522.1217 2 0
+android 9 2
+chrome49.0.5632.1687 2 0
+firefox65.0 1381 125
+netscape0.91 12 12
+chrome56.0.4563.1010 1 0
+firefox59.0 3 3
+chrome45.0.2454.12 1 1
+chrome59.0.1757.1262 2 0
+chrome57.0.6566.1217 2 0
+chrome59.0.3392.1931 2 0
+firefox56.0.4 2 2
+chrome68.0.3440.106 3 3
+opera53.0.2907.68 5 1
+edge34 1 1
+chrome59.0.1109.1492 2 0
+chrome55.0.5024.1183 1 0
+msie6.0 288 288
+chrome58.0.8729.1039 1 0
+chrome22.0.1216.0 2 2
+chrome57.0.9585.1011 2 0
+chrome57.0.4985.1712 2 0
+opera9.01 3 3
+chrome56.0.5211.1702 1 0
+safari 3 0
+chrome59.0.3071.115 4 1
+firefox28.0 1 1
+opera7.02 6 6
+chrome42.0.2311.82 1 1
+chrome16.0.912.77 1 1
+chrome47.0.2483.1076 1 0
+chrome40.0.2214.85 12 9
+edge15 7 7
+chrome56.0.2986.42 2 2
+chrome41.0.2262.1864 2 0
+safari11.1.2 38 12
+firefox38.0 4 1
+chrome48.0.2564.116 45 0
+chrome46.0.5634.1140 2 0
+msie11.0 12 2
+chrome40.0.2214.10 1 1
+chrome71.0.3578.80 1 1
+firefox40.1 17 17
+chrome73.0.3683.75 154 19
+opera8.01 21 21
+chrome71.0.3578.98 6 5
+safari9.1.1 2 2
+chrome41.0.2227.1 1 1
+chrome51.0.2704.103 1 1
+firefox56.0 7 7
+chrome12.0.750.0 1 1
+chrome72.0.3626.122 13 2
+safari12.0.3 377 54
+netscape5.0 1 1
+chrome52.0.9297.1057 1 0
+firefox21.0 19 19
+chrome42.0.9655.1767 1 0
+chrome34.0.1847.116 9 9
+chrome47.0.4349.1205 2 0
+chrome54.0.8272.1755 2 0
+chrome45.0.7898.1893 2 0
+chrome63.0.3239.132 67 67
+firefox47.0 19 19
+chrome47.0.3547.1736 1 0
+chrome28.0.1464.0 1 1
+chrome43.0.5920.1247 2 0
+opera58.0.3135.127 59 12
+chrome45.0.2454.94 2 2
+opera8.00 12 12
+firefox46.0 2 2
+chrome62.0.3202.94 2 2
+chrome41.0.9124.1424 1 0
+opera36.0.2130.32 2 2
+chrome53.0.7271.1803 2 0
+chrome41.0.2228.0 1 1
+safari12.0.2 1437 210
+chrome40.0.7785.1346 1 0
+chrome49.0.8894.1479 1 0
+safari12.0 440 137
+chrome59.0.6447.1906 2 0
+chrome60.0.9961.1518 2 0
+chrome72.0.3626.81 99 15
+firefox66.0 151 15
+opera7.11 6 6
+chrome65.0.3325.181 4 4
+chrome61.0.3163.100 45 45
+chrome48.0.8553.1316 1 0
+chrome42.0.7558.1459 2 0
+chrome45.0.7920.1779 2 0
+chrome14.0.835.186 1 1
+opera7.60 3 3
+netscape0.6 3 3
+chrome49.0.2623.75 4 4
+chrome55.0.2883.75 1 1
+iphone 130 29
+chrome48.0.3301.1793 2 0
+firefox25.0 1 1
+chrome41.0.4327.1091 1 0
+chrome47.0.2740.1128 1 0
+safari9.1.3 4 1
+msie5.5 45 45
+chrome47.0.6779.1960 2 0
+netscape3.0 12 12
+chrome56.0.5552.1213 1 0
+chrome44.0.6492.1831 2 0
+chrome67.0.3396.87 22 8
+firefox62.0 2 2
+firefox50.0 10 4
+chrome42.0.6492.1927 2 0
+chrome58.0.6260.1559 2 0
+safari10.0.3 4 1
+chrome45.0.2454.101 4 4
+chrome38.0.1025.166 127 12
+opera9.0 15 15
+mozilla 248 195
+chrome63.0.3239.108 1 1
+edge17 89 3
+chrome57.4.0372.5644 1 1
+chrome47.0.4689.1755 2 0
+msie3.02 9 9
+chrome54.0.9465.1409 1 0
+chrome41.0.8966.1004 1 0
+firefox64.0 9 9
+chrome51.0.3436.1246 2 0
+chrome41.0.7658.1699 1 0
+chrome45.0.9182.1003 2 0
+chrome44.0.9667.1257 2 0
+chrome53.0.5430.1673 1 0
+chrome42.0.3856.1482 2 0
+chrome52.0.6029.1682 1 0
+chrome51.0.9644.1772 1 0
+chrome58.0.8232.1554 2 0
+chrome59.0.3071.109 1 1
+chrome51.0.9058.1521 1 0
+chrome66.0.3359.117 7 7
+chrome67.0.3396.99 4 3
+safari12.0.1 2 1
+msie2.0 3 3
+opera57.0.3098.116 244 50
+chrome65.0.3325.146 2 2
+chrome59.0.3071.36 1 1
+msie5.0 9 9
+chrome54.0.7427.1234 1 0
+opera58.0.3135.107 9 1
+opera54.0.2952.54 3 3
+opera6.01 9 9
+chrome42.0.4108.1885 2 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 19
+Mozilla/5.0_(compatible;_Wappalyzer) 20190316183738
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190303112953
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190317062303
+ia_archiver 20190324125103
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190304033314
+Python/3.6_aiohttp/3.4.4 20190324192955
+Go-http-client/1.1 20190330041553
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_Googlebot/2.1;__http://www.google.com/bot.html)_Safari/537.36 20190327063205
+Scrapy/1.5.1_(_https://scrapy.org) 20190326073720
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20190329022851
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190304103014
+fasthttp 20190307230022
+Mozilla/5.0_(compatible;_Baiduspider/2.0;__http://www.baidu.com/search/spider.html) 20190303230747
+The_Knowledge_AI 20190320125302
+WISE 20190329233245
+Mozilla/5.0_(compatible;_ips-agent) 20190324133418
+Mozilla/5.0_(compatible;_SeznamBot/3.2;__http://napoveda.seznam.cz/en/seznambot-intro/) 20190327071041
+Scrapy/1.6.0_(_https://scrapy.org) 20190321233757
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20190325201132
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+ia_archiver 20190324125103
+WISE 20190329233245
+The_Knowledge_AI 20190320125302
+Scrapy/1.6.0_(_https://scrapy.org) 20190321233757
+fasthttp 20190307230022
+Scrapy/1.5.1_(_https://scrapy.org) 20190326073720
+Python/3.6_aiohttp/3.4.4 20190324192955
+Go-http-client/1.1 20190330041553
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1031 1195
+From1 2 2
+From2 71 135
+From3 659 668
+From4 647 6499
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+www_google_fr 1 1
+www_google_ch 1 1
+www_google_co_uk 1 2
+www_google_de 1 1
+aolcom 1 1
+www_google_com_sa 0 1
+www_google_com 54 108
+www_google_pl 12 20
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 80
+https://php-market.ru 36 36
+http://poetbot.com 31 31
+https://www.piluli.info 18 18
+https://jav-fetish.site 18 18
+http://03e.info 18 18
+https://medbrowse.info 18 18
+http://top10-online-games.com 15 15
+http://fsalas.com 15 15
+http://greenshop.su 15 15
+http://hundejo.com 15 15
+http://xn----btbdvdh4aafrfciljm6k.xn--p1ai 15 15
+http://pizza-tycoon.com 14 14
+http://pawilon.org/manifesty-przyszlosci/ 14 14
+http://pizza-imperia.com 13 13
+https://uginekologa.com 12 12
+https://tamada69.com/glavnaya/tamada/ 12 12
+http://glass-system.ru 12 12
+https://distonija.com 12 12
+https://komp-pomosch.ru 12 12
+https://naturalpharm.com.ua 12 12
+https://l.instagram.com 12 12
+https://lalalove.ru 12 12
+http://tabakur77.net 12 12
+https://javlibrary.cc 12 12
+https://greatdealshop.com 12 12
+https://gidonline.one 3 3
+https://s-forum.biz 3 3
+https://pk-services.ru 6 6
+https://poesia-espanola.com 3 3
+http://burger-imperia.com 6 6
+https://veles.shop 6 6
+https://jav-fetish.com 3 3
+https://jav-way.site 3 3
+http://poetbot.com/docs 1 1
+https://m.facebook.com 1 1
+http://poetbot.com 1 1
+https://gidonline.one 6 6
+https://pro-poly.ru 6 6
+http://jjbabskoe.ru 6 6
+https://panicatack.com 6 6
+http://vpdr.pl 3 3
+http://domain.com 0 9
+https://l.facebook.com 2 2
+https://sexuria.net 9 9
+http://l.instagram.com 11 11
+http://dobrivikna.com.ua 6 6
+https://ukrpostindex.com.ua 3 3
+https://jjbabskoe.ru 6 6
+http://pornosemki.info 9 9
+https://dermatovenerologiya.com 3 3
+https://porndl.org 3 3
+https://supermodni.com.ua 6 6
+http://03p.info 9 9
+https://javcoast.com 6 6
+https://vzubah.com 3 3
+http://l.instagram.com 1 1
+http://gelstate.ru 9 9
+http://m.facebook.com 9 9
+https://grand-chlen.ru 3 3
+https://komputers-best.ru 6 6
+http://dom-prestarelyh.live 3 3
+https://infogame.name 9 9
+https://www.facebook.com 3 3
+https://zagadki-rus.ru 3 3
+https://mydirtystuff.com 3 3
+http://vchulkax.com 6 6
+https://aitiman.ae 9 9
+https://zabota-zp.com.ua 3 3
+https://filmi-v.online 6 6
+https://www.velomaster.com.ua 6 6
+http://kredit-pod-zalog.mozello.ru 6 6
+https://torrentgamer.net 6 6
+https://www.dan-invest.ru 9 9
+https://franshiza.shtaketniki.ru 3 3
+http://pornowarp.info 6 6
+https://pk-pomosch.ru 3 3
+http://hit-kino.ru 6 6
+https://copro.pw 3 3
+https://mydoctorok.ru 6 6
+http://eropho.com 6 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+www.insidejo.webd.pl 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+www.insidejo.webd.pl 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 4592 631278
+206 22 1025642
+301 1 247
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 353
+/wp-content/themes/konzept/style.css 1 http://michalknychaus.com/wp-content/themes/konzept/style.css
+/https://www.printedmatter.org/catalog/51320 2 -
+/cfg-contactform-1/inc/upload.php 1 -
+/wp-content/themes/multimedia1/server/php/files/jsspwned.php 1 -
+/blog/administrator/index.php 1 -
+/wordpress2/wp-login.php 2 -
+/2019/wp-login.php 2 -
+/wp-rdf.php 2 -
+/wp-content/plugins/wp-mobile-detector/cache/settings_auto.php 1 -
+/index.php/origins-of-fake/index.php 3 http://ulalucinska.com/index.php
+/wp-content/uploads/wpmp-previews/jsspwned.php 1 -
+/js/mage/cookies.js 1 ulalucinska.com
+/media/wp-includes/wlwmanifest.xml 27 -
+/de/wp-login.php 2 -
+/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/files/jsspwned.php 1 -
+/wp-cahce.php 2 -
+/wp-content/plugins/wp-property/third-party/uploadify/jsspwned.php 1 -
+/wp-content/uploads/settingsimages/jsspwned.php 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 11 -
+//wp-login.php 1 -
+/vendor_extra/elfinder/php/connector.minimal.php 1 -
+/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 2 -
+/blog/robots.txt 5 -
+/wp-admin/admin-post.php 3 -
+/admin/images/cal_date_over.gif 10 -
+/wordpress/ 5 -
+/wordpress3/wp-login.php 2 -
+/adminside/server/php/ 1 -
+/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/ 1 -
+/wp-content/files_mf/jsspwned.php 1 -
+/wp-content/plugins/wp-property/third-party/uploadify/uploadify.php 1 -
+/wp-content/themes/centum/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+//webconfig.txt.php 1 http://www.google.com.hk
+/license.php 6 -
+/wp-content/plugins/zen-mobile-app-native/jsspwned.php 1 -
+/myforum/wp-login.php 2 -
+/wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php 2 -
+/1/wp-login.php 2 -
+/wp-content/plugins/inboundio-marketing/admin/partials/uploaded_csv/jsspwned.php 2 -
+/files/insidejob_ulalucinska_michalknychaus_works_2018.pdf 3 -
+/robots.txt 1373 -
+/index.php/calm-days/index.php 12 http://ulalucinska.com/index.php
+/files/gimgs/52_Galeria%20Skala%20-%202018_06%20-%20Inside%20Job%20(Ula%20Luci%C5%84ska%20Micha%C5%82%20Knychaus)%20-%20Overwrite%20Discard%20Save%20both%20-%206.jpg 3 -
+/wp-content/themes/ultimatum/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+//templates/system/css/system.css 3 -
+/admin/editor/plugins/filemanager/ajax_create_folder.php 1 -
+/wp-content/plugins/way2register.php 2 -
+/apple-touch-icon-120x120.png 238 -
+/.env 1 -
+/user/register/ 2 -
+/cometchat/ 1 -
+/wordpress1/wp-login.php 2 -
+/wp1/wp-includes/wlwmanifest.xml 27 -
+/wp-content/themes/brainstorm/style.css 1 http://michalknychaus.com/wp-content/themes/brainstorm/style.css
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 1 http://michalknychaus.com/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/fr/ 1 -
+/wp-content/themes/satoshi/upload-file.php 2 -
+/info/wp-login.php 2 -
+/kariera 2 -
+/app/webroot/js/tinymce/plugins/imgsurfer/main.php 1 -
+/wp-content/uploads/headway/header-uploads//jsspwned.php 1 -
+/wp-content/themes/betheme/muffin-options/fields/upload/Files/jsspwned.php 1 -
+/media/editor/plugins/filemanager/ajax_create_folder.php 1 -
+/temp.php 1 -
+/wp-content/plugins/php-event-calendar/server/file-uploader/jsspwned.php 2 -
+/index.php/contact/https://www.facebook.com/ula.lucinska 2 -
+/wp-content/themes/Avada/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/shop/wp-includes/wlwmanifest.xml 27 -
+/index.php/contact/https://www.facebook.com/michalknychaus 2 -
+/wp-content/plugins/dzs-videowhisper/upload.php 1 -
+/teststite/wp-login.php 2 -
+//user/register/ 1 http://www.google.com.hk
+/sites/default/files/seo_script.php 2 -
+/wordpress/wp-includes/wlwmanifest.xml 33 -
+/wp-content/themes/headway-166/style.css 1 http://michalknychaus.com/wp-content/themes/headway-166/style.css
+/joomla/administrator/index.php 1 -
+/website/wp-includes/wlwmanifest.xml 27 -
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+///webconfig.txt.php 1 http://www.google.com.hk
+/wp-content/plugins/woocommerce-custom-t-shirt-designer/includes/templates/template-deep-gray/designit/cs/upload.php 1 -
+/wp/wp-login.php 6 -
+/index.php/collaborative/girlhood--dziewczynstwo/index.php 12 http://ulalucinska.com/index.php
+/digital-autograph/index.php 3 http://www.ulalucinska.com/digital-autograph/index.php
+/wp-content/uploads/i-dump-uploads//jsspwned.php 1 -
+/apple-touch-icon-120x120-precomposed.png 238 -
+/elfinder/php/connector.minimal.php 4 -
+/modul/tinymce/plugins/ajaxfilemanager/ajax_create_folder.php 1 -
+/blog/wp-login.php 6 -
+/wp/wp-admin/install.php 5 -
+/wp-content/satoshi/images/jsspwned.php 1 -
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/wp-content/plugins/wpstorecart/php/upload.php 1 -
+/server/php 1 -
+/libraries/sfn.php 1 -
+/wp-content/plugins/asset-manager/upload.php 1 -
+/wp-content/vuln.php 1 -
+/biz/wp-login.php 1 -
+/wordpress/wp-admin/ 3 -
+/wp-content/themes/dance-studio/core/libs/ 1 http://michalknychaus.com/wp-content/themes/dance-studio/core/libs/
+/index.php/celly/ 24 https://franshiza.shtaketniki.ru/
+/wp/ 5 -
+/wp-admin/ 4 -
+/wp-content/plugins/inboundio-marketing/admin/partials/csv_uploader.php 2 -
+/myblog/wp-login.php 2 -
+/old/wp-content/themes/AdvanceImage5/functions.php 4 -
+/wp-content/plugins/mobile-app-builder-by-wappress/server/images.php 1 -
+/wp-includes/LICENSE.php 2 -
+/wp-content/plugins/mobile-friendly-app-builder-by-easytouch/jsspwned.php 1 -
+/libraries/modules.php 2 -
+/old/ 1 -
+/Dockerfile 4 -
+/wordpress/wp-login.php 6 -
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+/web/wp-includes/wlwmanifest.xml 27 -
+/wp-content/plugins/pitchprint/uploader/ 1 -
+/wp-content/themes/famous/style.css 1 http://michalknychaus.com/wp-content/themes/famous/style.css
+/wp-content/plugins/peugeot-music-plugin/js/plupload/examples/upload.php 2 -
+/google4444f1eb4e8fe15a.html 2 -
+/wp-content/plugins/barclaycart/uploadify/uploadify.php 1 -
+/ajax/api/hook/decodeArguments 1 -
+/new/ 1 -
+/wp-content/themes/twentyseventeen/404.php 2 -
+/public-space---neon-lights/index.php 12 http://ulalucinska.com/public-space---neon-lights/index.php
+/admin/libraries/ajaxfilemanager/ajax_create_folder.php 1 -
+/cms/wp-includes/wlwmanifest.xml 33 -
+/wp-content/plugins/showbiz/temp/update_extract/jsspwned.php 1 -
+/wp-content/plugins/dzs-zoomsounds/admin/upload/jsspwned.php 2 -
+/test1/wp-login.php 2 -
+/index.php/autonomy-congress/https://player.vimeo.com/video/243298550 2 -
+/wp-content/themes/IncredibleWP/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/administrator/ 1 -
+/mysite/wp-login.php 2 -
+/apple-app-site-association 4 -
+/mambots/editors/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/wp-content/themes/striking_r/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/files/uploadify/uploadify.php 1 -
+/http:/www.michalknychaus.com/ 1 -
+/wp-content/plugins/wordpress-member-private-conversation/doupload.php 2 -
+//admin/images/cal_date_over.gif 3 -
+//wp-admin/install.php 1 -
+//fckeditor/editor/filemanager/connectors/php/upload.php 3 -
+/old/wp-admin/ 3 -
+/wp-content/themes/designplus/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/index.php/public-space---neon-lights/index.php 12 http://ulalucinska.com/index.php
+/site/wp-includes/wlwmanifest.xml 33 -
+/wp-content/themes/headway-162/style.css 1 http://michalknychaus.com/wp-content/themes/headway-162/style.css
+/wp-content/plugins/index.php 2 -
+/administrator 1 -
+/humans.txt 1 -
+/yjh.php 2 -
+/wp-content/uploads/jsspwned.php 2 -
+/test/wp-admin/ 3 -
+/wp-content/plugins/simple-ads-manager/jsspwned.php 1 -
+/wp-content/uploads/2019/03/jsspwned.php 2 -
+/wordpress/wp-content/themes/AdvanceImage5/functions.php 3 -
+/test3/wp-login.php 2 -
+/xml/ 13 -
+/wp-content/plugins/lb-mixed-slideshow/gallery/1/jsspwned.php 1 -
+/wp-content/themes/atom/style.css 1 http://michalknychaus.com/wp-content/themes/atom/style.css
+/google3e3694cf95c4dee1.html 2 -
+/2018/wp-includes/wlwmanifest.xml 27 -
+/wp-content/themes/twentythirteen/404.php 2 -
+/wp-content/plugins/contus-video-galleryversion-10/jsspwned.php 1 -
+/wp-content/themes/headway-16/style.css 1 http://michalknychaus.com/wp-content/themes/headway-16/style.css
+/assets/tinymce/plugins/imgsurfer/main.php 1 -
+/wp-content/themes/andre/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/index.php/contact/https://www.instagram.com/michalknychaus 2 -
+/products.json 1 -
+/phpmyadmin/index.php 1 https://google.com
+/wp-content/jsspwned.php 1 -
+/wp-content/plugins/radykal-fancy-gallery/admin/image-upload.php 1 -
+/news/wp-includes/wlwmanifest.xml 27 -
+/blog/wp-admin/ 3 -
+/wp-content/plugins/omni-secure-files/plupload/examples/uploads/jsspwned.php 1 -
+//admin/login.php 3 -
+/wp-content/plugins/sexy-contact-form/includes/fileupload/files/ 1 -
+/public/upload_nhieuanh/server/php/_index.php 1 -
+/administrator/index.php 6 -
+/collaborative/girlhood--dziewczynstwo/index.php 12 http://ulalucinska.com/collaborative/girlhood--dziewczynstwo/index.php
+/sito/wp-includes/wlwmanifest.xml 27 -
+/wp-login.php 79 http://ulalucinska.com/wp-login.php
+/wp-sbb.php 1 -
+/shop/wp-login.php 2 -
+/xmlrpc.php 67 -
+/oldsite/ 1 -
+/wp-content/themes/headway-163/style.css 1 http://michalknychaus.com/wp-content/themes/headway-163/style.css
+/wp/wp-admin/ 3 -
+/test/wp-login.php 4 -
+/wp/wp-includes/wlwmanifest.xml 33 -
+/https://www.facebook.com/events/963866647131796 2 -
+/wp-content/themes/konzept/includes/uploadify/uploads/jsspwned.php 1 -
+/templates/system/css/system.css 11 -
+/wordpress/wp-content/plugins/ubh/up.php 4 -
+/blog/ 5 -
+/wp-content/plugins/uploader/uploadify/uploadify.php 1 -
+/jobs 2 -
+/wp-content/themes/betheme/muffin-options/fields/upload/field_upload.php 1 -
+/arrowchat/admin/ 1 -
+/index.php/contact/index.php 6 http://ulalucinska.com/index.php
+/wp-admin/setup-config.php 4 -
+/null 34 -
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 1 -
+/wp-content/plugins/lb-mixed-slideshow/libs/uploadify/upload.php 1 -
+/backup/ 1 -
+/cometchat/admin/ 1 -
+/wp-content/uploads/uigen_YEAR/file.php 1 -
+/kariera.html 2 -
+/wp-content/plugins/social-networking-e-commerce-1/classes/views/social-options/form_cat_add.php 1 -
+/wp-content/plugins/peugeot-music-plugin/js/plupload/examples/uploads/jsspwned.php 1 -
+/wp-content/themes/konzept/includes/uploadify/upload.php 1 -
+/wp/wp-content/themes/AdvanceImage5/functions.php 4 -
+/wp-content/plugins/dzs-videowhisper/upload/jsspwned.php 1 -
+/wp-content/uploads/user_uploads/test/jsspwned.php 2 -
+/wp-content/plugins/wp-simple-cart/files/$uploadfolder/temporary/jsspwned.php 1 -
+/wordpress/wp-admin/install.php 2 -
+/umapresence/umaservices/umapage/inc/contentCss.php 1 -
+/wp-content/themes/qualifire/style.css 1 http://michalknychaus.com/wp-content/themes/qualifire/style.css
+/wp-content/plugins/dzs-zoomsounds/admin/upload.php 2 -
+/media/media.php 2 -
+/praca.html 2 -
+/st.php 2 -
+/wp-content/themes/ut-strange/addpress/css/style.css 1 http://michalknychaus.com/wp-content/themes/ut-strange/addpress/css/style.css
+/blog/wp-includes/wlwmanifest.xml 33 -
+/wp-includes/css/upload.php 2 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/wp-content/plugins/wp-simple-cart/request/simple-cart-upload.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/index.php/polish-water/ 1 -
+/wp-content/plugins/webapp-builder/server/images.php 1 -
+/wp-content/themes/u-design/style.css 1 http://michalknychaus.com/wp-content/themes/u-design/style.css
+/wp-content/plugins/webapp-builder/jsspwned.php 1 -
+/wp1/wp-login.php 4 -
+/wp-content/themes/library/visual-editor/lib/upload-header.php 1 -
+/mambots/editors/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/blog3/wp-login.php 2 -
+/jobs.html 2 -
+/wp-content/themes/village/blueprint/gallery/ajaxupload/server/php.php 1 http://michalknychaus.com/wp-content/themes/village/blueprint/gallery/ajaxupload/server/php.php
+/com/wp-login.php 2 -
+/wp-content/themes/purevision/style.css 1 http://michalknychaus.com/wp-content/themes/purevision/style.css
+/2016/wp-includes/wlwmanifest.xml 27 -
+/praca 2 -
+/fckeditor/editor/filemanager/connectors/php/jsspwned.php 1 -
+/wp-content/uploads/uigen_2015/jsspwned.php 1 -
+/ads.txt 6 -
+/testblog/wp-login.php 1 -
+/wp-content/themes/medicate/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/blog1/wp-login.php 2 -
+/node/1 1 -
+/wp-content/plugins/mobile-friendly-app-builder-by-easytouch/server/images.php 1 -
+/tinymce/plugins/ajaxfilemanager/ajax_create_folder.php 1 -
+/test/wp-includes/wlwmanifest.xml 27 -
+//blog/ 2 http://ulalucinska.com/
+/wp-content/themes/MoneyTheme/uploads/uploads/jsspwned.php 1 -
+/wp-content/plugins/zen-mobile-app-native/server/images.php 1 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 -
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 1 -
+/2018/wp-login.php 2 -
+/user/register 3 -
+/templates/admin/js/tinymce/plugins/imgsurfer/main.php 1 -
+/arrowchat/ 1 -
+/wp-content/plugins/social-networking-e-commerce-1/images/uploads/jsspwned.php 1 -
+/http://www.michalknychaus.com/ 1 -
+/apple-touch-icon.png 623 -
+/index.php 5 -
+/wp-content/plugins/cherry-plugin/admin/import-export/jsspwned.php 2 -
+/zp-core/zp-extensions/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php 1 -
+/wp-content/plugins/omni-secure-files/plupload/examples/upload.php 2 -
+/index.php/digital-autograph/index.php 3 http://www.ulalucinska.com/index.php
+/wp-content/uploads/product_files/jsspwned.php 1 -
+/wp-content/themes/pindol/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/wp2/wp-login.php 2 -
+/post.php 2 -
+/wp-content/plugins/contus-video-galleryversion-10/upload1.php 1 -
+/index.php/workshops-in-dzop-method/https://magazynszum.pl/warsztaty-metoda-dzop-w-galerii-sztuki-im-jana-tarasina 2 -
+/wp-admin/admin.php 3 -
+/wp-includes/wlwmanifest.xml 33 -
+/wp-content/uploads/$year/$month/jsspwned.php 3 -
+/calm-days/index.php 12 http://ulalucinska.com/calm-days/index.php
+/tinymce/jscripts/tiny_mce/plugins/imgsurfer/main.php 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/index.php/celly/https://player.vimeo.com/video/243295603 2 -
+/wp-content/uploads/assets/temp/jsspwned.php 1 -
+/contact/index.php 5 http://ulalucinska.com/contact/index.php
+/wp-content/plugins/omni-secure-files/plupload/examples/uploads//jsspwned.php 1 -
+/test/ 1 -
+/wp-content/themes/rarebird/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/wp-includse.php 2 -
+/wp-content/uploads/wpstorecart/jsspwned.php 1 -
+/wp-content/plugins/all-in-one-seo/aioseop_class.php 2 -
+/scripts/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php 1 -
+/wp-content/plugins/pitchprint/uploader/files/jsspwned.php 1 -
+/oihfoe09fposf.php 2 michalknychaus.com
+/wp-content/plugins/i-dump-iphone-to-wordpress-photo-uploader/uploader.php 1 -
+/2017/wp-login.php 1 -
+/wp-content/plugins/mobile-app-builder-by-wappress/jsspwned.php 1 -
+/wp-content/themes/agregado/404.php 1 -
+/https://toestand.be/en 2 -
+/news/wp-login.php 2 -
+/wp-content/themes/cubed_v1.2/functions/upload-handler.php 1 -
+/wp2/wp-includes/wlwmanifest.xml 27 -
+/infusions/mp3player_panel/upload.php 1 -
+/wp-content/themes/cuckootap/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/forum/wp-login.php 2 -
+/wp-content/plugins/php-event-calendar/server/file-uploader/ 2 -
+/pma/index.php 1 https://google.com
+/blog/xmlrpc.php 2 -
+/blog2/wp-login.php 2 -
+/xml 2 -
+/wp-content/themes/AdvanceImage5/functions.php 4 -
+/admin/login.php 10 -
+/wp-content/uploads/wysija/themes/v5wysija/jsspwned.php 1 -
+/assets/uploadify/old/uploadify.php 1 -
+/wp-content/plugins/barclaycart/uploadify/jsspwned.php 1 -
+/2015/wp-includes/wlwmanifest.xml 27 -
+/wp-content/plugins/sexy-contact-form/includes/fileupload/index.php 1 -
+/editor/plugins/filemanager/ajax_create_folder.php 1 -
+/.well-known/apple-app-site-association 4 -
+/wp-content/themes/nuance/style.css 1 http://michalknychaus.com/wp-content/themes/nuance/style.css
+/.well-known/assetlinks.json 17 -
+/assets/uploadify/uploadify.php 1 -
+/site/wp-login.php 2 -
+/wp-content/themes/headway-165/style.css 1 http://michalknychaus.com/wp-content/themes/headway-165/style.css
+/wp-content/themes/multimedia1/server/php/ 1 -
+/index.php/overly-sexy-smart-edgy-and-dangerous/index.php 3 http://www.michalknychaus.com/index.php
+/language/en-GB/en-GB.xml 1 -
+/2017/wp-includes/wlwmanifest.xml 27 -
+/apple-touch-icon-precomposed.png 623 -
+/helpdesk/media/editor/plugins/filemanager/ajax_create_folder.php 1 -
+/test2/wp-login.php 2 -
+/wp-content/themes/headway-161/style.css 1 http://michalknychaus.com/wp-content/themes/headway-161/style.css
+/wp-content/themes/pinboard/uploads/jsspwned.php 1 -
+/wp-content/themes/sketch/wp-console.php 2 -
+/wp-admin/admin-ajax.php 8 -
+/wp3/wp-login.php 2 -
+/joomla/robots.txt 1 -
+/wp-content/plugins/downloads-manager/upload/jsspwned.php 1 -
+/wp-content/themes/beach_apollo/framework/plugins/revslider/temp/update_extract/revslider/jsspwned.php 1 -
+/public/js/plugins/imgsurfer/main.php 1 -
+/wp-content/themes/pinboard/themify/themify-ajax.php 1 -
+/wp-content/themes/dance-studio/core/libs/imperavi/tests/file_upload.php 1 -
+/admin/tinymce/jscripts/tiny_mce/plugins/imgsurfer/main.php 1 -
+/wp-content/themes/MoneyTheme/uploads/upload.php 1 -
+/origins-of-fake/index.php 3 http://ulalucinska.com/origins-of-fake/index.php
+/.git/head 1 -
+/tinymce/plugins/imgsurfer/main.php 1 -
+/wp-content/jssor-slider/jssor-uploads/jsspwned.php 1 -
+//administrator//webconfig.txt.php 2 http://www.google.com.hk
+/wp-content/plugins/radykal-fancy-gallery/admin/jsspwned.php 1 -
+/ 49 -
+/wp-content/plugins/wp-mobile-detector/resize.php 1 -
+//wp-admin/admin-post.php 2 http://www.google.com.hk
+/XAttacker.php 2 -
+/overly-sexy-smart-edgy-and-dangerous/index.php 3 http://www.michalknychaus.com/overly-sexy-smart-edgy-and-dangerous/index.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 574
+194.230.158.53 147 764 632320184 20190307143046
+178.137.19.79 93 93 867189 20190331142314
+178.137.167.214 93 93 868170 20190330025405
+178.137.80.158 90 90 845862 20190331162515
+37.115.187.192 84 84 788340 20190331055555
+194.230.158.90 84 408 210623675 20190305002015
+35.178.170.115 81 81 232689 20190316223022
+194.230.158.76 73 184 118969942 20190313233141
+194.230.158.74 55 121 4913464 20190325120423
+46.119.114.171 48 48 420528 20190310071457
+46.118.156.122 48 48 420528 20190311072837
+194.230.158.186 40 173 136356489 20190316172304
+46.118.120.6 33 33 289113 20190311052742
+77.65.106.207 32 186 43848279 20190331195505
+194.230.155.181 32 177 45476140 20190305094533
+111.47.185.110 31 31 85379 20190301110259
+37.115.190.120 30 30 262830 20190309011838
+52.53.201.78 26 26 74992 20190330205501
+31.0.24.94 23 147 20993840 20190328185112
+194.230.158.246 22 22 65469 20190321195602
+37.47.174.33 22 561 1577638618 20190318124828
+31.182.186.22 21 93 14968588 20190317160027
+188.146.178.67 21 98 31737397 20190321110412
+141.0.12.28 20 63 7647490 20190325000554
+37.47.6.205 19 135 20528181 20190305183320
+109.70.100.21 2 2 5740 20190309165151
+183.79.92.102 0 1 177108 
+54.190.145.116 1 1 2870 20190320083431
+34.222.105.227 1 1 2872 20190318045829
+194.230.158.104 2 24 2882773 20190308225659
+5.173.249.190 1 1 3051 20190326204924
+13.52.74.140 1 1 0 20190329200521
+82.132.236.188 0 1 172919 
+5.188.62.5 3 3 8643 20190327112107
+62.210.177.44 2 2 21396 20190312172730
+93.169.23.203 0 1 196405 
+142.4.218.236 13 13 121183 20190309170317
+35.155.227.129 1 1 10091 20190310114143
+178.37.112.165 4 42 6619880 20190327123022
+83.202.68.6 1 14 1727050 20190331185105
+34.217.148.237 1 1 2872 20190320032019
+82.145.222.200 17 111 17217317 20190301203233
+185.104.120.7 1 1 2856 20190301032119
+85.221.144.205 1 20 2844173 20190314132447
+5.149.33.204 2 2 6102 20190326085259
+46.161.14.130 4 4 11048 20190331035012
+5.173.68.163 1 7 41436 20190317211435
+91.134.17.236 1 1 2917 20190329112155
+89.228.200.23 13 117 17900838 20190317214906
+178.17.170.194 1 1 2872 20190313202658
+178.220.159.176 1 1 9478 20190309160905
+37.47.187.186 2 9 190023 20190318181902
+34.215.203.21 1 1 2856 20190304043345
+194.230.158.190 2 2 6102 20190325181246
+62.210.83.206 2 2 25204 20190329102400
+220.243.135.233 0 3 3602 
+157.33.130.241 0 1 269279 
+34.211.144.34 1 1 2872 20190316055200
+175.136.149.64 1 1 9478 20190319072648
+220.243.135.239 0 3 3602 
+220.243.136.69 0 2 2329 
+198.245.62.147 2 2 18956 20190315163537
+84.9.82.200 2 2 19088 20190322223255
+185.61.72.122 0 1 112067 
+188.146.163.39 4 4 11932 20190331233501
+108.62.3.46 2 2 17573 20190323151532
+31.145.96.94 2 2 17682 20190330224026
+185.25.118.36 1 1 2870 20190315130518
+66.249.83.54 1 3 4540 20190311203114
+178.17.170.135 1 1 2872 20190313233834
+46.119.112.31 8 8 76852 20190327035245
+45.32.218.127 1 1 2872 20190321205349
+64.246.165.140 1 1 2855 20190302052520
+69.171.251.32 0 4 1109024 
+42.188.213.160 1 1 9709 20190315085920
+185.104.120.5 1 1 2870 20190309163040
+92.249.66.247 1 1 9610 20190305235336
+209.97.156.135 1 1 9478 20190314094048
+202.9.44.128 0 1 123139 
+86.242.27.228 1 11 1691504 20190326221355
+185.48.57.173 4 4 11245 20190329092822
+213.55.176.197 0 2 420875 
+192.99.2.192 2 2 19154 20190319211500
+5.173.232.213 10 52 6624278 20190319191312
+207.244.70.35 1 1 2872 20190313193736
+85.248.227.164 1 1 2870 20190309155919
+62.99.233.74 17 130 18277251 20190308145849
+18.237.47.177 1 1 2915 20190325053500
+220.243.135.70 0 2 2316 
+217.96.159.103 1 4 6384 20190312151218
+85.28.144.94 0 2 352350 
+220.243.136.239 0 3 2600 
+150.254.177.1 2 96 130374306 20190315115734
+66.220.149.1 0 1 1370 
+83.150.29.136 15 87 14169688 20190322155319
+66.249.83.220 0 6 345024 
+82.145.223.20 10 64 10285777 20190325135038
+179.158.232.192 1 1 9478 20190321004503
+34.238.193.119 1 1 9587 20190331035939
+220.243.136.107 0 3 3824 
+194.116.183.177 1 4 5943 20190301115135
+199.249.230.78 1 1 2856 20190302172822
+69.171.251.11 0 5 969569 
+185.48.57.156 6 6 17135 20190331044903
+220.243.135.202 0 1 615 
+107.6.183.226 1 1 2870 20190306015300
+66.249.69.139 0 1 17174 
+188.166.78.231 1 1 2870 20190319024920
+173.230.138.235 1 1 2915 20190330071554
+178.197.235.213 0 6 1087585 
+188.147.96.215 1 6 310536 20190307122621
+89.185.77.197 1 1 2872 20190314085939
+195.154.242.189 4 4 39498 20190331044114
+35.162.194.19 0 1 239755 
+220.243.135.44 0 4 3375 
+194.113.106.124 4 4 37912 20190312161821
+91.206.244.12 3 17 2493194 20190318235512
+178.62.74.6 6 6 17103 20190318085211
+145.239.198.253 2 2 19370 20190302050706
+5.173.144.82 1 1 3051 20190326161921
+66.102.9.43 1 1 2856 20190303103534
+194.116.193.117 1 7 41417 20190304173415
+168.88.70.10 1 7 623013 20190321145952
+194.177.46.82 3 6 11347 20190305111629
+54.185.249.8 1 1 2872 20190310042431
+82.145.223.13 9 36 3821878 20190330125035
+220.243.136.170 0 4 3730 
+180.151.119.90 0 1 223634 
+220.243.136.159 0 1 615 
+198.12.90.72 2 2 18989 20190318105202
+216.162.47.75 10 91 13978999 20190302123915
+51.89.19.252 1 1 2915 20190331081028
+85.221.134.157 1 4 5959 20190307113923
+216.176.176.100 7 7 19005 20190330032929
+34.211.115.242 0 1 321270 
+34.219.200.205 1 1 2872 20190323043736
+184.174.50.53 1 1 2870 20190314101052
+194.230.158.144 5 5 14760 20190322125446
+34.222.119.92 0 1 239755 
+220.243.136.6 0 1 1370 
+192.99.13.20 2 2 19174 20190329222428
+109.70.100.26 1 1 2870 20190319151248
+173.252.87.17 0 1 1370 
+52.40.154.214 1 1 2856 20190303051934
+66.249.93.202 1 1 2877 20190315152907
+5.173.66.177 1 1 3051 20190326120956
+171.25.193.25 2 2 5744 20190314023531
+199.249.230.87 1 1 2856 20190301091134
+95.91.128.51 1 4 5959 20190318210653
+185.32.222.113 2 2 17375 20190320183204
+188.165.233.161 2 2 5712 20190303015557
+194.230.155.144 2 9 190102 20190325144728
+220.243.136.113 0 3 3824 
+203.133.171.78 15 15 148985 20190311080651
+18.237.133.147 1 1 2872 20190315012630
+82.145.223.19 1 4 5798 20190329134853
+83.150.7.175 1 1 2872 20190313141958
+185.220.100.252 1 1 2856 20190301200124
+3.80.156.107 1 1 9587 20190331034803
+185.4.65.44 1 1 9643 20190310022329
+188.146.161.242 4 4 11932 20190329231921
+36.67.242.79 1 1 9685 20190305044704
+66.249.83.221 2 11 442821 20190329224533
+34.245.77.102 1 1 2915 20190324192955
+54.218.13.176 1 1 2872 20190314013552
+188.92.72.129 1 1 2915 20190326073720
+66.249.89.177 1 1 53 20190329020752
+79.186.246.227 0 3 577810 
+122.59.181.153 1 87 240701394 20190330102512
+94.23.255.34 1 1 2883 20190315085950
+46.105.96.164 2 2 19022 20190318054941
+185.129.62.63 1 1 2856 20190301073710
+77.65.105.170 1 7 41436 20190307003357
+34.220.134.179 0 3 704153 
+220.243.136.132 0 1 1370 
+197.231.221.211 3 3 8598 20190313172617
+193.92.105.216 8 56 7358140 20190326135214
+62.210.111.56 3 3 8655 20190328225335
+46.134.37.105 5 35 3618603 20190308172056
+74.135.9.118 0 1 399188 
+89.228.238.99 1 4 5964 20190317171027
+178.43.185.69 1 4 5959 20190319214710
+79.192.174.155 0 1 153191 
+137.226.113.26 2 2 5728 20190304033314
+185.234.218.108 1 1 9478 20190320041203
+220.243.135.69 0 2 1717 
+82.145.221.44 17 33 1851380 20190329181427
+37.115.187.223 3 3 28761 20190331180730
+188.146.166.248 1 7 41433 20190318000307
+66.249.83.56 1 5 6576 20190311203114
+38.88.66.14 0 1 244533 
+5.173.233.217 1 7 41265 20190320135842
+193.9.158.49 1 1 2872 20190317063736
+72.188.107.224 0 1 153191 
+69.171.251.8 0 11 1977587 
+64.246.165.180 1 1 2873 20190323045633
+77.65.89.246 1 4 5943 20190304193353
+54.190.8.163 1 1 2915 20190324121904
+220.243.135.176 0 4 4158 
+37.115.184.19 6 6 58704 20190304032911
+88.156.128.87 1 4 5959 20190318142132
+66.249.83.149 0 1 1043 
+84.72.172.29 1 1 9685 20190302072917
+185.104.120.4 1 1 2872 20190313232148
+220.243.135.50 0 4 3375 
+85.248.227.163 1 1 2870 20190309155533
+46.105.101.178 2 2 19154 20190318075034
+192.99.15.55 2 2 5764 20190316231144
+69.171.251.27 0 2 972421 
+109.70.100.22 1 1 2870 20190309155246
+34.221.64.147 0 1 145223 
+67.227.100.133 1 1 2915 20190328073822
+34.220.255.98 1 1 2856 20190302042737
+37.47.132.86 4 66 22613757 20190305115258
+138.246.253.5 8 8 0 20190328134656
+66.249.83.58 0 1 33616 
+220.243.136.139 0 1 615 
+5.173.74.134 3 7 157392 20190302151517
+83.26.214.130 1 4 5964 20190312224725
+91.134.17.254 1 1 2855 20190305143235
+46.4.33.48 1 1 9577 20190308163901
+153.209.140.101 1 1 9478 20190319035845
+5.173.240.29 6 51 7803776 20190327194438
+82.145.223.145 1 7 815257 20190331195631
+220.243.136.44 0 4 4959 
+163.172.255.59 4 16 24058 20190326001848
+81.10.177.31 4 34 38527790 20190310174327
+5.173.136.76 3 16 1031898 20190316183334
+109.126.146.14 0 1 105910 
+220.243.135.139 0 1 1227 
+220.243.136.176 0 4 3730 
+52.41.92.191 1 1 2872 20190313012830
+61.91.205.142 0 1 101863 
+82.78.30.120 1 1 9478 20190312155453
+104.36.19.98 1 1 2856 20190305003836
+5.173.249.236 16 16 48408 20190331190932
+166.62.126.3 3 3 8659 20190329184124
+199.249.230.68 1 1 2870 20190309162627
+178.198.212.66 1 7 41433 20190317182524
+46.133.174.125 1 7 41436 20190307211435
+109.70.100.24 2 2 5742 20190314040128
+109.74.11.28 1 1 2873 20190312042734
+91.206.14.10 1 1 2856 20190304024710
+69.171.251.2 1 1 3459 20190320142658
+39.45.235.239 1 1 9478 20190319191914
+80.127.116.96 1 1 2856 20190301042150
+178.197.230.205 0 2 415096 
+83.24.121.127 5 60 9013766 20190316165726
+178.137.17.250 3 3 28761 20190331183733
+35.153.93.152 1 1 2856 20190304183754
+194.230.159.194 4 25 3327020 20190321004625
+5.173.78.53 5 5 15119 20190329114418
+66.102.6.86 3 15 1178908 20190330054833
+52.88.222.82 1 1 2870 20190323121040
+54.36.65.80 2 2 19370 20190302141930
+66.249.89.149 1 1 53 20190329022711
+77.247.181.163 1 1 2872 20190313212436
+185.100.86.128 1 1 2872 20190313222423
+34.211.53.226 0 1 145223 
+3.0.104.130 1 1 2872 20190307222054
+212.109.216.68 2 2 15794 20190304114402
+194.60.227.206 1 4 5943 20190305154135
+195.154.107.12 4 13 20872 20190322212817
+54.188.107.156 1 1 2870 20190321101350
+220.243.135.7 0 2 2643 
+134.36.97.63 19 112 18333810 20190318144216
+176.63.17.230 9 24 1716226 20190301111350
+46.118.157.179 8 8 76240 20190326085337
+34.213.178.238 0 1 239755 
+182.76.65.42 1 1 9686 20190329025610
+66.249.89.175 1 1 53 20190329022851
+5.173.249.62 2 21 2847022 20190302162345
+62.109.30.103 2 2 0 20190310063141
+66.102.6.150 0 8 586249 
+213.61.215.54 1 1 2872 20190313204242
+167.114.172.224 13 13 130980 20190317062304
+220.243.136.202 0 1 1273 
+64.246.161.30 1 1 2877 20190318152502
+178.197.234.141 2 14 82872 20190306205336
+198.143.155.138 1 1 2870 20190320003018
+185.220.102.7 1 1 2870 20190319200733
+121.136.66.40 1 1 9478 20190321122404
+176.37.202.65 16 40 70886 20190331231423
+95.215.0.145 3 3 14909 20190327235428
+188.146.54.91 4 38 5659946 20190320223638
+5.173.50.167 1 7 41480 20190324113825
+220.243.136.224 0 1 1273 
+54.188.213.122 0 2 290446 
+69.171.251.28 0 10 2444388 
+184.185.133.102 0 1 115374 
+95.108.11.207 2 8 44409 20190303170233
+54.187.132.60 0 2 1019522 
+95.91.212.221 9 51 7949064 20190322163308
+220.243.136.35 0 1 1043 
+117.196.93.41 0 1 153191 
+54.188.125.163 1 1 2856 20190303070723
+85.221.143.154 2 12 17967484 20190302072940
+66.249.69.141 0 1 17174 
+51.15.70.23 1 1 9577 20190316183738
+109.70.100.25 1 1 2856 20190301014217
+151.80.34.185 2 37 7522659 20190303220753
+157.230.53.219 4 4 38348 20190331124934
+89.64.24.179 6 77 12352772 20190320113939
+178.171.40.164 1 1 2915 20190328052657
+54.184.77.79 1 1 2870 20190306061726
+34.222.72.222 0 1 321270 
+5.173.24.207 1 1 3051 20190326175811
+37.47.131.39 1 4 5942 20190304111515
+173.193.191.202 1 1 2856 20190301204950
+178.159.37.34 1 1 9587 20190326194414
+37.128.96.130 15 99 15199755 20190313110736
+62.210.180.164 2 2 18102 20190331092411
+94.23.208.210 1 1 2886 20190317182950
+34.222.88.70 1 1 2870 20190308072922
+92.97.213.41 0 1 215334 
+193.239.56.100 5 30 2860292 20190313164704
+77.65.92.24 1 4 5943 20190301185437
+144.76.168.111 1 1 8783 20190302144823
+13.57.214.63 1 1 0 20190301190659
+5.188.211.100 2 2 5493 20190329032114
+195.176.3.19 8 8 22974 20190309155527
+220.243.135.161 0 1 1227 
+66.249.83.219 1 6 396742 20190326022929
+81.13.150.97 18 132 20632665 20190312001107
+220.243.136.195 0 2 1717 
+188.146.26.191 4 12 35824813 20190328124957
+198.98.52.93 1 1 2872 20190313214241
+96.44.178.68 1 1 9686 20190328095759
+187.39.42.53 1 68 168721597 20190331233539
+113.77.208.168 1 1 11894 20190326144954
+151.80.246.221 2 2 19174 20190324023444
+18.237.175.203 1 1 2872 20190312045606
+66.102.6.85 1 18 891503 20190328072507
+220.243.136.133 0 3 3543 
+199.195.250.77 1 1 2872 20190313210621
+188.33.244.180 4 7 14483 20190325123419
+95.132.250.210 1 1 2872 20190315100553
+178.32.147.150 1 1 2870 20190319123011
+185.24.203.195 1 4 5943 20190301220421
+54.218.250.143 1 1 2856 20190302060912
+109.70.100.19 1 1 2872 20190313202732
+79.172.193.32 2 2 5830 20190329014937
+187.189.220.244 0 1 153191 
+82.145.221.111 1 4 5959 20190310203350
+89.228.230.92 1 5 151547 20190311192909
+220.243.135.133 0 2 1842 
+174.202.11.142 1 7 41436 20190310135625
+34.209.128.103 1 1 2915 20190324035046
+220.243.136.13 0 1 1043 
+217.99.248.146 0 1 175223 
+34.231.241.191 1 1 9784 20190303201345
+192.185.4.40 1 1 2872 20190321110328
+77.46.87.12 0 2 422946 
+220.243.135.132 0 2 1658 
+129.56.99.134 1 1 2870 20190323075109
+54.218.104.204 1 1 2870 20190313111604
+178.137.84.233 2 2 19154 20190309003727
+193.37.253.151 1 1 2870 20190320073718
+85.156.150.25 3 46 7357477 20190317172725
+113.65.71.72 1 1 2872 20190311125718
+220.243.135.196 0 2 1842 
+178.171.113.223 1 1 2870 20190321061030
+5.173.241.71 1 1 3051 20190326191841
+96.127.158.234 1 1 2915 20190329233035
+178.196.194.94 11 28 2902050 20190327150326
+52.27.97.250 1 1 2856 20190305071635
+18.206.100.205 1 1 10091 20190310091616
+193.239.59.49 3 6 10938 20190313171043
+134.209.6.137 1 1 9587 20190326071605
+54.39.148.233 1 1 2870 20190309161552
+5.189.177.231 1 1 2915 20190327125414
+148.228.54.14 4 4 38516 20190326034006
+2.247.248.86 1 1 3007 20190318203250
+174.109.206.28 0 1 147899 
+220.243.136.233 0 3 2600 
+178.37.138.17 8 56 8950123 20190312122455
+31.184.238.190 2 2 19164 20190327234620
+34.213.226.131 1 1 2872 20190309042559
+185.249.197.229 1 1 9808 20190307230022
+173.232.242.34 1 1 9610 20190323070452
+220.243.135.6 0 2 1658 
+177.53.224.99 3 81 200281752 20190303230825
+54.149.175.195 1 1 2870 20190316071709
+94.19.150.216 2 2 19055 20190310082335
+158.69.241.225 1 1 2872 20190317170014
+38.100.21.66 10 11 96822 20190320170830
+34.219.215.242 1 1 2872 20190306044404
+64.233.172.216 0 8 900824 
+89.171.165.18 1 8 816627 20190331211543
+199.249.230.76 1 1 2872 20190313172727
+52.40.50.172 1 1 2915 20190329012837
+54.190.77.111 1 1 2856 20190305030057
+13.57.184.254 1 1 0 20190328194427
+206.180.165.147 2 2 5712 20190304232531
+13.57.233.99 19 19 54923 20190330065252
+77.253.72.31 1 4 5960 20190314195201
+176.181.170.17 2 5 8831 20190320073243
+34.76.103.169 1 1 2870 20190321231835
+18.237.196.93 0 9 2178430 
+176.9.144.114 1 4 5960 20190322072458
+134.36.97.100 19 115 16765601 20190318111938
+89.64.2.50 2 5 8799 20190303130903
+31.179.254.7 2 29 4516398 20190318150527
+82.145.223.35 1 8 816627 20190331192735
+34.242.149.226 1 1 2870 20190318204438
+173.252.87.9 0 1 1102 
+52.35.190.184 0 1 200488 
+46.166.139.35 1 1 2870 20190309155434
+176.36.2.222 1 1 2872 20190317073931
+141.0.12.138 1 8 816627 20190331201502
+220.243.136.70 0 2 1888 
+77.65.95.220 1 4 5943 20190304211741
+69.58.178.59 3 3 33332 20190324133418
+184.94.240.92 2 2 25204 20190325063334
+66.249.83.151 1 5 210166 20190316205530
+5.188.44.20 2 2 23950 20190311201547
+37.128.2.208 15 121 18898163 20190307133530
+220.243.136.98 0 1 1043 
+194.93.59.17 2 2 19568 20190304002955
+52.41.137.210 1 1 2872 20190308052132
+184.54.16.53 0 1 153191 
+78.46.90.120 1 1 8826 20190308033632
+52.25.23.177 1 1 2870 20190310070854
+167.86.66.69 0 9 1650695 
+38.124.60.186 0 1 237534 
+220.243.135.35 0 1 1273 
+181.214.30.241 1 1 2872 20190321110139
+171.25.193.77 1 1 2872 20190313185738
+54.190.65.90 1 1 2872 20190311043813
+220.243.135.13 0 1 1273 
+5.196.154.92 1 1 9577 20190320213430
+54.70.195.158 1 1 2870 20190322144907
+34.208.42.175 1 1 2872 20190317035729
+5.173.178.215 0 1 188454 
+89.77.142.130 5 56 9247085 20190325200552
+37.128.222.30 1 1 2870 20190309164029
+34.215.124.155 1 1 2870 20190318075254
+176.57.69.221 1 1 9478 20190312002958
+37.115.191.132 4 4 38546 20190331204429
+173.208.219.58 1 1 2870 20190321233757
+220.243.136.50 0 4 4959 
+203.133.170.111 13 13 129051 20190325201132
+185.222.202.125 1 1 2872 20190314040215
+94.254.225.131 1 1 3051 20190326141852
+34.214.98.4 1 1 2872 20190319045201
+77.65.108.119 4 31 4522867 20190301133855
+74.207.253.60 1 1 2923 20190327092329
+89.204.153.235 1 1 3007 20190319105804
+52.32.119.38 1 1 2872 20190307043605
+220.243.136.196 0 2 1658 
+45.76.226.181 1 1 2870 20190311212804
+46.118.155.61 4 4 38938 20190305181807
+193.83.109.252 1 11 852150 20190327155624
+89.65.244.110 0 1 223634 
+193.111.49.85 18 43 77123 20190329162734
+60.191.38.77 19 19 183075 20190331122302
+54.202.40.172 1 1 2856 20190304060410
+91.134.17.247 1 1 2922 20190329112155
+5.173.128.48 0 1 172919 
+113.66.10.124 1 1 2872 20190318125926
+52.39.182.43 1 1 2870 20190312061423
+88.156.128.46 1 4 5959 20190323123303
+64.233.172.218 2 9 723372 20190322165716
+37.120.156.134 1 4 5798 20190320140237
+111.217.77.66 2 29 4516382 20190304141542
+68.183.198.249 2 2 19370 20190302090953
+220.243.136.183 0 1 1043 
+62.167.120.252 2 29 4516871 20190322110838
+54.148.214.69 0 16 2813730 
+38.100.21.64 9 11 95559 20190318221504
+54.201.15.162 1 1 2872 20190322053000
+34.210.209.23 0 1 321270 
+66.102.6.149 1 3 4587 20190321192450
+220.243.135.113 0 4 3928 
+185.220.101.65 7 7 20090 20190311052229
+192.99.13.15 6 6 57700 20190331094134
+94.66.59.148 1 40 72778530 20190329111407
+195.113.118.51 2 9 17931615 20190331181155
+34.217.107.101 1 1 2856 20190301052225
+85.3.183.60 2 29 4516404 20190315073606
+66.220.149.30 0 1 1102 
+107.200.73.249 0 1 227901 
+5.173.93.254 7 7 21357 20190328065032
+54.173.35.129 1 1 9051 20190324125103
+89.228.216.9 4 28 11856670 20190328001150
+66.102.6.87 0 12 843784 
+52.215.60.75 1 1 2870 20190309125525
+66.249.93.205 1 1 2877 20190313180633
+178.197.228.145 2 8 43713 20190331191035
+109.173.217.8 19 144 23923271 20190302144807
+62.210.83.78 2 2 5787 20190324154255
+46.119.6.226 2 2 25204 20190329101350
+5.188.44.47 4 4 13581 20190329162758
+192.99.15.141 2 2 5756 20190317121702
+104.244.73.126 2 2 5740 20190309161925
+46.101.234.174 1 1 2915 20190326104721
+52.196.161.233 1 1 2856 20190302021559
+54.149.84.93 1 1 2915 20190330041553
+5.173.240.248 1 7 41414 20190302110620
+134.209.208.163 2 2 18956 20190323014341
+185.251.70.194 1 1 2860 20190304142711
+37.47.159.64 9 35 5224869 20190317213334
+185.49.93.104 1 1 9587 20190329161555
+188.168.236.99 1 1 9478 20190307191258
+185.115.240.107 1 1 15272 20190317204226
+115.91.248.58 0 1 140746 
+5.173.248.173 10 71 9599111 20190317131001
+220.243.135.195 0 2 2472 
+220.243.136.161 0 1 615 
+173.252.87.20 1 2 3485 20190319060820
+137.226.113.27 1 1 2865 20190304103014
+91.219.237.56 2 2 15794 20190315104129
+193.92.188.30 0 5 1011973 
+64.233.172.214 0 13 1296837 
+126.65.150.88 1 1 9587 20190329083539
+220.243.135.170 0 4 4158 
+75.126.32.182 1 1 2856 20190301091811
+51.77.109.127 1 1 9577 20190317191536
+89.79.88.106 1 4 6002 20190327153054
+80.0.230.129 0 1 123139 
+192.160.102.169 1 1 2870 20190309161555
+220.243.136.232 0 1 1273 
+77.114.132.237 1 4 5943 20190305171049
+34.211.56.252 1 1 2915 20190329091808
+46.169.253.44 2 6 154488 20190331162824
+82.64.73.32 1 14 1727050 20190331192307
+188.146.231.212 1 5 174985 20190330202305
+185.104.120.3 1 1 2870 20190309155520
+59.56.241.218 1 1 2856 20190303052605
+107.6.183.162 2 2 5806 20190327143803
+5.173.232.115 1 10 579646 20190328204025
+163.172.255.109 1 5 180865 20190330063633
+34.244.222.71 1 1 2856 20190302140359
+5.173.224.211 9 73 10108886 20190307142514
+77.65.90.184 1 7 41433 20190310073620
+52.12.53.240 1 1 2872 20190321070841
+220.243.136.76 0 1 1043 
+83.194.147.245 2 8 30541109 20190331200506
+220.243.135.98 0 1 1102 
+192.99.35.63 1 1 2878 20190308165853
+66.249.83.150 0 4 323773 
+175.141.162.147 1 1 9478 20190317072258
+34.212.209.40 0 4 979887 
+69.58.178.57 3 3 32854 20190316161725
+220.243.135.76 0 1 1102 
+109.70.100.20 2 2 5744 20190313224915
+54.165.90.203 16 16 155365 20190323002841
+5.30.106.173 1 1 9478 20190323102902
+216.158.235.185 1 1 2872 20190319193627
+34.218.229.171 1 1 2870 20190319063855
+54.189.41.55 1 1 2856 20190301073130
+66.160.140.183 1 1 2872 20190320125302
+137.226.113.28 2 2 5728 20190303112953
+178.171.0.70 1 1 2870 20190307040403
+66.220.149.4 1 2 3537 20190324192433
+220.243.136.7 0 3 3115 
+79.1.82.242 2 7 9783 20190314122438
+49.146.142.89 0 1 106420 
+213.55.176.229 1 1 3007 20190318221938
+81.22.45.136 1 1 2872 20190314164327
+185.129.62.62 1 1 2856 20190301095516
+139.81.40.50 1 1 2872 20190307100624
+188.165.200.217 2 2 6169 20190320074417
+82.132.225.35 1 9 214333 20190303170329
+86.99.89.184 0 2 428811 
+66.249.89.185 1 1 53 20190329020714
+83.6.190.25 1 4 5959 20190318141139
+220.243.135.107 0 4 3928 
+148.64.29.89 0 1 172919 
+111.61.66.36 1 1 0 20190305063019
+194.230.158.121 10 91 105924708 20190318130847
+185.139.70.111 1 1 0 20190331152006
+220.243.135.224 0 1 615 
+137.226.113.34 2 8 11902 20190305024550
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190301 144 452 53627081 35
+20190302 87 375 353898768 33
+20190303 52 298 2044936819 28
+20190304 66 121 5912900 32
+20190305 135 594 1163696685 30
+20190306 115 268 152096886 18
+20190307 56 284 31807692 31
+20190308 67 275 83273994 24
+20190309 64 65 600900 32
+20190310 48 112 85433895 26
+20190311 59 109 937820 21
+20190312 88 289 28441704 32
+20190313 98 294 841163764 40
+20190314 52 101 132443592 29
+20190315 83 210 400417284 31
+20190316 133 257 223907857 28
+20190317 110 399 51218039 33
+20190318 135 618 961228696 33
+20190319 65 119 7597993 35
+20190320 66 218 26241414 28
+20190321 64 187 36503751 29
+20190322 59 237 30179652 19
+20190323 75 147 5642442 23
+20190324 59 121 8780317 24
+20190325 58 178 20513928 24
+20190326 49 164 15989062 29
+20190327 62 152 14180572 27
+20190328 63 240 69956158 25
+20190329 87 156 141163776 43
+20190330 44 127 479334491 21
+20190331 67 182 398371732 36
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 14
+30mn-1h 19
+30s-2mn 34
+5mn-15mn 28
+2mn-5mn 26
+0s-30s 756
+15mn-30mn 22
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 55
+/ 1279 6594480 713 652
+/index.php/celly/ 274 2183384 73 73
+/ndxzstudio/ 67 92064 0 1
+/index.php/bio/ 62 241008 6 11
+/index.php/enter-the-heat/ 55 255846 3 18
+/index.php/overly-sexy-smart-edgy-and-dangerous/ 45 163986 6 10
+/index.php/roses-ep/ 38 168055 3 8
+/index.php/watch-my-back/ 36 119802 11 12
+/index.php/overwrite-discard-save-both/ 36 118853 2 7
+/index.php/calm-days/ 35 136338 5 3
+/poetbot/ 32 110605 14 8
+/index.php/exhibitions/ 31 118799 7 7
+/index.php/origins-of-fake/ 30 102296 6 6
+/index.php/statement/ 29 105371 2 3
+/index.php/razor-sharp/ 28 87995 6 2
+/index.php/circulating-matter/ 26 78768 6 7
+/index.php/contact/ 25 129366 2 14
+/index.php/digital-autograph/ 23 74671 3 3
+/index.php/doormats/ 23 80352 3 3
+/index.php/polish-water/ 23 104966 3 5
+/index.php/upgraded-stones/ 22 57526 0 2
+/index.php/poetbot-v11/ 21 90395 2 3
+/index.php/public-space---neon-lights/ 20 90724 6 7
+/index.php/collaborative/girlhood--dziewczynstwo/ 18 112319 3 3
+/index.php/collaborative/smoke/ 16 55500 1 3
+/index.php/calm-days 1 10824 0 0
+/index.php/razor-sharp 1 8826 0 0
+/index.php/circulating-matter 1 9233 0 0
+/index.php/digital-autograph 1 9015 0 0
+/index.php/escape-plan 1 8969 1 0
+/poetbotBackend/email.php 1 22 0 1
+/index.php/upgraded-stones 1 8800 0 0
+/google32ef266fbb4161c9.html 2 106 2 2
+/index.php/portfolio/ 15 42018 0 8
+/index.php/untitled 1 8618 0 0
+/index.php/origins-of-fake 1 8783 0 0
+/index.php/celly 1 8860 1 0
+/index.php/autonomy-congress/ 14 57353 1 0
+/index.php/collaborative/ 5 26427 1 0
+/index.php/untitled/ 14 43953 1 1
+/index.php/doormats 1 9146 0 1
+/index.php/enter-the-heat 2 6672 0 2
+/index.php/workshops-in-dzop-method/ 13 65853 3 4
+/sitemap.xml 2 9284 0 0
+/google33e6163e017c9e32.html 2 106 2 2
+/poetbot/css/bootstrap.css.map 2 150934 0 0
+/index.php/polish-water 1 10202 0 1
+/index.php/watch-my-back 1 9635 0 0
+/poetbot/docs/ 1 1230 0 0
+/index.php/contact 2 4211 0 0
+/index.php/escape-plan/ 16 50025 1 1
+/index.php/exhibitions 2 6651 0 0
+/poetbotBackend/alg.php 9 1329 0 4
+/index.php/roses-ep 1 12905 0 0
+/index.php/overwrite-discard-save-both 1 12263 0 1
+END_SIDER

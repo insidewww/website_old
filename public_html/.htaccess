@@ -1,0 +1,4 @@
+
+#Webd zmiana wersji php
+AddHandler application/x-httpd-php56 php 
+#Zmiana obslugi php wprowadzona przez administracje WEBD

@@ -1,0 +1,2046 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201910 will be lost/reset.
+# Last config file used to build this data file was /home/insidejo/tmp/awstats/awstats.insidejo.webd.pl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2695                
+POS_VISITOR 60827               
+POS_DAY 81503               
+POS_DOMAIN 3682                
+POS_LOGIN 4785                
+POS_ROBOT 4940                
+POS_WORMS 6602                
+POS_EMAILSENDER 6733                
+POS_EMAILRECEIVER 6876                
+POS_SESSION 82436               
+POS_SIDER 82648               
+POS_FILETYPES 7011                
+POS_DOWNLOADS 7312                
+POS_OS 8876                
+POS_BROWSER 9306                
+POS_SCREENSIZE 12744               
+POS_UNKNOWNREFERER 12818               
+POS_UNKNOWNREFERERBROWSER 14362               
+POS_ORIGIN 14839               
+POS_SEREFERRALS 14987               
+POS_PAGEREFS 15425               
+POS_SEARCHWORDS 17084               
+POS_KEYWORDS 17236               
+POS_MISC 2359                
+POS_ERRORS 17295               
+POS_CLUSTER 4641                
+POS_SIDER_404 17402               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191101000804 109 20209 10514385628972
+FirstTime 20191001042416
+LastTime 20191031232755
+LastUpdate 20191101144813 109 0 108 0 0
+TotalVisits 682                 
+TotalUnique 450                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 558                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 76 124 25984966 154 424 21292828
+1 23 35 700070 231 475 19893735
+2 58 73 137475950 156 398 23110672
+3 29 158 22442022 145 359 16860039
+4 116 167 3971990 169 425 43720566
+5 66 70 486588 184 452 23795344
+6 36 82 21709940 128 358 24431167
+7 23 111 302033619 95 351 24157809
+8 128 254 7361903 271 894 25341905
+9 46 82 5435552 236 456 24576143
+10 51 245 30986377 314 587 30995436
+11 104 412 293413052 193 493 29314538
+12 64 322 205452310 215 450 26596565
+13 144 567 201647045 152 480 25186148
+14 92 570 265036175 215 466 24946404
+15 43 149 6862006 256 492 20672364
+16 117 596 311705447 290 550 16566681
+17 88 904 584959661 330 474 10174778
+18 165 1113 184804997 207 394 11163576
+19 128 549 66076523 302 479 7793693
+20 71 339 98325267 276 407 24146283
+21 147 511 157149993 273 492 15534284
+22 83 418 469362430 196 429 17496865
+23 53 207 279284768 143 402 21221224
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 58
+us 587 1309 220376353
+pl 303 2200 893790018
+ua 155 208 1836969
+cn 133 455 56455775
+de 110 825 310711481
+ru 108 308 352186013
+nl 85 115 5917669
+ca 78 424 48206749
+gb 63 139 81721895
+cz 62 359 53935944
+ma 34 130 208646
+il 34 285 47516602
+gr 32 233 53321895
+ch 29 231 60628159
+it 29 292 138998307
+no 20 234 38980265
+eu 9 16 68227030
+fr 8 27 722363
+in 5 7 19699232
+au 5 19 494817
+cl 5 5 15667
+za 5 5 55630
+hu 4 66 11022397
+kr 3 3 33877
+tr 3 9 55850
+ee 1 1 3346
+pk 1 1 10606
+bg 2 5 17039
+dk 2 3 142445
+be 0 1 175223
+bz 1 1 3346
+at 1 7 41904
+ir 1 1 3342
+hk 1 1 10606
+ar 2 2 5633
+ph 1 1 10606
+id 1 1 10606
+pt 1 2 255139
+sk 2 2 21212
+cy 2 13 1013517
+br 2 5 17035
+ao 0 1 147899
+np 2 2 21212
+mk 1 1 10606
+my 1 2 208432
+pe 0 1 244533
+ie 1 4 6429
+pa 2 36 90844309
+rs 1 2 255139
+ge 1 6 38993076
+th 1 2 140158
+co 2 5 9778
+lv 1 2 156537
+lt 1 1 3342
+se 1 4 499806
+jp 1 33 77986313
+mu 2 2 21619
+ro 3 3 16239
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 38
+bingbot/ 1743 310717978 20191031234548 0
+SeznamBot/ 1107 104913255 20191031215518 0
+SemrushBot/ 428 1294594 20191031224916 0
+java 423 4858910 20191031014035 0
+Googlebot/ 380 2128572 20191031233450 0
+AhrefsBot/ 257 781258 20191031181713 0
+bot[\s_+:,\.\;\/\\-] 192 1246286 20191030092219 0
+YandexImages/ 170 32387756 20191016060341 0
+BLEXBot/ 132 385800 20191031212113 0
+crawl 120 3032188 20191028204101 0
+(firefox/)([0-9]\.|[0-1][0]\.) 101 164964 20191031111309 0
+Applebot/ 101 306428 20191031204820 0
+Apache\-HttpClient/ 80 267440 20191030095233 0
+no_user_agent 77 15376250 20191026164448 0
+LinkpadBot/ 66 198811 20191015012722 0
+MegaIndex\.ru/ 66 198500 20191023023605 0
+bingpreview 57 6215259 20191030122726 0
+YandexBot/ 45 19644185 20191029221835 0
+DotBot/ 36 19863308 20191023201612 0
+link 26 220388 20191025134929 0
+CCBot/ 15 51918 20191022162727 0
+Mail\.RU_Bot/ 9 453257 20191015115922 0
+facebookexternalhit/ 8 26777 20191023202902 0
+KomodiaBot/ 7 84612 20191028063317 0
+Mediatoolkitbot 6 49630 20191030204320 0
+PhantomJS 3 3087 20191028081832 0
+2345Explorer/ 1 3349 20191003231617 0
+Firefox/1\.5 2 21323 20191028233137 0
+DuckDuckGo\-Favicons\-Bot/ 4 13376 20191025092703 0
+Feedfetcher\-Google 1 105910 20191015215440 0
+msnbot/ 4 6285 20191013102600 0
+baidu 2 22512 20191030062707 0
+TweetmemeBot/ 2 6688 20191030172719 0
+spider 5 6433 20191026192330 0
+[\s_+:,\.\;\/\\-]bot 2 21619 20191009092204 0
+Baiduspider/ 1 3346 20191007160724 0
+Deepnet[\x20]Explorer 3 31818 20191001224553 0
+DomainStatsBot/ 2 10717 20191005203054 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+wav 1 131186 0 0
+js 202 7863406 0 0
+jpg 4478 858185257 0 0
+html 1900 9249618 0 0
+css 924 1350158 0 0
+mp4 6 366445920 0 0
+Unknown 38 225744 0 0
+png 318 9552389 0 0
+php 11 1807 0 0
+xml 2 9284 0 0
+pdf 47 798838895 0 0
+gif 131 97762426 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 26
+/files/insidejob_ulalucinska_michalknychaus_works_2019.pdf 28 158 617553516
+/files/insidejob_ulalucinska_michalknychaus_works_pl_2019.pdf 9 7 215192268
+/poetbot/docs/personalised_poem_poetbot_2019101111460.pdf 2 3 889754
+/poetbot/docs/personalised_poem_poetbot_2019101008030.pdf 1 2 372646
+/poetbot/docs/personalised_poem_poetbot_2019101007570.pdf 1 2 439992
+/poetbot/docs/personalised_poem_poetbot_2019102422270.pdf 1 2 408906
+/poetbot/docs/personalised_poem_poetbot_2019101517430.pdf 1 2 444052
+/poetbot/docs/personalised_poem_poetbot_2019101008031.pdf 1 2 400950
+/poetbot/docs/personalised_poem_poetbot_2019101117170.pdf 1 2 440252
+/poetbot/docs/personalised_poem_poetbot_2019102422100.pdf 1 2 436828
+/poetbot/docs/personalised_poem_poetbot_2019100923280.pdf 1 2 434054
+/poetbot/docs/personalised_poem_poetbot_2019101417020.pdf 1 1 380855
+/poetbot/docs/personalised_poem_poetbot_2019101007580.pdf 1 2 436908
+/poetbot/movies/pytanie2.mp4 0 17 92092410
+/poetbot/movies/pytanie2Mob.mp4 0 3 12832933
+/poetbot/movies/animacja_otwarcieMob.mp4 0 3 4194266
+/poetbot/movies/thinking.mp4 0 15 38360034
+/poetbot/sounds/buttons_sound.wav 0 16 291908
+/poetbot/movies/startanimacja2Mob.mp4 0 3 34856525
+/poetbot/movies/pytanie3Mob.mp4 0 3 12892480
+/poetbot/movies/pytanie1Mob.mp4 0 3 12909275
+/poetbot/movies/thinkingMob.mp4 0 3 4950182
+/poetbot/movies/pytanie1.mp4 0 19 89034647
+/poetbot/movies/pytanie3.mp4 0 40 101016033
+/poetbot/movies/animacja_otwarcie.mp4 0 37 51019585
+/poetbot/movies/startanimacja2.mp4 0 19 438937373
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 26
+win10 2688 570
+macosx11 173 97
+unix 1 0
+winxp 185 73
+macosx9 43 7
+linux 304 130
+linuxandroid 747 153
+win8 28 5
+macosx6 12 1
+macosx10 559 65
+win2003 2 2
+linuxubuntu 48 1
+ios_ipad 1 0
+win2000 18 18
+macosx7 12 2
+win7 330 111
+win8.1 280 58
+winnt 9 9
+winlong 62 48
+winunknown 6 6
+win95 6 6
+macosx12 193 40
+ios_iphone 736 99
+Unknown 259 222
+macosx8 27 8
+macosx 1697 220
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 167
+chrome45.0.2454.101 6 6
+chrome58.0.3029.110 14 11
+chrome32.0.1700.41 2 0
+opera9.00 6 6
+firefox69.0 772 127
+chrome72.0.3626.121 44 1
+chrome41.0.2224.3 2 1
+chrome75.0.3770.101 10 3
+opera12.16 9 1
+chrome72.0.3626.119 211 18
+chrome55.0.2883.28 1 1
+opera64.0.3417.61 1 1
+chrome31.0.1650.57 14 2
+firefox68.0 65 5
+chrome38.0.1025.166 258 23
+safari13.0.1 101 10
+chrome70.0.3538.102 176 15
+firefox52.0 68 67
+firefox36.0 2 0
+chrome71.0.3578.98 17 11
+chrome59.0.3071.125 23 2
+chrome68.0.3440.25 2 2
+safari 46 7
+opera53.0.2907.68 2 2
+android 20 3
+msie6.0 66 66
+chrome77.0.3865.73 7 1
+chrome75.0.3770.142 7 4
+chrome47.0.2526.106 40 40
+firefox33.0 2 0
+safari5.2.7 2 2
+chrome40.0.2214.85 39 7
+firefox24.0 10 2
+safari12.0 47 4
+firefox50.0 50 17
+mozilla 223 105
+chrome34.0.1847.131 1 1
+chrome77.0.3865.116 110 9
+chrome51.0.2704.106 1 1
+firefox25.0 22 3
+chrome67.0.3396.99 1 1
+safari6.1.1 6 2
+safari12.1.2 562 67
+chrome73.0.3683.86 56 4
+chrome32.0.1700.72 2 0
+chrome66.0.3359.139 1 1
+chrome65.0.3325.181 1 0
+chrome71.0.3578.99 47 2
+chrome40.0.2214.111 2 0
+safari12.1 14 2
+chrome76.0.3809.132 108 32
+firefox57.0 1 1
+chrome34.0.1847.114 1 1
+firefox64.0 2 2
+chrome77.0.3865.120 521 59
+safari5.1.7 1 1
+chrome9.0.599.0 95 0
+firefox65.0 11 11
+firefox47.0 21 21
+msie4.01 6 6
+chrome53.0.2785.49 14 12
+safari12.0.2 402 45
+chrome35.0.1916.153 2 0
+chrome43.0.2357.121 2 0
+chrome76.0.3809.100 187 31
+msie11.0 42 4
+chrome72.0.3626.109 2 2
+safari9.1.2 1 0
+chrome74.0.3729.169 2 2
+opera8.01 15 15
+firefox31.0 1 0
+firefox29.0 3 0
+opera58.0.3135.107 4 4
+msie5.5 6 6
+safari6.1 9 1
+chrome49.0.2623.112 2 0
+chrome77.0.3865.92 45 3
+chrome77.0.3865.90 789 86
+edge18 1 0
+chrome78.0.3904.70 267 34
+opera36.0.2130.32 4 4
+msie2.0 3 3
+firefox28.0 8 6
+chrome59.0.3071.114 1 1
+chrome77.0.3865.99 14 1
+chrome75.0.3770.143 1 0
+opera63.0.3368.94 110 11
+chrome36.0.1985.143 4 1
+chrome26.0.1410.65 4 4
+safari10.1.2 1 0
+msie10.0 22 3
+safari11.0 13 12
+chrome67.0.3396.87 3 3
+chrome66.0.3359.117 5 5
+safari5.0.2 1 1
+chrome40.0.2214.89 20 17
+opera7.02 3 3
+firefox61.0 1 1
+Unknown 175 162
+opera64.0.3417.73 59 5
+safari10.0 2 1
+chrome73.0.3683.75 8 8
+firefox26.0 65 6
+chrome41.0.2227.0 4 2
+chrome74.0.3729.157 4 4
+opera42.0.2393.94 138 136
+safari7.0.1 4 0
+chrome14.0.835.202 1 0
+safari12.0.1 295 35
+chrome63.0.3239.84 1 1
+msie9.0 7 0
+chrome51.0.2704.103 31 31
+firefox27.3 5 2
+firefox35.0 1 1
+safari5.1.9 2 0
+chrome12.0.742.91 3 0
+chrome32.0.1700.68 3 1
+firefox34.0 36 36
+safari13.0 25 2
+chrome66.0.3359.181 1 1
+safari6.0.5 1 0
+opera63.0.3368.107 208 29
+chrome34.0.1847.116 7 7
+chrome53.0.2785.143 2 2
+firefox54.0 1 1
+chrome40.0.2214.115 1 1
+chrome22.0.1207.1 1 1
+netscape0.6 6 6
+chrome64.0.3282.119 2 2
+firefox67.0 1 1
+opera55.0.2955.0 13 13
+chrome39.0.2171.95 11 11
+edge17 82 8
+netscape 2 2
+firefox63.0 123 12
+chrome46.0.2490.80 2 2
+firefox40.1 25 23
+chrome31.0.1650.63 55 5
+opera52.0.2871.64 2 2
+firefox19.0 1 1
+chrome60.0.3112.90 33 33
+chrome41.0.2227.1 3 3
+safari7.0 5 2
+msie11 3 0
+chrome26.0.1410.35 63 63
+firefox60.0 69 4
+chrome61.0.3163.31 1 1
+safari13.0.2 156 11
+firefox27.0 5 1
+firefox48.0 5 4
+chrome45.0.2454.94 2 2
+chrome63.0.3239.26 1 1
+chrome71.0.3578.80 2 2
+safari10.0.2 4 1
+firefox62.0 59 4
+firefox21.0 1 1
+firefox70.0 231 25
+firefox66.0 1 1
+chrome63.0.3239.132 52 52
+chrome72.0.3626.122 1 1
+safari12.1.1 182 14
+opera55.0.2994.44 1 1
+chrome49.0.2623.75 10 10
+iphone 141 24
+chrome74.0.3729.159 1 0
+firefox59.0 4 4
+firefox38.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 25
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20191027171658
+Google-Test 20191018153355
+Mozilla/5.0_(compatible;_SemrushBot/6~bl;__http://www.semrush.com/bot.html) 20191024215125
+The_Knowledge_AI 20191028150528
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20191028081832
+Mozilla/5.0_(compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm) 20191010125109
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20191031191919
+Mozilla/5.0_(compatible;_Dataprovider.com) 20191024072755
+WhatsApp/0.3.3795_N 20191002193133
+Mozilla/5.0_(compatible) 20191013170349
+Mozilla 20191004013058
+Python/3.7_aiohttp/4.0.0a0 20191023200054
+Mozilla/6.0_(compatible) 20191013170325
+ia_archiver 20191028184358
+Mozilla/5.0_Firefox/35.0 20191024184727
+Go-http-client/1.1 20191031051510
+Scrapy/1.5.0_(_https://scrapy.org) 20191006231842
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20191027035020
+SMUrlExpander 20191031232755
+ltx71_-_(http://ltx71.com/) 20191007200125
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20191030233747
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20191027184033
+Python/3.6_aiohttp/3.6.0 20191009213227
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20191027174758
+WhatsApp/0.3.4679_N 20191002193301
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+Python/3.6_aiohttp/3.6.0 20191009213227
+WhatsApp/0.3.4679_N 20191002193301
+The_Knowledge_AI 20191028150528
+Python/3.7_aiohttp/4.0.0a0 20191023200054
+ia_archiver 20191028184358
+Google-Test 20191018153355
+WhatsApp/0.3.3795_N 20191002193133
+SMUrlExpander 20191031232755
+ltx71_-_(http://ltx71.com/) 20191007200125
+Scrapy/1.5.0_(_https://scrapy.org) 20191006231842
+Go-http-client/1.1 20191031051510
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1276 1722
+From1 3 3
+From2 64 165
+From3 159 164
+From4 449 6372
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 16
+youtube 1 1
+www_google_com_tw 1 1
+www_google_ch 1 7
+www_google_fr 0 1
+www_google_com_hk 0 1
+www_google_de 6 6
+www_google_pl 8 11
+www_google_com 43 128
+www_google_ge 1 1
+yandexru 2 2
+www_google_com_gh 0 1
+www_google_co_th 0 1
+www_google_gr 0 1
+www_google_lv 0 1
+ecosia 1 1
+www_google_co_uk 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 47
+https://l.instagram.com 13 13
+http://l.instagram.com 10 10
+https://ivi-casinoz.ru 9 9
+http://poetbot.com 9 9
+http://www.poetbot.com 6 6
+https://art.goldsoch.info 6 6
+https://ukrtvory.ru 6 6
+https://biographiya.com 6 6
+https://supermama.top 6 6
+https://migrantsmalta.org 3 3
+https://ukr-lit.com 3 3
+https://gdz12.ru 3 3
+https://goblacked.com 3 3
+https://pinup-casinos.ru 3 3
+https://www.realestate-greek.com 3 3
+https://kreditvesta.ru 3 3
+https://www.dominicacitizenship.info 3 3
+https://vroze.com 3 3
+https://business-investing.info 3 3
+https://belreferatov.net 3 3
+https://agr.kz 3 3
+https://1news.com.ua 3 3
+https://school-essay.ru 3 3
+https://bdjola.com 3 3
+https://svensk-poesi.com 3 3
+http://datadepths.com/profile.php 1 1
+http://rhizomeparkinggarage.com/inside-job.html 2 2
+http://webspress.xyz/article/25922118/the-ultimate-guide-on-how-to-get-more-blog-traffic/ 1 1
+http://m.facebook.com 1 1
+http://progressive-seo.com 1 1
+http://freevpn.express 1 4
+https://www.facebook.com 1 1
+https://brandnewblogs.com 1 1
+https://sixousixmusix.org 3 3
+https://itsmost.com 3 3
+https://shkolnikam.com 3 3
+http://czaskultury.pl/czytanki/doswiadczenie-uzytkownika-sztuki-inside-job/ 1 1
+https://paintingplanet.ru 3 3
+http://www.klizme-net.ru 3 3
+http://feedspot.top/blog/25922118/ 1 1
+https://l.facebook.com 1 1
+http://domain.com 0 2
+https://www.translation-services-usa.com 3 3
+http://pawilon.org/manifesty-przyszlosci/ 1 1
+https://investingtrends.net 3 3
+https://dengi-pod-zalog-pts.ru 3 3
+https://jav-fetish.com 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 50 3165825
+404 5060 698435
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 744
+/index.php/it-will-shift-again-molting-stage/%20and%201%3D1 1 -
+/E8FACD7FED66BB4DECBAD1FAC1DE6DAA.html 2 app:/ServerCheck.swf
+/529148BE6017E9A9BA1121E3CDF193C2.html 2 app:/ServerCheck.swf
+/components/com_b2jcontact/ 3 -
+/BF610EC1E2130B7C26DFC7301786E0C0.html 2 app:/ServerCheck.swf
+/8DE204757726228A1FFB1E1CC6566904.html 2 app:/ServerCheck.swf
+/7F0C8B7BB0E0F467CC4B1677B9609326.html 2 app:/ServerCheck.swf
+/F1FAB4EBEE3F1FC77695F7B509B00040.html 2 app:/ServerCheck.swf
+/0366F05E4A40458117A9D7139B95574C.html 2 app:/ServerCheck.swf
+/F4D9B08A25278C4403E418FEF70ABC2D.html 2 app:/ServerCheck.swf
+/backup/ 24 -
+/6F13939413561C3D9A4D5184C4B5EE23.html 2 app:/ServerCheck.swf
+/C25257FCB91E40BF5C2C71070829CE42.html 2 app:/ServerCheck.swf
+/wp-includes/wlwmanifest.xml 36 -
+/blog/wp-includes/wlwmanifest.xml 39 -
+/25FCE87A54B3F4E85627E2BC89AAE752.html 2 app:/ServerCheck.swf
+//sftp-config.json 2 -
+/FFFC8FC941F05A668CF38F9DDEBCB6A1.html 2 app:/ServerCheck.swf
+/EBC87177D7F6D11E280E3EA39ECF9D0B.html 2 app:/ServerCheck.swf
+/9636FEB68868CC8BC91432E25CA9DD24.html 2 app:/ServerCheck.swf
+/5FAF3FAC439B8E1800076FA84BE1A454.html 2 app:/ServerCheck.swf
+/E74545B6A1C5AB05592A2A11B71E2459.html 2 app:/ServerCheck.swf
+/4DB5A4E0A246312FF4EAC8ACFE49969E.html 2 app:/ServerCheck.swf
+/62FF50E38B20C891399C6F655B124576.html 2 app:/ServerCheck.swf
+/old/wp-admin/ 1 -
+/0525574706F3133BD0AB987505FEA157.html 2 app:/ServerCheck.swf
+/CA0B047F10408DD6CAA57C3236CFB1C5.html 2 app:/ServerCheck.swf
+/index.php/collaborative/smoke/%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(69,115,100,116,85,117,115,72,81,122,74,69),1),name_const(CHAR(69,115,100,116,85,117,115,72,81,122,74,69),1))a)%20--%20%22x%22=%22x 1 -
+/2CB07AC8129ECD2498093922B4437E52.html 2 app:/ServerCheck.swf
+/185E9B52E92F2E390FEFD6CAC4E3F773.html 2 app:/ServerCheck.swf
+/2019/xmlrpc.php 10 -
+/FF1ACACE3CC06074419D607C08191BFF.html 2 app:/ServerCheck.swf
+/B291D8467F1C27B85FC6AB6110FC84ED.html 2 app:/ServerCheck.swf
+/BD424E5284947EE557CE701DEB6E736A.html 2 app:/ServerCheck.swf
+/88BBDACAA461B83998FE7FDB6A9AF23A.html 2 app:/ServerCheck.swf
+/1763799811F1F131760A01164CD71592.html 2 app:/ServerCheck.swf
+/0F7EDEF61EE0B4C9897888A5D3B8D89C.html 2 app:/ServerCheck.swf
+/79BD66C6662B6F9440DD4F1C5181FF32.html 2 app:/ServerCheck.swf
+/26A1C7D4BD33D270F340C183C5DF8A59.html 2 app:/ServerCheck.swf
+/https://www.e-flux.com/announcements/263405/metabolic-museum-university 11 -
+/D45D97C015AB23E67580CF21548648D5.html 2 app:/ServerCheck.swf
+/%27%20and%20%27x%27%3D%27y 1 -
+/D1F37A06083C8FC6110670BADBA4BA72.html 2 app:/ServerCheck.swf
+/7F3276EAD9AD5A1C96AF118D4530CB3B.html 2 app:/ServerCheck.swf
+/A874A68106E15667CE49C198EF5A3409.html 2 app:/ServerCheck.swf
+/71FCF9704F352A4C989222F405B201F1.html 2 app:/ServerCheck.swf
+/B4542D74B747DBE674BB444CF6FA7ECF.html 2 app:/ServerCheck.swf
+/BA33E05D77600DA2FD71209231974058.html 2 app:/ServerCheck.swf
+/C11BB03D5DD716DEFDD50C87D139DC77.html 2 app:/ServerCheck.swf
+/7F9C7CB72149F00F062D86937F90CABF.html 2 app:/ServerCheck.swf
+/wordpress/wp-admin/ 1 -
+/D9FD75ED2170EA33EBCCDFFAD97B0D42.html 2 app:/ServerCheck.swf
+/1236DC2C175ACE3E9F990D6A65E25851.html 2 app:/ServerCheck.swf
+/BD1B8F26D2AD88480724C15CE55EF0F8.html 2 app:/ServerCheck.swf
+/A7952BD3428AADEC6E7EFC3C846CEEAC.html 2 app:/ServerCheck.swf
+/50A57AB928C45B354E372EAEF71AAFFA.html 2 app:/ServerCheck.swf
+/46AD41060560969D89D117B402B6DABB.html 2 app:/ServerCheck.swf
+/7984D103DA81C9877C6CC781DAF6FFE5.html 2 app:/ServerCheck.swf
+/A703E255A5DFB7E6E4F465E0644C41F8.html 2 app:/ServerCheck.swf
+/22C72278C7B111BFB65E18DD984BE0ED.html 2 app:/ServerCheck.swf
+/1694A684D9A463070ADCA9904C6BCACF.html 2 app:/ServerCheck.swf
+/blog/wp-admin/ 1 -
+/645737728E8D2A7760568A42FFEE1BF9.html 2 app:/ServerCheck.swf
+/E70F904C2B2430F56A97D1385D673DA4.html 2 app:/ServerCheck.swf
+/index.php/overly-sexy-smart-edgy-and-dangerous/https://soundcloud.com/raw-silver/raw-silver-haze-anthology-mix 1 -
+/662DF72C2E15F160F5268EDDC4504D98.html 2 app:/ServerCheck.swf
+/44ECA4254B3ED1545A5F4CCC3BCF41BC.html 2 app:/ServerCheck.swf
+/test/ 5 -
+/manager/index.php 4 -
+/FD9CCBF5B3704EF8F0CEB6EBDB780DC6.html 2 app:/ServerCheck.swf
+/F92EE7407123CD2CAFEBDCA7A28441AA.html 2 app:/ServerCheck.swf
+/37363468D5E3F1D9ECEE6EDA16C80174.html 2 app:/ServerCheck.swf
+/867E2A75B5DD3ABDBAD7E035C695FC30.html 2 app:/ServerCheck.swf
+/null 30 -
+/5810268C5805C4D4911CFFF342BBA9CB.html 2 app:/ServerCheck.swf
+/D5CA51B746243D725B7960DC6DE4B09F.html 2 app:/ServerCheck.swf
+/index.php/contact/https://www.facebook.com/michalknychaus 11 -
+/53C77EBDCCAF03ECF12289E0F5F01812.html 2 app:/ServerCheck.swf
+/C45068E24E12AF3CFE10716DEEAFC12E.html 2 app:/ServerCheck.swf
+/test/wp-login.php 2 -
+/8D903AA08BCFCC8175943DAD60DE82E6.html 2 app:/ServerCheck.swf
+/AF5335ADEAE0E12DCC7527BE2208DAA3.html 2 app:/ServerCheck.swf
+/CD04149931DA292BEB9B8F705E277770.html 2 app:/ServerCheck.swf
+/DA2469FE74AD99503DA1807E9AA2A3F0.html 2 app:/ServerCheck.swf
+/.env 9 -
+/1C6CDBA8DBA9ABE2C418E585CD2B9BE2.html 2 app:/ServerCheck.swf
+/67A6958365B1594099F0DC0FF8A66A98.html 2 app:/ServerCheck.swf
+/F2839C445322C54D2ADDDBA5A23332D9.html 2 app:/ServerCheck.swf
+/new/ 27 -
+/DBB93B05F1B20E8BB3D5B1EC5D9893A9.html 2 app:/ServerCheck.swf
+/A4C4371CFA6B64A83544606F1C967423.html 2 app:/ServerCheck.swf
+/62524643D6EA112474A1BF28057A8DC4.html 2 app:/ServerCheck.swf
+/84909836D832F7276183D642D697E78C.html 2 app:/ServerCheck.swf
+/21DD4540519E60BCBD688504DE7D8687.html 2 app:/ServerCheck.swf
+/097601673C96AB09287FC0DDBF09161F.html 2 app:/ServerCheck.swf
+/33AF9BF487272990A233428933F2DFD5.html 2 app:/ServerCheck.swf
+/6220367681EE8DBA6AC91C91C5E584E2.html 2 app:/ServerCheck.swf
+/files/gimgs/50_3%20-%20Galeria%20910%20-%20Ula%20Luci%C3%85%C2%84ska,%20Micha%C3%85%C2%82%20Knychaus%20-%20Calm%20Days.jpg 1 http://ulalucinska.com/index.php/calm-days/
+http://ulalucinska.com/ 5 -
+/D0F3AB403067941DAC9C63884FC3FAFF.html 2 app:/ServerCheck.swf
+/2017/wp-includes/wlwmanifest.xml 14 -
+/index.php/collaborative/smoke/2121121121212.1 1 -
+/4B3A7B98BDB28C2EA0F0BFE3C4ED7553.html 2 app:/ServerCheck.swf
+/apple-touch-icon-precomposed.png 55 -
+/8F884B4923410E555D0A29583CAF0CEF.html 2 app:/ServerCheck.swf
+/DF3F9DBA62F9A3565767D0054C35B7B3.html 2 app:/ServerCheck.swf
+/588C4B139D66CA04CFAD68CE315BEC7A.html 2 app:/ServerCheck.swf
+/BF6F85EC061D55806EE411E9A5719426.html 2 app:/ServerCheck.swf
+/temp/xmlrpc.php 10 -
+/42B0CB9F028D149149188AA22EB47A79.html 2 app:/ServerCheck.swf
+/E748973CD4616EA60322CEDFF6E9C078.html 2 app:/ServerCheck.swf
+/BF7BEF7E2B65BEE10388BA074FB1C03C.html 2 app:/ServerCheck.swf
+/27B75C9586D186D5E40A56AA414848B9.html 2 app:/ServerCheck.swf
+/index.php/it-will-shift-again-molting-stage/99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/7E211D585815E0F871D9DD0B8D5FF48B.html 2 app:/ServerCheck.swf
+/old/ 27 -
+/F4510255E35719EA0A69EC87F67C4910.html 2 app:/ServerCheck.swf
+/6CC5326E913C419A08B8A550BF0201C7.html 2 app:/ServerCheck.swf
+//ldskflks 4 -
+/DE105174AF4D144676A4556A1907647B.html 2 app:/ServerCheck.swf
+/6CA2E60C62DC61A813EAD5504B057268.html 2 app:/ServerCheck.swf
+/index.php/poetbot-v11/https://www.printedmatter.org/catalog/51320 1 -
+/036C9952EC5FAA4D315E8D626007E939.html 2 app:/ServerCheck.swf
+/backup/xmlrpc.php 10 -
+/2ED7CCBEB78BE08840BDC0C29DC634CA.html 2 app:/ServerCheck.swf
+/2BD4184CBF660BC7CFE111854B0916C0.html 2 app:/ServerCheck.swf
+/%20or%20(1,2)=(select*from(select%20name_const(CHAR(98,79,108,66,74,76,68,122,86,108),1),name_const(CHAR(98,79,108,66,74,76,68,122,86,108),1))a)%20--%20and%201%3D1 1 -
+/6D7934E81BB1B3D06AF05B3DB3836EF2.html 2 app:/ServerCheck.swf
+/F8B4F71328F6BA246A8F3CFE1A9EBA1A.html 2 app:/ServerCheck.swf
+/861636B047B3C65AA230514331AE33A3.html 2 app:/ServerCheck.swf
+/oldsite/xmlrpc.php 10 -
+/4227D9DEDA91603EADDC1C5DF193313D.html 2 app:/ServerCheck.swf
+/DAE65C7F85FA5603FF5E54A6D8318208.html 2 app:/ServerCheck.swf
+/17EB15162EE20CB91DA17681F9E810CA.html 2 app:/ServerCheck.swf
+/93CCA3F07A943B26775415072AE18CC1.html 2 app:/ServerCheck.swf
+/1CC13A4C589479B28A9180E8CEFEAFC7.html 2 app:/ServerCheck.swf
+//blog/ 2 http://michalknychaus.com/
+/A9367E84EC40F2D2CE6D4B3DCE896D2E.html 2 app:/ServerCheck.swf
+/396AB15F2AE50ED0185C6BE3001E0C11.html 2 app:/ServerCheck.swf
+/04CD37832461B4D98C860CC845C7CC35.html 2 app:/ServerCheck.swf
+/53A3ECD2CB0B262D86DC075BABA723C4.html 2 app:/ServerCheck.swf
+/5D24D1AF98FEC95F2D50A80C5250C781.html 2 app:/ServerCheck.swf
+/D0F28C4732CEBDD5FA8B553A5C9ED641.html 2 app:/ServerCheck.swf
+/9C8E2122568E1DD510099AFB061C0078.html 2 app:/ServerCheck.swf
+/7D4DB5961C8169F0913223B66E706C61.html 2 app:/ServerCheck.swf
+/46ABA6730A8FD24090111DD6CDC5D425.html 2 app:/ServerCheck.swf
+/93AE7D4D9C312C2C8A92F6C31EEB0154.html 2 app:/ServerCheck.swf
+/BC0FB33ABF0B625515CB0750DFC63016.html 2 app:/ServerCheck.swf
+/ndxzsite/default/base.css 141 -
+/28DB95B6ABDC6281A09F92450668A554.html 2 app:/ServerCheck.swf
+/2EE8D978963450B2F3738A14CC406438.html 2 app:/ServerCheck.swf
+/446751D875606C1B19EC31713C203D14.html 2 app:/ServerCheck.swf
+/site/ 2 -
+/index.php/collaborative/smoke/%27%20and%20%27x%27%3D%27y 1 -
+/3AAF2F281E802161ABE403ABCABCD01A.html 2 app:/ServerCheck.swf
+/9F2E8F0D7F69ED309EB5726465FB380F.html 2 app:/ServerCheck.swf
+/news/wp-login.php 1 -
+/blog/robots.txt 22 -
+/CEC83632C3A278F093C8AAD7887DCA38.html 2 app:/ServerCheck.swf
+/42B381B70086502C1A6907BBED11B93E.html 2 app:/ServerCheck.swf
+/wp//wp-login.php 1 -
+/FF833C610CBA2AC053B333554713BFA7.html 2 app:/ServerCheck.swf
+/5F41D653BC8981A0F82D0FF7C7A0B09B.html 2 app:/ServerCheck.swf
+/%20and%201%3D1 1 -
+/823E1FB8BE5C223281B2E167EF088941.html 2 app:/ServerCheck.swf
+/wp1/wp-includes/wlwmanifest.xml 25 -
+/E40499027EA3BCEE8E3986D3AFE498B3.html 2 app:/ServerCheck.swf
+/google4444f1eb4e8fe15a.html 2 -
+/BEAFCB82991EA958E95A2E3D84B4212E.html 2 app:/ServerCheck.swf
+/main/xmlrpc.php 10 -
+/index.php/it-will-shift-again-molting-stage/99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+/4189EB6967E9451BA03B9B60572ABC1A.html 2 app:/ServerCheck.swf
+/69E0A5041E54AF59D55CCC4135408CCD.html 2 app:/ServerCheck.swf
+/site/wp-login.php 2 -
+/555385C51CD932C6200752AB1727FC2D.html 2 app:/ServerCheck.swf
+/http://www.michalknychaus.com/ 1 -
+/shop/wp-includes/wlwmanifest.xml 25 -
+/6BB990BE6B9416F676CE07FC172CC94D.html 2 app:/ServerCheck.swf
+/999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/E1A9334AF703F6F8410F698B1B88FA89.html 2 app:/ServerCheck.swf
+/26B09C4E8E7FB16A816475E229DD9082.html 2 app:/ServerCheck.swf
+/FD64CD5F582DAF048AF1DC33FDD4AAA6.html 2 app:/ServerCheck.swf
+/new/xmlrpc.php 10 -
+/index.php/it-will-shift-again-molting-stage/%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(111,78,79,121,103,74,98,116,89,83,122),1),name_const(CHAR(111,78,79,121,103,74,98,116,89,83,122),1))a)%20--%20%22x%22=%22x 1 -
+/blog/wp-login.php 2 -
+/AAEF14E66888CD2DBA3E0AD0C7E66282.html 2 app:/ServerCheck.swf
+/0B3587520D04AC41B2542619D897868C.html 2 app:/ServerCheck.swf
+/25EC2CE1D80B945FB9E51C72A6467B0D.html 2 app:/ServerCheck.swf
+/D2171851DE82D09F481A92A42040E72D.html 2 app:/ServerCheck.swf
+/928304A1D6EF3F9D53FE24BBDC559AFE.html 2 app:/ServerCheck.swf
+/index.php/workshops-in-dzop-method/https://magazynszum.pl/warsztaty-metoda-dzop-w-galerii-sztuki-im-jana-tarasina 1 -
+/3C89D037284A79DAD58729CBE47C89A5.html 2 app:/ServerCheck.swf
+/85F8EE33D93BEC5BCFCD0F0AE4185DEC.html 2 app:/ServerCheck.swf
+/blog/ 43 -
+/4C1F439D09276C5C831159787BE46523.html 2 app:/ServerCheck.swf
+/A046F975D4799E89638056B341F98C24.html 2 app:/ServerCheck.swf
+/wp/ 43 -
+/files/gimgs/50_5%20-%20Galeria%20910%20-%20Ula%20Luci%C3%85%C2%84ska,%20Micha%C3%85%C2%82%20Knychaus%20-%20Calm%20Days.jpg 1 http://ulalucinska.com/index.php/calm-days/
+/new/wp-admin/install.php 1 -
+/533FABD42657B31EB29CBC9CE01037C8.html 2 app:/ServerCheck.swf
+/43A9FB0BA6E7C8572CD76B6B49FD0A2F.html 2 app:/ServerCheck.swf
+/D5F2B0DA29C4D673334A04E1DDC62086.html 2 app:/ServerCheck.swf
+/4ADCD99A5DE2FDA2B2444A691C54DCBF.html 2 app:/ServerCheck.swf
+/B5096106B3B8ECBA7763D9A56E623DE9.html 2 app:/ServerCheck.swf
+/31A5B17763B62367071EA3BCCAC95CD6.html 2 app:/ServerCheck.swf
+/test/wp-admin/ 1 -
+/FFEBB9794ACA1B68F96E621873BAC3F0.html 2 app:/ServerCheck.swf
+/80864A505C6A3642145FDE8FB85F605C.html 2 app:/ServerCheck.swf
+/2FE13B019259D1FAF0A7BBFC507BB786.html 2 app:/ServerCheck.swf
+/ndxzsite/default/style.css 141 -
+/old/xmlrpc.php 10 -
+/F89133D07C3324E8E9E073BF6D7D81A3.html 2 app:/ServerCheck.swf
+/A2431490B2DC483FF1D06A81C23A38CF.html 2 app:/ServerCheck.swf
+/index.php/collaborative/smoke/%20or%20(1,2)=(select*from(select%20name_const(CHAR(69,115,100,116,85,117,115,72,81,122,74,69),1),name_const(CHAR(69,115,100,116,85,117,115,72,81,122,74,69),1))a)%20--%20and%201%3D1 1 -
+/9F8097482FD8F296835AD422ACB0FFED.html 2 app:/ServerCheck.swf
+/9BF573EC06DF61DC154C6A30F9EE8ACF.html 2 app:/ServerCheck.swf
+/robots.txt 1942 -
+/magento_version 1 -
+/B6331C6383909545A3C95E5557564EF6.html 2 app:/ServerCheck.swf
+/65FC139E9971706B83085D21438DE4D9.html 2 app:/ServerCheck.swf
+/545F34769AAC2067AE922C370A8C7323.html 2 app:/ServerCheck.swf
+/99E4F2436C47B3004DE5F96D18BDC309.html 2 app:/ServerCheck.swf
+/CA69149FCDF3E444B7803E784009980F.html 2 app:/ServerCheck.swf
+/director/ 1 -
+/%27%20and%20%27x%27%3D%27x 1 -
+/8B7E421AA29F6ED39EFC24C5D64F90C9.html 2 app:/ServerCheck.swf
+/FE0B911021014D91377403E8BCC85325.html 2 app:/ServerCheck.swf
+/index.php/collaborative/smoke/%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(69,115,100,116,85,117,115,72,81,122,74,69),1),name_const(CHAR(69,115,100,116,85,117,115,72,81,122,74,69),1))a)%20--%20%27x%27=%27x 1 -
+/746149B400F48CA184972287E15132DB.html 2 app:/ServerCheck.swf
+/6033443C7330606C3FF8391C4A1D10A0.html 2 app:/ServerCheck.swf
+/admin/images/cal_date_over.gif 1 -
+/5D1171541EE66459A05FFE792FE7DC97.html 2 app:/ServerCheck.swf
+/cms/wp-includes/wlwmanifest.xml 39 -
+/index.php/contact/https://www.instagram.com/michalknychaus 11 -
+/B3F4B307280222BE91E4D8CF3EF25036.html 2 app:/ServerCheck.swf
+/3C2D5749DABAE18A81D3E0AF4EDB63D8.html 2 app:/ServerCheck.swf
+/BEB4C7B6C58C8F5CD854BD92340B180B.html 2 app:/ServerCheck.swf
+/home/ 2 -
+/B0F5079AA9B9CB37A4C2AD9ADF7A51C7.html 2 app:/ServerCheck.swf
+/2C445F4988FA8E29E6C7CA1E40B6BEFF.html 2 app:/ServerCheck.swf
+/99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+/CBDF743FDDDD06C26A5733F80638504A.html 2 app:/ServerCheck.swf
+/2016/wp-login.php 2 -
+/4DF48B0526C7DB81139335AB04F8DB9B.html 2 app:/ServerCheck.swf
+/7C975BF9FF637766345DB083CE8C91CC.html 2 app:/ServerCheck.swf
+/F6B260F5066555F9852F50358A2626D8.html 2 app:/ServerCheck.swf
+/71491CE1DA93A17F21E0DC275FC529C1.html 2 app:/ServerCheck.swf
+/2047A0E7E90B65F4A5E9D8755FC96B9D.html 2 app:/ServerCheck.swf
+/A7B70904F49CD44AF264D1E0A74A80EE.html 2 app:/ServerCheck.swf
+/website/wp-includes/wlwmanifest.xml 25 -
+/sito/wp-includes/wlwmanifest.xml 25 -
+/45E4A46549EF0CF75D84E15261E09AA2.html 2 app:/ServerCheck.swf
+/326818200687A904623A37596AC8C400.html 2 app:/ServerCheck.swf
+/27991CB25E5669E6F785AEB526C5F36F.html 2 app:/ServerCheck.swf
+/CEE71BDC4D22F412340E962D915920C7.html 2 app:/ServerCheck.swf
+/34474FA3F3E7FB8F1AE9CC1849136C03.html 2 app:/ServerCheck.swf
+/index.php/it-will-shift-again-molting-stage/%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(111,78,79,121,103,74,98,116,89,83,122),1),name_const(CHAR(111,78,79,121,103,74,98,116,89,83,122),1))a)%20--%20%27x%27=%27x 1 -
+/AAE005393279D6708BCBF3F51B609C2E.html 2 app:/ServerCheck.swf
+/93A64E76A2E12272E2B2A5FC7C6285C3.html 2 app:/ServerCheck.swf
+/42AF603FF1B364A3023897BA98D207F6.html 2 app:/ServerCheck.swf
+/favicon.png 1 -
+/new/wp-admin/setup-config.php 1 -
+/CD0C48335798F7999A6943192D67FEC6.html 2 app:/ServerCheck.swf
+/3C8900A4168D2C6C67BE994BF0F82D10.html 2 app:/ServerCheck.swf
+/B90B6C14D3778E205E840A468C580F63.html 2 app:/ServerCheck.swf
+/wordpress//wp-login.php 1 -
+/CA77FC397CE9368F29843ED392A92E6A.html 2 app:/ServerCheck.swf
+/283F43704D1172D680E2287A2F56B571.html 2 app:/ServerCheck.swf
+/150B82493FAE814C246AEF3476B01469.html 2 app:/ServerCheck.swf
+/2D42C784C4A978B98A7C2F9230FA2495.html 2 app:/ServerCheck.swf
+/%20and%201%3E1 1 -
+/374136BCF1653B57209C6781110B78DA.html 2 app:/ServerCheck.swf
+/0805D913DA8E97F859BFB87354C91A93.html 2 app:/ServerCheck.swf
+/20F2EE4B1514DC86339582059A692154.html 2 app:/ServerCheck.swf
+/FCBA380C9320A30E201724F49A6E5D45.html 2 app:/ServerCheck.swf
+/cms/ 3 -
+/FA88B85655716D37864526C9F7B5D1B5.html 2 app:/ServerCheck.swf
+/49269940CFA3DD54CE85A8A92C691134.html 2 app:/ServerCheck.swf
+/EE7C1646778DA8894CB533E41270A304.html 2 app:/ServerCheck.swf
+/9B36BE303FD26E1736E882FD4179064A.html 2 app:/ServerCheck.swf
+/E0AE550A38B14DC6D41A095D13CA6E6C.html 2 app:/ServerCheck.swf
+/news/wp-includes/wlwmanifest.xml 25 -
+/0ECDFF44EEA0946ECED867475347DD1E.html 2 app:/ServerCheck.swf
+/wordpress/wp-admin/setup-config.php 1 -
+/4E9BED4EA143ED3DAD0908A73B1E27F9.html 2 app:/ServerCheck.swf
+/E567A3192EEFA3C5A33C761D5F6953EB.html 2 app:/ServerCheck.swf
+/9FCC659F0749907975993B7C4D2630DD.html 2 app:/ServerCheck.swf
+/D29CE6918CA93343B61758D45F5019FF.html 2 app:/ServerCheck.swf
+/6C824C8A05C545EB9629EC96C0368518.html 2 app:/ServerCheck.swf
+/25670261BD81BA3B0FBA5BB5191C05FD.html 2 app:/ServerCheck.swf
+/13C4239B51DEA46A6629337EB9D90661.html 2 app:/ServerCheck.swf
+/08D289A7D22A14F9FAEF27A7A74E5848.html 2 app:/ServerCheck.swf
+/http:/www.michalknychaus.com/ 1 -
+/F9879A843C732C7AFF664513A783E9F8.html 2 app:/ServerCheck.swf
+/D4A552767A9C3309E4B3A321C18ED5EE.html 2 app:/ServerCheck.swf
+/25BCA926FDE9B535B0EC46385A465B0D.html 2 app:/ServerCheck.swf
+/joomla/administrator/index.php 6 -
+/E2281515CD8D2C17210327DA09FDFECA.html 2 app:/ServerCheck.swf
+/3E3B3F1C5FF2000E69B19520E20490DA.html 2 app:/ServerCheck.swf
+/788EB23AA6A6B6EC003BFD68EA66149A.html 2 app:/ServerCheck.swf
+/0498E0403403FC57823ED09E73846867.html 2 app:/ServerCheck.swf
+/0EEE88C7643F91552A67CCB20769FC24.html 2 app:/ServerCheck.swf
+/DFAFFE87B3CAB5E021FA49EF5F64AC38.html 2 app:/ServerCheck.swf
+/42FC14C06B55A2A3FCD2D48B3500A3DE.html 2 app:/ServerCheck.swf
+/34169E051EB7E88FF8E497F95CBE8C26.html 2 app:/ServerCheck.swf
+/index.php/collaborative/smoke/%20and%201%3E1 1 -
+/Wordpress/ 3 -
+/test/wp-includes/wlwmanifest.xml 25 -
+/A7996ABBCBFEBF4B0B1E0ED81451EB9C.html 2 app:/ServerCheck.swf
+/A6D15502F8B0340F9F5497B7BF0E8B78.html 2 app:/ServerCheck.swf
+/admin 2 -
+/6878B764BC84A4BF577953B4FEF8C820.html 2 app:/ServerCheck.swf
+/joomla/robots.txt 6 -
+/54781C787BDA5130D3DF293306E57754.html 2 app:/ServerCheck.swf
+/A9E102C4A433D42409E829DBA4E5F0E9.html 2 app:/ServerCheck.swf
+/catalog/view/indess.php 2 michalknychaus.com
+/index.php 14 -
+/6C7E28CB1179F0BD8F655F298CC2901A.html 2 app:/ServerCheck.swf
+/17BD9260B97E5D501FA5439B5AF9D5FF.html 2 app:/ServerCheck.swf
+/wp-admin/ 1 -
+/1476C297C495C19C792F49AFB1D1B7C4.html 2 app:/ServerCheck.swf
+/%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(98,79,108,66,74,76,68,122,86,108),1),name_const(CHAR(98,79,108,66,74,76,68,122,86,108),1))a)%20--%20%27x%27=%27x 1 -
+/index.php/it-will-shift-again-molting-stage/%22%20and%20%22x%22%3D%22y 1 -
+/98AE740F1547FF1421D034632F4F2513.html 2 app:/ServerCheck.swf
+/index.php/contact/https://www.facebook.com/ula.lucinska 11 -
+/0E2C31C79B85E636F79ADA3757FF539A.html 2 app:/ServerCheck.swf
+/2018/wp-login.php 2 -
+/WP/ 3 -
+/BF10674928C8665B8C4A659B380E6951.html 2 app:/ServerCheck.swf
+/2019/wp-includes/wlwmanifest.xml 11 -
+/WordPress/ 3 -
+/EF51D2708319F4814E529B4FB3076083.html 2 app:/ServerCheck.swf
+/index.php/it-will-shift-again-molting-stage/999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/2CC3472B8646A27F6B5E2D8B1F22399C.html 2 app:/ServerCheck.swf
+/703DC08D9B1AE654BD71C43A9E086247.html 2 app:/ServerCheck.swf
+/5A833B89564E4FCF0967EF85AB933A6B.html 2 app:/ServerCheck.swf
+/453F629F09D58071600A753876378F78.html 2 app:/ServerCheck.swf
+/5E4D1334B3F15EB05359C470ACC06FC2.html 2 app:/ServerCheck.swf
+/index.php/it-will-shift-again-molting-stage/%20or%20(1,2)=(select*from(select%20name_const(CHAR(111,78,79,121,103,74,98,116,89,83,122),1),name_const(CHAR(111,78,79,121,103,74,98,116,89,83,122),1))a)%20--%20and%201%3D1 1 -
+/D632B3E039A36A3CFC3C2C4F0EE73237.html 2 app:/ServerCheck.swf
+/452A8183FEBA264BBEB936651AD54B7E.html 2 app:/ServerCheck.swf
+/8E25E2148EF6EABA2F810FCBB2CEA09B.html 2 app:/ServerCheck.swf
+/5AB58D2B76E91B8F3731C2AAF9C5EA36.html 2 app:/ServerCheck.swf
+/3021194A543313B2B64E8F5928ECD91A.html 2 app:/ServerCheck.swf
+/demo/xmlrpc.php 10 -
+/index.php/autonomy-congress/https://player.vimeo.com/video/243298550 2 -
+/5E6A49C906733AC174C43181A0119779.html 2 app:/ServerCheck.swf
+/E8810C5A7FC79169CCF608ADB992C5C7.html 2 app:/ServerCheck.swf
+/2017/wp-login.php 2 -
+/B12F37557809FD76E55DAF80038F9965.html 2 app:/ServerCheck.swf
+/web/wp-login.php 2 -
+/B9E41029D2B9F3F0C4A94D93EDB0092A.html 2 app:/ServerCheck.swf
+/xml 2 -
+/https://magazynszum.pl/szum-24-2019 11 -
+/193C3BCA65878F1017C2AE6E72D121B5.html 2 app:/ServerCheck.swf
+/index.php/collaborative/smoke/%20and%201%3D1 1 -
+/wordpress/wp-includes/wlwmanifest.xml 39 -
+/wp/xmlrpc.php 10 -
+/AB80E10CD6A9E4DC7E5282B8EA2BFBB2.html 2 app:/ServerCheck.swf
+/2EFE21C29EA6D24D0B73CE46DD8A0E66.html 2 app:/ServerCheck.swf
+/4586E8206EA78B5110894392B8FDF597.html 2 app:/ServerCheck.swf
+/949D73E6CEDACE09AFB052E091C068A1.html 2 app:/ServerCheck.swf
+/E8B72C71517822C692BB4325803650F5.html 2 app:/ServerCheck.swf
+/39301F1DAAC73095C76408498AB3E1BC.html 2 app:/ServerCheck.swf
+/D7E41CB74EF9D729F3D9CC45372D4538.html 2 app:/ServerCheck.swf
+/5A654EC19CC6CD7AE3954C0AE7244E50.html 2 app:/ServerCheck.swf
+/AC70A79CE9FF2D571C48291CCC089BC7.html 2 app:/ServerCheck.swf
+/wp-admin 1 -
+/EC679C232F7105F3ACBDD526BAB06FD4.html 2 app:/ServerCheck.swf
+/AE8CE7948F027E38CB4D8588E2FDBD4D.html 2 app:/ServerCheck.swf
+/D7D1A6DA09E8F6F17548EC11558FAFC4.html 2 app:/ServerCheck.swf
+/EA4AF68E39199E611223A9482949DEB5.html 2 app:/ServerCheck.swf
+/FBCC3AA82ED70F98F4D13C2CB2F62066.html 2 app:/ServerCheck.swf
+/39218359906DC32A9A2FC04AF38C3424.html 2 app:/ServerCheck.swf
+/files/gimgs/50_2%20-%20Galeria%20910%20-%20Ula%20Luci%C3%85%C2%84ska,%20Micha%C3%85%C2%82%20Knychaus%20-%20Calm%20Days.jpg 1 http://ulalucinska.com/index.php/calm-days/
+/B7F0B27F5CA1D33821A8AF96058CEA4C.html 2 app:/ServerCheck.swf
+/3CDA2B87511AD62A58E2618D4A5BBFF9.html 2 app:/ServerCheck.swf
+/FB11576CC4A4DDC129288E5ADC4BFB48.html 2 app:/ServerCheck.swf
+/53915B5E049CC140F7077C4D6B479840.html 2 app:/ServerCheck.swf
+/install.php 1 -
+/ads.txt 2 -
+/46E0D8D2BA41692001C117FE9604053C.html 2 app:/ServerCheck.swf
+/index.php/collaborative/smoke/99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+/F28CD08C3081236C5D7EDF543E3083FD.html 2 app:/ServerCheck.swf
+/6963635FBDB126F3C4E2BE7A7B524A4B.html 2 app:/ServerCheck.swf
+/B69444E6F1C167DDF5B7E1CE0C04150C.html 2 app:/ServerCheck.swf
+/A21409E4766AAE575B76C676A11BBB28.html 2 app:/ServerCheck.swf
+/E44F2F02F34AEAB13978CAB65813C513.html 2 app:/ServerCheck.swf
+/5D4B3E1548A522720E5DFBCB24ECD6EC.html 2 app:/ServerCheck.swf
+/B75ECDD8AA392C263C1B56620C476453.html 2 app:/ServerCheck.swf
+/2018/xmlrpc.php 10 -
+/29193519336A03A94C95A8CCE167B42C.html 2 app:/ServerCheck.swf
+/3A4978F701A7647FBDF92D1E57792B9F.html 2 app:/ServerCheck.swf
+/2B33AFFF030BCC66D82476CF7ECDB69A.html 2 app:/ServerCheck.swf
+/templates/system/css/system.css 1 -
+/7C9FDC77FD79670CBAE554DA13774388.html 2 app:/ServerCheck.swf
+/index.php/it-will-shift-again-molting-stage/2121121121212.1 1 -
+/5D73CB079B04C38E972630DA0408C143.html 2 app:/ServerCheck.swf
+/2FCCE7E6794B4880A6261B68A5B73C3D.html 2 app:/ServerCheck.swf
+/74FF529E4AAF847C4A75C101AF1B8098.html 2 app:/ServerCheck.swf
+/index.php/celly/https://player.vimeo.com/video/243295603 2 -
+/7C801D6DEFABE9049A41791F9D5C2CFE.html 2 app:/ServerCheck.swf
+/961F0137E482C6EE35969DCB7ED1FDB8.html 2 app:/ServerCheck.swf
+/FB4FBDA3498E33F3B76B289003D719E6.html 2 app:/ServerCheck.swf
+/99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/790C41B112EE26267A386D509BE07672.html 2 app:/ServerCheck.swf
+/215E74008ECFFC1EB44E0F8DB76DF8EA.html 2 app:/ServerCheck.swf
+/53751E98C423090B97289BC44935E292.html 2 app:/ServerCheck.swf
+/A0A884E7E9FF90FF3FBAF5663E30E0FA.html 2 app:/ServerCheck.swf
+/wp/wp-admin/setup-config.php 1 -
+/index.php/roses-ep/https://richardhariss.bandcamp.com/album/omer-fatma-roses-ep 1 -
+/files/gimgs/50_6%20-%20Galeria%20910%20-%20Ula%20Luci%C3%85%C2%84ska,%20Micha%C3%85%C2%82%20Knychaus%20-%20Calm%20Days.jpg 1 http://ulalucinska.com/index.php/calm-days/
+/wordpress/wp-login.php 2 -
+/AE21F4CA72D9A430A4F0D0E4F9996259.html 2 app:/ServerCheck.swf
+/EF496B1A498EFC960E6CD316DE935CBB.html 2 app:/ServerCheck.swf
+/37E71EAFE17249EED0CBEB5E13AFC5CA.html 2 app:/ServerCheck.swf
+/7B2605810737D84EAFD20E0F994ED79A.html 2 app:/ServerCheck.swf
+/140111B2F06CBE78EF7B9E89E29154F5.html 2 app:/ServerCheck.swf
+/tmp/ 2 -
+/0DAA406D6E79159FD4F50B9F5C6C49E5.html 2 app:/ServerCheck.swf
+/1B2FC6FAA44A3309E8293529869EBF14.html 2 app:/ServerCheck.swf
+/F66A55AFDA48059967B60B5C73D33A4E.html 2 app:/ServerCheck.swf
+/04865FF338D45987D17E093DD62B30D6.html 2 app:/ServerCheck.swf
+/207348D8DF57CC38BA300055CCDF0F09.html 2 app:/ServerCheck.swf
+/7EB53EF3468C32C8EE11967CBC8E5D3A.html 2 app:/ServerCheck.swf
+/3234DE2084A491162591616A17953A24.html 2 app:/ServerCheck.swf
+/dev/xmlrpc.php 10 -
+/FAB5982C552B05CCDCE8FF8B4524190A.html 2 app:/ServerCheck.swf
+/7F03237E1BACC7E49E80C5BA04031193.html 2 app:/ServerCheck.swf
+/B9FB3C04CDF09DF3B5DE1F3F0279CA86.html 2 app:/ServerCheck.swf
+/924FA170D4ADDD6326EF55918209F88A.html 2 app:/ServerCheck.swf
+/EA9689A2FE774878FF12BBE18F15B92B.html 2 app:/ServerCheck.swf
+/BEF0D00BFD313C255554FDE21A02C3C9.html 2 app:/ServerCheck.swf
+/6DD0C42A9984BACAD70F49129E972D23.html 2 app:/ServerCheck.swf
+/08F56E9CE2205DFE74DFCE62F3502B65.html 2 app:/ServerCheck.swf
+/9E7F34A494A8B22AE4B5A84432653620.html 2 app:/ServerCheck.swf
+/9625E4983C32D58028364764B08678BF.html 2 app:/ServerCheck.swf
+/ 45 https://ukrtvory.in.ua/
+//wp-admin/install.php 1 -
+/A29C636A96DC8597D55D90AB7B73AC18.html 2 app:/ServerCheck.swf
+/files/gimgs/50_9%20-%20Galeria%20910%20-%20Ula%20Luci%C3%85%C2%84ska,%20Micha%C3%85%C2%82%20Knychaus%20-%20Calm%20Days.jpg 1 http://ulalucinska.com/index.php/calm-days/
+/xml/ 31 -
+/E621BBBF6A9464E41AEF7D4E0D21004A.html 2 app:/ServerCheck.swf
+/F3303B35E813D4CC6F3DD4406CE0F3E4.html 2 app:/ServerCheck.swf
+/397F885C6D310DBA35C5C523DCDB4E0F.html 2 app:/ServerCheck.swf
+/8DC23D2828008F1832BBF0224B6178DF.html 2 app:/ServerCheck.swf
+/0CB505162193586D1B4F5A1E37494AAF.html 2 app:/ServerCheck.swf
+/3567FA39424C521EF16A31D6EB835321.html 2 app:/ServerCheck.swf
+/8721A2461C577B0DDF949809F4AA50D7.html 2 app:/ServerCheck.swf
+/demo/ 5 -
+/DBC6EE8A9A1C3A082D970D9205E09E87.html 2 app:/ServerCheck.swf
+/C74911253087E0CF6F723C3CC4D82F2B.html 2 app:/ServerCheck.swf
+/315909C2EC9E964A90B563FCB4288B21.html 2 app:/ServerCheck.swf
+/840EF101CD61EA4BFC31E4F063EFECB3.html 2 app:/ServerCheck.swf
+/7C8BE382875AF29258F6CA37761DBC17.html 2 app:/ServerCheck.swf
+/A572CE193A6FC7C859B767E9CA42CE06.html 2 app:/ServerCheck.swf
+/4152761411CA99E00833259CBCE81311.html 2 app:/ServerCheck.swf
+/537A54C5AD9D273D468C7A8A1410814C.html 2 app:/ServerCheck.swf
+/D3C87D28157F8749D2CDC24350845C15.html 2 app:/ServerCheck.swf
+/files/gimgs/50_4%20-%20Galeria%20910%20-%20Ula%20Luci%C3%85%C2%84ska,%20Micha%C3%85%C2%82%20Knychaus%20-%20Calm%20Days.jpg 1 http://ulalucinska.com/index.php/calm-days/
+/1C4A3E4E87E0C19A7984649693A8827B.html 2 app:/ServerCheck.swf
+/D02853F4E4FA1C095ABFB977E4F89BF7.html 2 app:/ServerCheck.swf
+/backup/wp-login.php 2 -
+/896AB3E485C3ECE8BF17B4D8F7F47F7C.html 2 app:/ServerCheck.swf
+/96DC3C1DACB20AA7AC0A03EAF4B1AE80.html 2 app:/ServerCheck.swf
+/index.php/collaborative/smoke/%22%20and%20%22x%22%3D%22y 1 -
+/8199D21B49A16DEA5FB3EE37374177E4.html 2 app:/ServerCheck.swf
+/F52F399476122387C851029392EB9F1D.html 2 app:/ServerCheck.swf
+/89643436EFAE5B3313ADC675727F11EF.html 2 app:/ServerCheck.swf
+/B6D1354CAB613C83D31BF4525FD1CA7C.html 2 app:/ServerCheck.swf
+/apple-touch-icon.png 55 -
+/10933B91623096A34B9C728B8F1046F0.html 2 app:/ServerCheck.swf
+/index.php/admin 1 -
+/0268CDD1AD25B5CDF35669EDF8CC4282.html 2 app:/ServerCheck.swf
+/EBECD7CC59C7421077E8484F96799448.html 2 app:/ServerCheck.swf
+/8CFEED7A5098C96EE251A13298E64000.html 2 app:/ServerCheck.swf
+/040122560FD675B81C1319AFFFCA1A6E.html 2 app:/ServerCheck.swf
+/63B9D99FE54023C628DC7C7938BB8A68.html 2 app:/ServerCheck.swf
+/56722C98824CA8A95AABA6BB8D230386.html 2 app:/ServerCheck.swf
+/49FF51DC0777E90AA17EC01394C24961.html 2 app:/ServerCheck.swf
+/D53C63860F7A0771F19B333F6219E20D.html 2 app:/ServerCheck.swf
+/files/gimgs/50_1%20-%20Galeria%20910%20-%20Ula%20Luci%C3%85%C2%84ska,%20Micha%C3%85%C2%82%20Knychaus%20-%20Calm%20Days.jpg 1 http://ulalucinska.com/index.php/calm-days/
+/shop/wp-login.php 1 -
+/D6B4A99E44B0170A9AE85C2EC20E7ECF.html 2 app:/ServerCheck.swf
+/wp/wp-login.php 1 -
+/831A1C32443FEACAE25FE37093BDD3DF.html 2 app:/ServerCheck.swf
+/FD4E0FA3CF13BDEB8831166F3A16FDB7.html 2 app:/ServerCheck.swf
+/2121121121212.1 1 -
+/CA5F82B8002B4F049AACEA8E6E8DAA37.html 2 app:/ServerCheck.swf
+/C4444F0DA018E9EA97673906BEFF8203.html 2 app:/ServerCheck.swf
+/user/register/ 2 -
+//wp-login.php 4 -
+/7020E8D61FFC09C4BAC8B0E06FF50347.html 2 app:/ServerCheck.swf
+/ABC6CC6566E0F0FFCF1CF58DA1E83136.html 2 app:/ServerCheck.swf
+/413328E90EA51A4E77B91F160A28FBD8.html 2 app:/ServerCheck.swf
+/blog/xmlrpc.php 14 -
+/B3B4112F777421D68A2018BE731EB29A.html 2 app:/ServerCheck.swf
+/B106D503B0028D7623093D8635DF5833.html 2 app:/ServerCheck.swf
+/administrator/ 4 -
+/2078BA11302F7B6903EEBEFEBE6E85DF.html 2 app:/ServerCheck.swf
+//pma 1 -
+/E6BA130111499DFF6A58B11280953E59.html 2 app:/ServerCheck.swf
+/3109E5C87FE74CAC671120446A07260C.html 2 app:/ServerCheck.swf
+/admin/login.php 1 -
+/7E8D8C5D66C7396229E5218C923F7E93.html 2 app:/ServerCheck.swf
+/wp/wp-includes/wlwmanifest.xml 39 -
+/AA00E1FBCA0BF4E8A87174B47638D228.html 2 app:/ServerCheck.swf
+/3F7A6550816BFE561E50D9E2C0CACE48.html 2 app:/ServerCheck.swf
+/9B6B024AD408E7F7B8ACEBD25D130C4A.html 2 app:/ServerCheck.swf
+/60AE26EDD0ABF1136DB5D4075973ED72.html 2 app:/ServerCheck.swf
+/1CCD32221F38B4B11DB34E2A607ABB00.html 2 app:/ServerCheck.swf
+/C0AD468601211F2FE42D826375874CB4.html 2 app:/ServerCheck.swf
+/90256235D438878F1254E5AAB4F02202.html 2 app:/ServerCheck.swf
+/11B579B0F15CEE2541DAB8A468237DDF.html 2 app:/ServerCheck.swf
+/068E6AFFC4462CF3E338E166891A3DF9.html 2 app:/ServerCheck.swf
+/CFD4AACA7656DFFEFD74F5E826E300A4.html 2 app:/ServerCheck.swf
+/4FC2A83A497EE39329B27DF848E0EB09.html 2 app:/ServerCheck.swf
+/68AEB7679A91DB9BE67BD76BB27B4932.html 2 app:/ServerCheck.swf
+/7EA1C7ECB8A593ACE002809739CD040A.html 2 app:/ServerCheck.swf
+/wp/wp-admin/ 1 -
+/021F7E1CB5EF10BCEE5B245B9367AF1A.html 2 app:/ServerCheck.swf
+/439D26D5403ED7BF7AF5B497358FB9FD.html 2 app:/ServerCheck.swf
+/6B9B5A0FED2D7AE7449DD2D46BBDCF38.html 2 app:/ServerCheck.swf
+/back/ 1 -
+/4CE085109FECCB36CCF9EFEBA36C0372.html 2 app:/ServerCheck.swf
+/3FCAE074A34420601319739017ED6705.html 2 app:/ServerCheck.swf
+/526D08F325BD3A4867123E7AA256035B.html 2 app:/ServerCheck.swf
+/19D5A0E8E92F08E07B0CDDE8D7CD0149.html 2 app:/ServerCheck.swf
+/4A1C80F1D56B20E23A4D0DC85DE08899.html 2 app:/ServerCheck.swf
+/E1F8BFE9F1B1FFA60D5862FE81AD8931.html 2 app:/ServerCheck.swf
+/ECD025C72C18180C1A8FAD2FC5CDB0FF.html 2 app:/ServerCheck.swf
+/5C844F67E67CFAC02E93174FCE460A7F.html 2 app:/ServerCheck.swf
+/3351F5E35E08C43C432CED6A3DAD6AF6.html 2 app:/ServerCheck.swf
+/9713E43221A5E5F5D123C8B9F29C694D.html 2 app:/ServerCheck.swf
+/7EFDA84A98A32FE1954A2449968916B4.html 2 app:/ServerCheck.swf
+/3DE0A4BB0A3C681CCE5C1427D2565D6D.html 2 app:/ServerCheck.swf
+/5E3099E0FCDD8985408F8308C37D366A.html 2 app:/ServerCheck.swf
+/A9436FD1B076D65758C13D201DA8F46A.html 2 app:/ServerCheck.swf
+/8ADC6E67189DD79D9BD96A041EF5EAAF.html 2 app:/ServerCheck.swf
+/5F177E56C6EE2AEEA26246263D6935A4.html 2 app:/ServerCheck.swf
+/administrator/index.php 19 -
+/0B0EC986A27719B50F55049181D66545.html 2 app:/ServerCheck.swf
+/7649BB59093E4A03C0E94DCD8B358D54.html 2 app:/ServerCheck.swf
+/F97D32357314B51E33EC51690F5F5EC2.html 2 app:/ServerCheck.swf
+/index.php/it-will-shift-again-molting-stage/%27%20and%20%27x%27%3D%27y 1 -
+/index.php/collaborative/smoke/%27%20and%20%27x%27%3D%27x 1 -
+/68D74BBCBE77A2246FCCB1E17B6E866E.html 2 app:/ServerCheck.swf
+/index.php/not-a-gift-given-but-a-choice-made/https://player.vimeo.com/video/349279833 2 -
+/E41069A4819E920F5300C6276A4597B5.html 2 app:/ServerCheck.swf
+/9CF5527E7C856EC6FF2DF05FEEA2F2CE.html 2 app:/ServerCheck.swf
+/572CA1D1821A8756532439CA57C4AEFE.html 2 app:/ServerCheck.swf
+/6540E6C35C954DEFACDBE4F099BA817B.html 2 app:/ServerCheck.swf
+/AEBF05E58F08F4A1EE3A923693A8550C.html 2 app:/ServerCheck.swf
+/39F991CABCAC3AFD837D9FF5B9A518B8.html 2 app:/ServerCheck.swf
+/68191EE0F6AC862AB61A7CBFA3FA9A0D.html 2 app:/ServerCheck.swf
+/9996A419ADDD588A3C7D4B113D52FACA.html 2 app:/ServerCheck.swf
+/CC380AFFFD2010B89A118B259243C147.html 2 app:/ServerCheck.swf
+/2112100C99C7380B1E310A7E5F004CEF.html 2 app:/ServerCheck.swf
+/index.php/collaborative/smoke/999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/C4413DC06DD5EDB6D58C412A9E3733D4.html 2 app:/ServerCheck.swf
+/%22%20and%20%22x%22%3D%22y 1 -
+/web/wp-includes/wlwmanifest.xml 25 -
+/blog//wp-login.php 1 -
+/425AB06E65F3BB22B5100E9092DB822C.html 2 app:/ServerCheck.swf
+/https://www.printedmatter.org/catalog/51320 11 -
+/1EB4D64558184ACEF66FA8C3F3D060B7.html 2 app:/ServerCheck.swf
+/C412AF6705369C63D8F51C7E6C33AB4F.html 2 app:/ServerCheck.swf
+/1124251D687CF0B1FF7C28776A88C493.html 2 app:/ServerCheck.swf
+/last/ 3 -
+/C6FC8AFA6AD4EB34B6237B34457274F8.html 2 app:/ServerCheck.swf
+/DC96C65BC0B6455A1428616CBB0BD016.html 2 app:/ServerCheck.swf
+/DEA335145C6735257CA211D4DCA4B18E.html 2 app:/ServerCheck.swf
+//admin/index.php 5 -
+/temp/ 2 -
+/A92896761A74847743DF6C2B6B4D2364.html 2 app:/ServerCheck.swf
+/6088CB20DE28273E7D68E097C4E4BF23.html 2 app:/ServerCheck.swf
+/3B18C851EE6D2BEE9A8089FBCB84E78F.html 2 app:/ServerCheck.swf
+/13D91CD716A5AB66314227710BFACB10.html 2 app:/ServerCheck.swf
+/F7CE3A0037CBC12C0DA966B3BBBEBFA2.html 2 app:/ServerCheck.swf
+/3FAC556174B9C5FDBE35E2704781934C.html 2 app:/ServerCheck.swf
+/9F97301D2D991421BD89895D2458AFFE.html 2 app:/ServerCheck.swf
+/8163BF4DBB121128E7567976238ADDE5.html 2 app:/ServerCheck.swf
+/90BF03DCCA8450538E673EC5F5F3BB19.html 2 app:/ServerCheck.swf
+/6665C16061AC51DD39E8DDD6182F4CA1.html 2 app:/ServerCheck.swf
+/2018/wp-includes/wlwmanifest.xml 25 -
+/832A2A3696830E6CEE99C53F81EA8B2D.html 2 app:/ServerCheck.swf
+/47E1F2F8C2B45FCC04310B60233AE831.html 2 app:/ServerCheck.swf
+/20D1EC10670D904522F269DA7EDCEED1.html 2 app:/ServerCheck.swf
+/EC7B6D67791B6B9D466EA14DD9DF94B5.html 2 app:/ServerCheck.swf
+/237684B2EF9933D28A017AE73710302F.html 2 app:/ServerCheck.swf
+/Nowy/ 21 -
+/6B80BA93DFE702F6AB6047904DBBF36A.html 2 app:/ServerCheck.swf
+/4084346C300A7DD53D4A8C774CB5153C.html 2 app:/ServerCheck.swf
+/1BBAA76BDC41DF353C1696150EB8A79C.html 2 app:/ServerCheck.swf
+/7A8725BF91BEFE147B52BF26532EA80B.html 2 app:/ServerCheck.swf
+/cms/wp-login.php 1 -
+/0A731197CDB084C172F1479700BA4456.html 2 app:/ServerCheck.swf
+/oldsite/ 22 -
+/media/wp-includes/wlwmanifest.xml 25 -
+/0604982C1FDCDE85981A7A824F132A49.html 2 app:/ServerCheck.swf
+/1B4FE407A2CBBFE907418FCF8B716C3B.html 2 app:/ServerCheck.swf
+/9F3C839CB0115EF403FBC833D0B2F029.html 2 app:/ServerCheck.swf
+/wp-admin/admin-ajax.php 1 -
+/E57319D2F91DFB1D1F2BEFC6685F994A.html 2 app:/ServerCheck.swf
+/5AE9689D050AAB4AD0D6381705DE9167.html 2 app:/ServerCheck.swf
+/main/ 5 -
+/B522C1B63EDCD6C36BDBA43D45AF158F.html 2 app:/ServerCheck.swf
+/688DA13D7806AEFA874227D1DEFBE2E4.html 2 app:/ServerCheck.swf
+/.well-known/assetlinks.json 4 -
+/466C82595CE0416745E44D0D13A9B545.html 2 app:/ServerCheck.swf
+/F942AE681D8B6E67DD28CFA1A9D79226.html 2 app:/ServerCheck.swf
+/E65437DE2DDBF167F30B44D13624AF56.html 2 app:/ServerCheck.swf
+/files/insidejob_ulalucinska_michalknychaus_works_2018.pdf 1 -
+/BB4AA06C1A2948AD90D3A07E8E0132A2.html 2 app:/ServerCheck.swf
+/DEDD4BE526DCA1245DD168686F661599.html 2 app:/ServerCheck.swf
+/F180EA4DF64CE5F0F5EBFD3CF2326E7D.html 2 app:/ServerCheck.swf
+/D3E95E08550631D42266D00EAB74A409.html 2 app:/ServerCheck.swf
+/AA899C9C113A979DBFBF1A6A45045981.html 2 app:/ServerCheck.swf
+/website/wp-login.php 1 -
+/F4B89E5BEBE74014620D66F81BDF44E0.html 2 app:/ServerCheck.swf
+/site/xmlrpc.php 10 -
+/FC4532CE6624D21183C3285F4032DED5.html 2 app:/ServerCheck.swf
+/2015/wp-includes/wlwmanifest.xml 14 -
+/B665903381C3E861E9CE401765BD3C86.html 2 app:/ServerCheck.swf
+/BF35824279A0F8FF27921D40552C5C3E.html 2 app:/ServerCheck.swf
+/index.php/celly/ 3 https://sixousixmusix.org/
+/13CDA8351D28296BC79229F7B1DA53A8.html 2 app:/ServerCheck.swf
+/files/gimgs/50_8%20-%20Galeria%20910%20-%20Ula%20Luci%C3%85%C2%84ska,%20Micha%C3%85%C2%82%20Knychaus%20-%20Calm%20Days.jpg 1 http://ulalucinska.com/index.php/calm-days/
+/wordpress/wp-admin/install.php 1 -
+/B6BD0ED51BF00440A85E64DCD524282D.html 2 app:/ServerCheck.swf
+/54BB477FBEECAA9315F8F6C0E995C674.html 2 app:/ServerCheck.swf
+/29FA5D083DE9B7EE664E31244EDEBD15.html 2 app:/ServerCheck.swf
+/wp1/xmlrpc.php 10 -
+/756C1348080281FF58962852C0163AC6.html 2 app:/ServerCheck.swf
+/85B0370C9421E7032EF5B01F117628FD.html 2 app:/ServerCheck.swf
+/894B4D9BD1052EE82D0774168C238C1B.html 2 app:/ServerCheck.swf
+/6586FEC8EA1CD6BCDE1A41EF01D1A93B.html 2 app:/ServerCheck.swf
+/blog/administrator/index.php 6 -
+/FCF2E8B5401CD0BAFFAD2638FAF5CE2A.html 2 app:/ServerCheck.swf
+/AC2207A2A00496C8FBB221FE0B24A382.html 2 app:/ServerCheck.swf
+/wordpress/ 43 -
+/7DFC705FDE939D3FAFE026417EE789FB.html 2 app:/ServerCheck.swf
+/FE67112F25335ED50CF18C09DEC47E4A.html 2 app:/ServerCheck.swf
+/CDF679E198CBD503248A363C1AC3E3FF.html 2 app:/ServerCheck.swf
+/0E50C8790E84E44B7ED06BCFEDFE7D0F.html 2 app:/ServerCheck.swf
+/59796E6398C8A7DFFDC3A9F5A2A1AD58.html 2 app:/ServerCheck.swf
+/2C7FFB9A817A439598E30F9298C718F2.html 2 app:/ServerCheck.swf
+/7EFE07F9F92E6A3DD74535056EE34998.html 2 app:/ServerCheck.swf
+/523756E3FF1AB9EE85319AE56ADE044E.html 2 app:/ServerCheck.swf
+/site/wp-includes/wlwmanifest.xml 39 -
+/27AAF559091C8519BF878BBB87A88BB2.html 2 app:/ServerCheck.swf
+/8C97344E00A69E363A7870F77161826C.html 2 app:/ServerCheck.swf
+/index.php/not-a-gift-given-but-a-choice-made/https://soundcloud.com/panayotisofficial/not-a-gift-given-but-a-choice-made 1 -
+/Blog/ 3 -
+/7230C6D3B1FA94682B17444EC161BE5D.html 2 app:/ServerCheck.swf
+/wp2/xmlrpc.php 10 -
+/db/ 3 -
+/E132D0C9BFFC76FEAC9B31303A49B79F.html 2 app:/ServerCheck.swf
+/wp2/wp-includes/wlwmanifest.xml 25 -
+/23DC90919950B864F82ACEF058CEC75D.html 2 app:/ServerCheck.swf
+/B110F9AE2CAE9BBC64BB0EA964CD4E50.html 2 app:/ServerCheck.swf
+/8F5F15B966D27C59772FA56319BFBDA2.html 2 app:/ServerCheck.swf
+/91B0534CC48A5238DECE33B9142852FA.html 2 app:/ServerCheck.swf
+/FB08900A64974E8052800E973F71C204.html 2 app:/ServerCheck.swf
+/%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(98,79,108,66,74,76,68,122,86,108),1),name_const(CHAR(98,79,108,66,74,76,68,122,86,108),1))a)%20--%20%22x%22=%22x 1 -
+/EB9E096306865DA5F4CB931E478BBD53.html 2 app:/ServerCheck.swf
+/5422235FF1530343D79A7EC8C2888527.html 2 app:/ServerCheck.swf
+/index.php/polish-water/https://player.vimeo.com/video/179064452 2 -
+/8DDAAE9D9C80F0C49D65D9F3AFE57085.html 2 app:/ServerCheck.swf
+/web/ 2 -
+/70C1B070B8CB71164D9EF5E56C8D4078.html 2 app:/ServerCheck.swf
+/2D8F0A5D5A2E9672E3A6BB90D67FA477.html 2 app:/ServerCheck.swf
+/356EAC1A2260A8CDE0361AF593AD3E02.html 2 app:/ServerCheck.swf
+/0A6207761061907A4C8DB7762A1EBCAD.html 2 app:/ServerCheck.swf
+/60097F8D165232E00B3B8B2D37D42CA1.html 2 app:/ServerCheck.swf
+/26C7462E23A80AAB8E7899999010BF31.html 2 app:/ServerCheck.swf
+/BC27E31B380605C85B2206F82D8BF126.html 2 app:/ServerCheck.swf
+/7A1E79ADE17B7E10EF90E3C0F73C234D.html 2 app:/ServerCheck.swf
+/83B7AEA01AB61D5CF5A67D9953B04E44.html 2 app:/ServerCheck.swf
+/3CBEA8CDCBB404BA64B967226242AED2.html 2 app:/ServerCheck.swf
+/.git/INDEX 2 -
+/files/gimgs/50_7%20-%20Galeria%20910%20-%20Ula%20Luci%C3%85%C2%84ska,%20Micha%C3%85%C2%82%20Knychaus%20-%20Calm%20Days.jpg 1 http://ulalucinska.com/index.php/calm-days/
+/88B7C03CA65C70D02576BE72D0FA7D94.html 2 app:/ServerCheck.swf
+/wp-login.php 112 -
+/DF6AC922548682B8177E9AB8793148DB.html 2 app:/ServerCheck.swf
+/CE165D215D1BE9B5916D47A9CB38DCE8.html 2 app:/ServerCheck.swf
+/3175BD4B3B10B16D8AF5B0F272EF455E.html 2 app:/ServerCheck.swf
+/index.php/not-a-gift-given-but-a-choice-made/https://magazynszum.pl/not-a-gift-given-but-a-choice-made-inside-job-w-pawilonie/ 1 -
+/43EFC3AB1A1BB38A5B9932E7988C4B79.html 2 app:/ServerCheck.swf
+/Polska/ 21 -
+/wp/wp-admin/install.php 1 -
+/63DAD8451366CC7287ED0CAEDA63D4EF.html 2 app:/ServerCheck.swf
+/6D8B58C7044B5AA3C0044D078FE07F28.html 2 app:/ServerCheck.swf
+/BEFD3CBBEBA06A71E50C146DB8E55FC2.html 2 app:/ServerCheck.swf
+/EF59B17C41B9323B5B2F6696D5D639AC.html 2 app:/ServerCheck.swf
+/B9E6BEED9B7A283A3DBFF932C799B390.html 2 app:/ServerCheck.swf
+/AF7A7B7862917869B838AC54946BF933.html 2 app:/ServerCheck.swf
+/4A85DABD10141FC37864FD37F3D329AA.html 2 app:/ServerCheck.swf
+/dev/ 5 -
+/vendor/phpunit/phpunit/LICENSE 5 -
+/manager/ldskflks 4 -
+//phpMyAdmin 1 -
+/2016/wp-includes/wlwmanifest.xml 14 -
+/60D65BF8373C8BB63CF23DD0D06EC109.html 2 app:/ServerCheck.swf
+/FB08211668C966ADD754737FAF8F012F.html 2 app:/ServerCheck.swf
+/2F74249DFE3C9CF6A8C2147967FCB408.html 2 app:/ServerCheck.swf
+/39FDD1842EBF60A3143EEEDDF0162941.html 2 app:/ServerCheck.swf
+/xmlrpc.php 81 -
+/84B451C34862333A7ADBB8DEB8C998F3.html 2 app:/ServerCheck.swf
+/7242C06589351AEB5D598EFC832D9A59.html 2 app:/ServerCheck.swf
+/index.php/it-will-shift-again-molting-stage/%20and%201%3E1 1 -
+/google3e3694cf95c4dee1.html 2 -
+/B985C1E49D2132FB5FDF2A304F3E4B43.html 2 app:/ServerCheck.swf
+/index.php/collaborative/smoke/99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/2FEA5336B0D2CF86ED82BD8D3073B294.html 2 app:/ServerCheck.swf
+/test/xmlrpc.php 9 -
+/index.php/watch-my-back/ 3 https://school-essay.ru/
+/AF2F5F7654AEEA787A7B907384528F9A.html 2 app:/ServerCheck.swf
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/1D6CC228B15E86C865FD9B0D762E59B0.html 2 app:/ServerCheck.swf
+/529D5EC1A17BC1ED56390D30FC77C4DA.html 2 app:/ServerCheck.swf
+/XxX.php 1 -
+/portal/ 2 -
+/22EB465ECA62384DD234FE7A6F576F8E.html 2 app:/ServerCheck.swf
+/DB485B06E270B9E7E39EA44DB4360C5F.html 2 app:/ServerCheck.swf
+/util/login.aspx 1 -
+/CCBCF3A4E7D76F22212D38B425F83956.html 2 app:/ServerCheck.swf
+/CDFF8330BA6B6777D1FADF4F3B4FACF3.html 2 app:/ServerCheck.swf
+/index.php/it-will-shift-again-molting-stage/%27%20and%20%27x%27%3D%27x 1 -
+/5BB8A1B70DCA11F308E798A8A35A7316.html 2 app:/ServerCheck.swf
+/AC7360635448C4C1479808B4B3B08F5E.html 2 app:/ServerCheck.swf
+/03974A98F34B78F390C128C442C58E89.html 2 app:/ServerCheck.swf
+/1C36330656B5CB0BE5891B22BD9E400A.html 2 app:/ServerCheck.swf
+/A4AAD800E3AF170382391433F302818D.html 2 app:/ServerCheck.swf
+/wordpress/xmlrpc.php 10 -
+//wp-admin/setup-config.php 1 -
+//phpmyadmin 2 -
+/819FE3CD6A23517C19FA861467A03E7B.html 2 app:/ServerCheck.swf
+/BBFF3516B9C5796003DB501F557FA760.html 2 app:/ServerCheck.swf
+/F83C59A44BC5374D289A9FB4E5F80374.html 2 app:/ServerCheck.swf
+/7517D4FBFCFFEFFCD55B996FCCF8CE04.html 2 app:/ServerCheck.swf
+/23C014F3614FD238EEA4FE9FBDE9C9E0.html 2 app:/ServerCheck.swf
+/6C612B45B3E375A5F2B78AB6C0C46D38.html 2 app:/ServerCheck.swf
+/CDA330A9D7E04F1B89301A35E85BB189.html 2 app:/ServerCheck.swf
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 558
+35.189.255.190 69 69 208762 20191009213227
+185.92.73.172 68 68 205419 20191002040300
+77.65.80.94 57 284 188836835 20191030141659
+77.65.94.62 50 492 150991749 20191014170845
+3.95.37.22 49 49 550485 20191028184358
+100.35.75.170 48 48 156344 20191028132341
+95.78.233.134 36 36 108045 20191003082253
+207.99.15.81 35 35 105232 20191021153020
+39.100.250.90 34 34 102707 20191024081543
+45.227.255.149 34 129 207276 20191002021021
+176.121.14.184 34 34 102833 20191002080953
+54.90.203.238 33 33 378880 20191003181450
+46.118.232.192 33 33 340980 20191025200126
+192.99.225.97 33 379 47736189 20191005185009
+77.182.55.22 33 283 100269197 20191024220153
+82.80.249.249 33 36 102448 20191013165257
+64.62.252.176 32 32 95902 20191023053846
+113.66.10.249 32 32 95718 20191011041612
+188.147.38.234 32 274 46103796 20191008134637
+37.30.0.196 31 235 38354335 20191025210242
+176.37.202.65 30 75 146685 20191030200832
+167.114.172.223 26 26 274788 20191024041811
+62.202.191.21 25 231 52969834 20191025224904
+79.167.78.178 25 201 33263487 20191029113256
+66.249.81.75 24 37 2241545 20191026122907
+90.17.179.156 1 4 6429 20191025004703
+66.102.9.150 1 1 3349 20191014232524
+99.100.248.37 0 1 191656 
+176.8.90.196 6 6 63636 20191012125412
+88.230.25.195 1 1 10606 20191006135141
+35.246.121.15 4 4 13376 20191010052607
+51.15.197.128 5 5 53955 20191030125147
+188.170.192.217 5 21 78058873 20191017230248
+93.159.230.28 2 8 12872 20191025003758
+34.220.192.11 1 1 3346 20191025060202
+181.129.74.58 1 1 3349 20191005093502
+84.193.94.79 0 1 175223 
+151.35.37.154 2 9 272915 20191005183936
+159.138.159.45 1 1 2429 20191024142409
+46.227.240.81 2 14 83804 20191014200209
+195.80.135.185 1 4 6429 20191025101139
+110.89.6.55 2 2 14514 20191003203840
+14.207.41.230 1 1 3346 20191011003028
+142.93.132.28 6 6 63636 20191018103345
+185.112.164.198 1 1 10606 20191017171330
+86.49.41.216 2 9 240653 20191014162618
+36.33.21.217 1 1 3735 20191017194934
+79.54.88.81 1 4 6433 20191001174558
+34.213.98.16 2 2 0 20191031232755
+99.203.92.230 0 1 223634 
+85.3.120.251 0 1 277318 
+87.113.191.63 2 2 21619 20191031002738
+207.154.247.135 1 1 10606 20191002135004
+66.102.8.173 2 10 1115262 20191023182340
+66.249.81.177 0 1 19496043 
+89.187.178.142 2 2 21323 20191010101100
+185.107.44.41 2 2 6684 20191030070051
+34.76.227.142 1 1 3346 20191009113115
+62.210.83.78 3 3 10034 20191031073646
+92.23.56.84 2 2 21619 20191030122726
+115.151.58.166 1 1 3478 20191018050954
+185.174.156.5 1 1 3346 20191013040213
+31.183.222.23 1 13 1657655 20191009114206
+31.0.44.123 1 7 41902 20191003153120
+188.166.22.77 2 2 5633 20191001155507
+52.41.15.208 1 1 3349 20191017061838
+212.95.5.198 1 7 41904 20191023202704
+151.63.162.160 0 2 343377 
+166.62.126.3 3 3 10026 20191030120655
+37.204.206.150 1 4 6433 20191021134255
+159.138.154.181 1 1 4456 20191027211313
+34.221.235.129 1 1 3346 20191024045721
+159.138.156.191 1 1 2572 20191024142250
+112.194.67.21 1 1 3424 20191024013019
+37.47.129.16 1 40 180641 20191014155001
+5.188.84.76 4 4 14042 20191020164306
+82.80.249.143 0 16 2820026 
+51.15.81.169 5 5 53955 20191027124843
+178.137.167.215 18 18 190908 20191004193420
+82.80.249.157 0 7 1457052 
+66.160.140.184 1 1 3342 20191022070851
+103.122.22.70 0 1 19491715 
+167.86.84.99 0 1 0 
+181.214.209.232 1 1 3346 20191031134155
+185.244.96.170 2 53 81267823 20191009232816
+89.136.31.222 2 2 5633 20191019031924
+37.47.48.173 2 32 5220675 20191001120826
+66.249.83.219 2 16 949335 20191023061552
+192.162.101.88 1 1 10717 20191020011346
+181.177.118.86 1 1 3346 20191012180352
+211.56.145.140 1 1 11036 20191022141519
+111.7.100.23 1 2 250760 20191003193210
+213.221.253.157 0 1 196659 
+178.137.165.138 18 18 190908 20191004195639
+216.200.228.232 0 1 169222 
+99.25.170.122 0 2 302434 
+66.102.9.111 1 17 2559559 20191021191336
+198.20.103.242 1 1 3352 20191029150652
+150.254.163.21 0 2 371116 
+178.173.238.126 1 1 3342 20191017124123
+198.27.121.92 6 6 63858 20191015163641
+174.72.25.180 0 1 180004 
+24.8.17.94 0 1 180004 
+209.58.142.221 1 1 10606 20191030040257
+150.254.177.1 4 77 110577686 20191011114619
+24.194.125.108 0 1 191656 
+157.245.32.148 1 1 3346 20191003052717
+5.54.46.216 0 1 125715 
+163.172.7.237 1 1 10606 20191017202037
+66.102.6.115 0 2 344648 
+54.146.43.69 1 1 10606 20191017021352
+64.246.187.42 1 1 3346 20191009160751
+181.214.6.72 1 1 3342 20191003025928
+88.156.92.110 3 31 5415741 20191030225121
+66.249.80.47 1 4 154214 20191006113153
+37.191.156.71 19 233 38976919 20191022231636
+46.177.22.2 1 7 41903 20191008184350
+5.9.94.207 1 1 9426 20191015073716
+223.247.29.23 1 1 3423 20191025005503
+46.185.127.62 3 3 31818 20191004103429
+35.165.75.217 1 1 3352 20191024045723
+66.220.149.63 1 2 3961 20191004112459
+40.113.222.145 1 1 3346 20191028110607
+173.211.109.178 1 1 3342 20191010053759
+111.7.100.25 3 31 5543586 20191024130954
+165.225.77.157 12 172 28934383 20191015145909
+159.138.148.255 1 1 3481 20191028193336
+35.236.252.210 18 18 193128 20191019172451
+68.173.157.184 1 4 6433 20191023184539
+128.72.31.136 1 33 7476225 20191004105339
+213.159.213.236 3 3 10040 20191028045939
+54.185.151.120 1 1 3342 20191026030708
+82.155.35.35 0 1 244533 
+3.16.139.237 3 6 13128 20191002115405
+84.253.161.154 1 7 41905 20191031065246
+141.98.83.6 0 1 1102 
+37.235.48.176 2 19 68205483 20191027020810
+40.78.51.116 6 6 20064 20191030234648
+37.201.171.3 11 148 25126996 20191002193313
+5.173.240.149 0 1 182662 
+115.220.224.238 1 1 3153 20191024090645
+54.38.193.111 1 1 9426 20191018172335
+137.226.113.21 1 4 6439 20191026205444
+51.89.224.145 4 4 42942 20191022083415
+184.154.189.90 1 1 3346 20191003031918
+89.12.52.119 2 57 22739787 20191023233630
+66.249.89.205 1 1 53 20191027033140
+27.97.73.47 0 1 177108 
+188.68.135.51 5 61 79991171 20191010080350
+104.36.16.152 1 1 3346 20191001150342
+217.10.38.139 2 49 78777032 20191024221051
+213.184.92.226 1 1 3346 20191024053302
+149.219.195.225 1 44 77861635 20191002175311
+82.80.249.227 0 7 1298302 
+123.133.134.250 1 1 2796 20191024012746
+66.102.8.175 0 14 1905455 
+159.138.155.10 1 1 2429 20191021132004
+94.142.239.110 8 110 18170839 20191028125532
+188.146.228.201 1 5 250562 20191007233836
+51.15.64.111 2 2 21582 20191023134323
+34.219.62.86 1 1 3342 20191007035922
+124.41.213.201 2 2 21212 20191015043615
+64.62.252.162 2 2 6695 20191024153429
+51.15.124.33 1 1 3346 20191030080718
+37.47.56.183 1 4 6429 20191006140734
+91.148.141.162 1 4 6433 20191003144155
+218.250.128.245 1 1 10606 20191006171156
+54.188.246.23 1 1 3342 20191010032931
+34.221.82.50 1 1 3346 20191031051510
+49.145.226.41 1 1 10606 20191029032540
+157.230.143.28 1 1 10717 20191003114846
+176.127.31.60 0 1 277318 
+87.113.42.203 3 3 32775 20191030062732
+36.99.136.139 2 9 1083238 20191024130955
+107.152.102.202 0 1 158648 
+31.13.127.9 1 2 3957 20191003134822
+111.7.100.22 1 6 444791 20191003193205
+192.162.101.55 1 1 10606 20191031135440
+200.89.178.73 2 2 5633 20191005052434
+142.93.131.109 2 2 21212 20191004025735
+54.70.100.68 1 1 3346 20191015072558
+66.249.88.135 1 22 2673782 20191025192329
+111.7.100.24 1 22 3796674 20191013082833
+66.102.9.171 0 1 152914 
+54.184.223.231 1 1 3342 20191014044642
+92.116.120.65 1 42 5873038 20191002193513
+51.15.224.119 1 1 10791 20191005132042
+118.25.17.135 1 1 10754 20191017164636
+66.249.88.173 0 4 560952 
+66.249.83.221 1 13 652727 20191025045843
+35.168.8.189 1 1 3876 20191006231842
+95.216.19.45 0 2 356514 
+60.191.38.77 21 21 226315 20191031211358
+46.246.65.199 1 1 3346 20191028105603
+104.198.253.53 3 3 32151 20191018213430
+104.227.246.106 1 1 10606 20191016153724
+82.80.249.133 0 8 1521904 
+149.56.142.135 4 4 42646 20191019104958
+51.77.246.201 1 7 320182 20191024072754
+77.65.110.161 19 101 15631618 20191030232135
+74.125.151.55 1 1 53 20191027035020
+174.104.34.47 0 1 177108 
+88.147.174.16 1 1 3349 20191016171456
+165.22.103.221 1 1 10606 20191012135340
+5.188.84.130 2 2 7818 20191008101317
+83.10.120.13 0 1 226994 
+94.181.79.99 1 4 6429 20191017063913
+104.248.189.156 0 1 177108 
+52.25.203.189 1 1 3342 20191003215447
+2.243.126.251 0 1 277318 
+36.99.136.143 0 7 833836 
+52.43.43.138 1 1 10717 20191022014558
+85.221.139.106 0 1 195045 
+77.254.33.145 3 9 49061 20191025193920
+51.68.88.232 2 2 21471 20191012013639
+54.186.58.153 1 1 3342 20191026061806
+159.138.151.11 1 1 2367 20191024145659
+124.206.180.180 1 1 10606 20191024184727
+203.133.171.111 2 2 22841 20191028081832
+117.136.79.136 8 123 22017922 20191025031740
+82.80.230.228 0 149 29123302 
+66.220.149.25 0 1 1370 
+66.102.8.11 1 6 224077 20191029181011
+54.190.125.162 1 1 3342 20191011045346
+159.138.153.51 1 1 2366 20191024143934
+168.91.114.199 1 1 3342 20191024074639
+82.80.249.152 0 4 783709 
+81.171.98.97 1 1 3349 20191007195324
+64.62.252.163 1 1 3342 20191028150528
+220.181.77.162 2 14 83804 20191010042043
+88.147.152.90 2 2 6698 20191003005506
+92.63.111.27 6 6 20090 20191030214852
+66.102.8.171 0 11 1534913 
+64.233.172.75 1 12 729182 20191026040048
+1.47.194.222 0 1 136812 
+131.221.40.58 1 4 6429 20191003025939
+66.249.93.205 1 1 3349 20191006164608
+66.249.88.171 0 10 1152977 
+46.171.34.249 0 1 247172 
+62.148.145.246 0 5 970522 
+137.226.113.28 11 11 36872 20191027174758
+194.230.117.208 0 1 172919 
+66.249.85.23 0 1 180004 
+60.172.71.30 1 1 3346 20191024082956
+104.192.74.241 13 124 19158119 20191022140322
+5.173.136.203 2 32 5220666 20191006133838
+66.220.149.15 0 1 1102 
+45.227.255.58 0 1 1370 
+37.163.166.207 1 7 41903 20191026122918
+92.53.36.20 1 1 10606 20191024121420
+37.47.172.173 1 4 6429 20191008121924
+51.36.29.110 0 1 215334 
+131.112.16.209 1 45 77986313 20191003065957
+77.74.177.113 1 1 3346 20191025003729
+52.26.154.163 1 1 3342 20191025041343
+46.166.142.217 2 2 19168 20191008061734
+181.215.147.86 2 2 5633 20191028132722
+137.226.113.27 2 2 6704 20191027184033
+178.62.82.141 7 7 21547 20191011123403
+185.244.214.194 2 2 22512 20191030062707
+93.44.197.221 13 191 30109949 20191012164555
+137.226.113.34 10 40 64390 20191027195707
+159.138.154.250 1 1 2650 20191024144113
+222.133.202.142 1 1 10606 20191016021855
+77.74.177.114 1 1 3352 20191023165618
+36.99.136.141 0 4 391099 
+18.237.36.44 1 1 3346 20191009060049
+111.7.100.21 0 1 173310 
+54.165.90.203 1 1 10312 20191001225053
+178.137.82.147 2 2 21212 20191009190831
+167.114.200.140 2 2 21212 20191010042423
+82.80.249.214 1 1 3346 20191013165138
+185.93.94.77 5 24 2803926 20191006132611
+37.47.7.230 1 7 41902 20191010080947
+37.30.51.167 2 32 5220675 20191011190651
+46.119.121.179 18 18 190908 20191005141245
+79.119.144.255 1 1 10606 20191026082450
+89.79.88.106 21 42 85210702 20191013234503
+185.127.205.154 0 1 178962 
+36.99.136.142 0 6 779747 
+79.166.240.163 5 15 19553426 20191020204803
+34.217.82.110 1 1 3342 20191005040754
+31.13.127.14 0 1 1102 
+79.167.102.57 1 7 41904 20191016230705
+82.202.161.133 6 6 20097 20191027211239
+90.94.98.11 1 7 41902 20191017142043
+35.202.2.1 1 1 3342 20191007200125
+104.248.6.95 1 1 10865 20191031191919
+66.102.6.111 1 12 963066 20191016140251
+2.68.102.183 0 3 496460 
+183.253.80.98 2 2 14514 20191018020558
+137.101.95.8 1 4 6429 20191018152944
+5.9.17.118 1 1 10189 20191031015453
+148.251.50.77 2 2 18852 20191029135725
+188.166.63.71 2 2 21619 20191031002738
+91.189.30.225 1 44 77914436 20191010125107
+107.6.169.250 3 3 10044 20191030132029
+145.239.93.33 1 1 11156 20191030122737
+52.33.114.19 1 1 3346 20191011070954
+84.17.55.105 2 2 22512 20191031002738
+45.6.216.135 0 1 177108 
+159.138.149.178 1 1 2856 20191021133942
+37.191.140.110 1 1 3346 20191009131922
+159.138.156.249 1 1 2849 20191024142828
+107.201.56.210 1 1 10606 20191007023131
+104.36.16.68 1 1 3346 20191008095552
+167.71.185.44 1 1 10754 20191008040620
+5.173.160.198 2 32 5220675 20191030175314
+46.170.188.185 4 8 244517 20191018104523
+5.173.97.0 2 8 38993431 20191007113219
+181.214.202.143 1 1 3346 20191010053120
+31.210.177.132 0 1 123139 
+5.9.145.132 1 1 10189 20191012051717
+213.159.213.137 3 3 10053 20191026081008
+1.32.51.6 1 1 10606 20191018153744
+203.142.77.138 1 1 10606 20191024090746
+93.34.128.10 5 13 19773949 20191027134219
+178.164.164.35 1 1 3342 20191005083916
+188.147.35.28 1 20 3901232 20191004104946
+64.233.172.77 2 9 748123 20191030162402
+94.189.184.103 1 1 10606 20191022183225
+213.55.225.65 0 1 277318 
+99.203.66.66 3 10 276339 20191022212111
+51.15.235.181 4 4 43164 20191026134817
+66.249.80.45 0 4 194764 
+203.220.205.9 0 1 180004 
+159.138.159.70 1 1 2273 20191024145447
+66.249.83.220 1 8 827422 20191012205259
+37.47.40.159 1 4 6429 20191006104736
+94.212.226.153 2 29 5184871 20191029090525
+159.138.156.74 1 1 4315 20191024144836
+79.190.126.157 1 4 6429 20191010125854
+194.135.93.46 1 1 3342 20191009091955
+178.22.70.103 1 1 3346 20191022051900
+80.98.200.126 3 65 11019055 20191027164545
+185.142.174.48 6 34 24916025 20191006182105
+71.56.226.130 1 7 41902 20191016040004
+113.66.11.175 1 1 3342 20191007213837
+34.216.168.226 1 1 10606 20191022103230
+138.246.253.5 4 4 0 20191025093141
+52.24.166.96 1 1 3346 20191029061830
+111.7.100.27 3 75 13355042 20191024131000
+197.229.5.41 1 1 10606 20191028180225
+211.26.211.143 1 7 41902 20191005164909
+159.138.156.0 1 1 3908 20191024150138
+83.30.162.60 1 7 41902 20191018010252
+93.37.82.205 4 43 83913483 20191023134012
+64.246.161.30 1 1 3349 20191026030747
+89.66.155.235 1 4 6429 20191008161951
+188.92.72.129 1 1 3346 20191017123800
+54.203.137.15 1 1 3346 20191026000213
+173.211.105.29 1 1 3342 20191031110029
+86.17.220.47 2 55 79049481 20191011171729
+5.62.43.232 1 1 10717 20191029201932
+46.101.111.213 1 1 3346 20191029140754
+51.77.246.206 1 4 6433 20191014011048
+66.249.80.43 0 1 1043 
+161.81.154.108 0 1 180004 
+64.233.172.79 0 12 1449412 
+66.102.9.109 1 11 1334286 20191005004713
+157.230.143.163 3 3 31929 20191003131718
+92.184.96.2 0 1 172919 
+209.58.130.54 2 2 21212 20191030051416
+66.102.9.152 2 2 6698 20191021094548
+34.220.30.24 1 1 3342 20191024052743
+77.57.167.71 0 3 516984 
+45.84.0.61 2 2 21212 20191009182338
+46.134.38.179 0 1 196911 
+45.55.151.201 2 2 3346 20191004013059
+103.240.161.250 2 2 21434 20191015035201
+89.14.145.115 2 61 42324548 20191024132219
+84.205.231.41 0 1 158648 
+34.220.248.4 1 1 3342 20191008032800
+184.94.240.92 2 2 27093 20191019104620
+185.189.132.130 1 1 3346 20191008002342
+168.61.178.132 3 3 31855 20191029175342
+173.252.87.47 1 1 3198 20191011125151
+66.249.80.11 2 5 268300 20191025165937
+178.209.40.101 1 4 6429 20191020062357
+95.42.134.175 1 1 10606 20191031231901
+188.146.34.64 23 242 75037746 20191014211354
+37.113.63.154 1 1 3334 20191004135315
+45.14.49.211 5 5 16730 20191030204446
+36.99.136.140 2 5 728449 20191024131000
+159.138.155.34 1 1 2269 20191024143436
+66.102.9.154 4 4 13396 20191023014616
+85.255.233.191 1 11 782505 20191011115153
+2.96.146.39 2 9 272921 20191011111449
+139.162.227.254 3 3 32003 20191029230146
+89.150.174.81 0 1 136812 
+34.222.69.31 1 1 3346 20191003190801
+70.81.209.234 1 1 3342 20191018112757
+134.249.141.83 4 4 42424 20191012101557
+34.223.253.201 1 1 3346 20191012070408
+203.192.229.251 2 2 5633 20191016154818
+34.219.170.10 1 1 3346 20191007073615
+109.12.234.236 0 3 435446 
+51.158.125.36 1 1 3342 20191030154737
+213.220.247.238 11 145 25026501 20191028170932
+176.36.13.141 3 9 48856 20191001093509
+64.246.165.160 1 1 3346 20191031054547
+46.183.103.8 4 75 12089428 20191025184333
+5.188.62.147 1 1 3342 20191019125833
+137.226.113.26 8 8 26816 20191027171658
+95.238.200.163 1 28 4513784 20191008212935
+66.102.9.107 1 13 1778911 20191005004834
+149.56.202.35 1 1 10717 20191030161947
+173.252.87.19 0 15 3276342 
+54.149.190.233 1 1 3352 20191017053853
+36.99.136.138 2 6 532451 20191024130954
+36.56.148.54 1 1 3315 20191017195505
+14.192.212.144 0 1 197826 
+213.127.46.111 0 1 172919 
+66.249.88.159 1 18 1300763 20191023144544
+31.10.171.241 0 1 277318 
+37.47.184.112 1 4 6429 20191023163551
+84.80.28.112 0 1 155439 
+34.221.157.26 1 1 3346 20191001231632
+111.7.100.26 3 36 5425701 20191003193210
+46.119.122.97 18 18 190908 20191005133018
+145.53.40.8 0 1 84707 
+185.17.149.135 1 1 10606 20191021043552
+66.249.88.175 1 6 546404 20191007162944
+100.11.238.126 1 1 3342 20191001165510
+64.21.98.45 1 1 3124 20191006135817
+50.201.13.222 1 1 10606 20191009000542
+78.191.11.99 1 1 3342 20191014160838
+66.249.80.13 1 9 260018 20191023144545
+82.80.249.194 0 12 2071136 
+129.78.110.131 2 2 0 20191008114035
+178.39.116.104 0 5 1135590 
+91.15.214.80 1 5 233423 20191028023145
+34.212.229.250 1 1 3349 20191024052746
+145.239.65.53 1 1 10754 20191021044633
+51.15.35.105 6 6 64746 20191031125256
+154.160.22.137 0 1 147899 
+54.189.0.104 1 1 3342 20191016062028
+159.138.152.205 1 1 3478 20191024142705
+212.237.30.203 2 2 5633 20191001165533
+88.147.174.164 1 1 3349 20191025002257
+180.115.225.91 0 1 172919 
+89.17.232.123 1 1 2892 20191007125625
+79.101.141.93 0 1 244533 
+66.249.93.202 1 1 3349 20191001203757
+82.27.24.167 0 1 140746 
+67.170.138.77 0 1 177108 
+68.9.72.239 0 1 180004 
+138.16.101.235 2 53 82781040 20191015174322
+159.138.154.39 1 1 4450 20191024143611
+51.15.113.160 8 8 86328 20191022134017
+91.242.162.47 1 1 3124 20191030233747
+94.61.76.83 1 1 10606 20191020165544
+186.188.159.198 2 57 90844309 20191024222747
+159.138.156.125 1 1 2635 20191024150647
+39.40.22.42 1 1 10606 20191002140149
+66.249.89.207 1 1 53 20191027030218
+144.76.168.111 1 1 9426 20191008084627
+207.99.15.85 3 3 9944 20191004162426
+34.212.132.194 1 1 3346 20191020050310
+88.230.146.230 1 7 41902 20191022213003
+66.249.89.59 1 1 53 20191027033720
+52.12.232.231 1 1 3342 20191006025319
+197.242.157.110 2 2 22512 20191030122728
+31.13.127.10 0 1 1370 
+37.47.6.170 2 5 9771 20191008211952
+154.127.57.151 2 2 21619 20191030062709
+5.173.242.127 3 10 19543733 20191024000844
+37.201.171.136 2 40 5841261 20191002193301
+144.36.120.99 1 4 6429 20191002173107
+94.228.85.166 2 2 21212 20191012052455
+5.173.177.48 1 4 6429 20191031162736
+167.86.70.51 2 2 5633 20191030100247
+172.241.83.65 1 1 3342 20191015000356
+37.47.36.242 1 7 41902 20191009153353
+188.146.105.111 1 4 6436 20191010111629
+217.69.143.217 1 1 3342 20191010035548
+178.194.138.241 2 29 4517126 20191018172952
+85.221.140.97 3 21 3053171 20191019070539
+52.32.6.191 1 1 3346 20191006060016
+34.217.81.134 1 1 3346 20191027052800
+77.203.1.127 1 1 10606 20191015050154
+64.246.165.50 1 1 3349 20191004185610
+142.93.74.68 2 2 22512 20191031002739
+179.210.33.154 1 4 6429 20191009105409
+148.251.151.235 1 1 10606 20191015204131
+3.211.67.88 0 1 19491715 
+106.59.35.78 1 1 2965 20191024014128
+207.99.15.83 1 1 3342 20191028225107
+167.71.110.235 4 4 42868 20191005002939
+82.117.91.23 1 1 3346 20191017095923
+5.9.106.81 1 1 9426 20191022091026
+46.251.96.11 2 13 1013517 20191009191708
+66.102.6.107 1 11 1113212 20191014034156
+198.199.76.240 2 2 3342 20191002093030
+52.13.84.255 1 1 3342 20191020024800
+46.101.94.163 2 2 22512 20191031002738
+111.7.100.20 0 1 195224 
+68.183.52.215 1 1 3346 20191015021209
+5.203.177.71 0 1 136812 
+159.138.156.95 1 1 3382 20191018225456
+89.228.228.220 3 44 6020659 20191018201621
+145.255.22.89 0 1 196911 
+82.80.249.204 0 9 1501595 
+37.47.155.73 1 7 41903 20191017075730
+151.106.11.180 1 1 3346 20191029153357
+83.144.108.62 0 1 244133 
+190.236.197.177 0 1 244533 
+51.38.88.238 2 2 21212 20191006124111
+67.227.39.122 1 1 3346 20191004151229
+177.137.228.51 1 1 10606 20191026150819
+82.80.249.163 0 13 2526168 
+123.252.214.123 1 1 3342 20191003201457
+54.202.209.139 1 1 3346 20191026053953
+66.249.81.79 21 39 2024731 20191025192331
+188.146.99.205 1 7 41903 20191014100805
+66.102.8.15 0 2 230812 
+35.176.249.218 1 1 2291 20191020141054
+66.249.88.131 2 30 3745883 20191028224324
+95.46.124.204 5 59 10373795 20191031120719
+82.80.244.51 0 1 151515 
+194.61.24.29 2 2 21212 20191011110321
+34.211.43.167 1 1 3346 20191010061237
+104.238.180.234 1 1 10717 20191023143259
+173.252.87.13 0 17 4196685 
+66.249.80.15 0 7 350595 
+82.80.249.155 0 7 1467099 
+213.192.71.175 5 5 15980 20191014120732
+82.80.249.164 0 14 2565861 
+77.222.99.214 1 1 10606 20191020010542
+185.253.96.5 1 1 10717 20191018220948
+66.249.93.204 1 1 3349 20191003143526
+185.175.33.160 1 1 10606 20191027180846
+51.77.246.205 1 4 6436 20191024045048
+120.17.228.247 2 9 272911 20191025062949
+66.249.81.77 23 40 1832268 20191026122848
+116.55.173.15 0 1 125715 
+35.162.110.224 1 1 3346 20191019070407
+216.176.176.168 2 2 6684 20191022203000
+188.146.64.40 1 7 41904 20191017182529
+108.50.171.153 0 1 197826 
+84.245.255.81 0 1 153191 
+82.20.7.212 0 1 172919 
+66.102.8.13 0 4 265620 
+98.127.136.222 0 1 155439 
+87.171.210.65 9 108 17855515 20191005180254
+58.217.44.141 1 1 2796 20191018050615
+72.69.30.223 0 1 153191 
+34.220.240.209 1 1 3346 20191008060730
+85.221.144.130 1 4 6429 20191021175902
+163.172.251.150 1 1 10717 20191009081235
+64.233.172.81 0 1 1102 
+159.138.128.68 1 1 3910 20191024143750
+66.102.6.109 1 10 619664 20191009174029
+213.166.69.21 0 1 180004 
+196.52.84.45 2 2 22512 20191030122726
+23.105.110.216 1 1 10643 20191030001944
+5.188.62.5 3 3 10030 20191023044453
+194.60.250.40 1 6 38993076 20191008134623
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20191001 34 79 6000283 19
+20191002 170 425 185900055 18
+20191003 117 254 163974488 32
+20191004 45 140 17921797 24
+20191005 73 570 72020620 21
+20191006 30 154 58561171 19
+20191007 46 300 81814347 18
+20191008 60 357 89909892 24
+20191009 97 185 159769402 22
+20191010 27 125 300544597 19
+20191011 84 376 399839239 25
+20191012 30 214 30299439 15
+20191013 114 804 254436812 18
+20191014 59 482 241332891 18
+20191015 36 249 188210327 16
+20191016 18 51 1811305 14
+20191017 48 114 64096797 31
+20191018 45 163 20574255 27
+20191019 61 164 133881364 20
+20191020 19 40 20024822 14
+20191021 16 42 2392706 13
+20191022 35 193 25481478 17
+20191023 76 130 93754023 23
+20191024 134 573 611195666 47
+20191025 178 819 137793469 28
+20191026 38 114 67932592 23
+20191027 63 141 148350674 24
+20191028 51 216 26875245 22
+20191029 53 274 38687847 18
+20191030 67 245 32850311 33
+20191031 27 65 6430737 20
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 577
+15mn-30mn 11
+30mn-1h 15
+30s-2mn 33
+2mn-5mn 28
+5mn-15mn 13
+1h+ 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 61
+/ 757 4804636 522 450
+/index.php/it-will-shift-again-molting-stage/ 59 216456 7 18
+/index.php/bio/ 58 252218 9 13
+/index.php/watch-my-back/ 53 300411 10 12
+/index.php/not-a-gift-given-but-a-choice-made/ 50 232523 5 8
+/index.php/portfolio/ 47 118545 4 16
+/index.php/this-what-left-behind-haunts-me/ 47 254131 4 11
+/index.php/celly/ 46 207822 19 19
+/index.php/roses-ep/ 41 197757 7 8
+/index.php/enter-the-heat/ 39 191311 6 6
+/index.php/a-piece-of-land-however-not-complete/ 39 115002 5 5
+/index.php/overly-sexy-smart-edgy-and-dangerous/ 37 156812 2 5
+/index.php/contact/ 37 117324 2 13
+/index.php/poetbot-v11/ 34 144383 7 5
+/index.php/public-space---neon-lights/ 33 105911 2 2
+/index.php/razor-sharp/ 33 108016 1 0
+/index.php/origins-of-fake/ 32 108526 1 1
+/index.php/exhibitions/ 32 141063 3 9
+/index.php/overwrite-discard-save-both/ 30 108918 1 0
+/index.php/statement/ 30 114108 1 4
+/index.php/polish-water/ 29 107812 0 0
+/index.php/upgraded-stones/ 29 93309 1 1
+/index.php/calm-days/ 29 101086 2 1
+/index.php/collaborative/girlhood--dziewczynstwo/ 28 110699 2 3
+/index.php/escape-plan/ 28 83423 0 2
+/index.php/overwrite-discard-save-both 2 16093 1 1
+/index.php/roses-ep 2 17897 1 1
+/index.php/celly 1 9537 1 0
+/sitemap.xml 2 9284 0 0
+/index.php/contact 2 4858 2 2
+/index.php/razor-sharp 3 15095 3 3
+/index.php/workshops-in-dzop-method 1 3382 1 1
+/index.php/statement 1 3424 1 1
+/index.php/calm-days 1 11501 0 1
+/index.php/upgraded-stones 2 12127 1 1
+/index.php/polish-water 2 14225 2 1
+/ndxzstudio/ 3 7587 0 1
+/index.php/untitled/ 25 80923 1 4
+/index.php/origins-of-fake 1 9460 0 0
+/index.php/workshops-in-dzop-method/ 23 92007 4 5
+/poetbotBackend/alg.php 11 1807 0 7
+/index.php/untitled 2 11867 1 1
+/index.php/collaborative/smoke/ 25 89175 1 1
+/index.php/doormats 2 12788 1 1
+/index.php/watch-my-back 2 20624 1 2
+/index.php/circulating-matter 3 15615 2 2
+/index.php/escape-plan 2 12281 1 1
+/index.php/doormats/ 27 90333 1 2
+/poetbot/ 19 60759 16 10
+/index.php/collaborative 2 4542 2 2
+/index.php/exhibitions 1 3735 1 1
+/index.php/digital-autograph 1 9692 0 0
+/google32ef266fbb4161c9.html 2 106 2 2
+/index.php/collaborative/ 19 64862 0 2
+/index.php/circulating-matter/ 26 84410 2 2
+/index.php/this-what-left-behind-haunts-me 1 4450 1 1
+/index.php/poetbot-v11 2 7818 2 2
+/google33e6163e017c9e32.html 2 106 2 2
+/index.php/portfolio 2 4733 2 2
+/index.php/digital-autograph/ 28 93103 1 1
+/index.php/autonomy-congress/ 24 94045 2 4
+END_SIDER
